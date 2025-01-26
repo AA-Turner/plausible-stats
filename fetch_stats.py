@@ -32,14 +32,12 @@ OUTPUT_DIR.mkdir(exist_ok=True, parents=True)
 
 def fetch_export(http: urllib3.PoolManager, prefix: str) -> Path | None:
     yesterday = (datetime.now(UTC).date() - timedelta(days=1)).isoformat()
-    params = urlencode(
-        {
-            'filters': f'[["contains","event:page",["/{prefix}/"]]]',
-            'period': '1d',
-            'date': yesterday,
-        }
-    )
-    url = f'https://plausible.io/{SITE_ID}/export?{params}'
+    params = {
+        'period': 'day',
+        'date': yesterday,
+        'filters': f'[["contains","event:page",["/{prefix}/"]]]',
+    }
+    url = f'https://plausible.io/{SITE_ID}/export?{urlencode(params)}'
     print(f'Fetching Plausible statistics for {SITE_ID}/{prefix}/ from {yesterday}...')
     resp = http.request('GET', url, timeout=30, headers=HEADERS)
     if resp.status != 200:
