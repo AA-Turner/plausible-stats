@@ -1,0 +1,23 @@
+# Binary data types
+*.zip binary
+
+# Unix-style line endings
+[attr]unix text eol=lf
+
+*.json  unix
+*.py    unix
+*.rst   unix
+*.toml  unix
+
+# Language aware diff headers
+*.py   diff=python
+
+# Generated files
+# https://github.com/github/linguist/blob/master/docs/overrides.md
+#
+# To always hide generated files in local diffs, mark them as binary:
+# $ git config diff.generated.binary true
+#
+[attr]generated linguist-generated=true diff=generated
+
+stats/**/*.js  generated
