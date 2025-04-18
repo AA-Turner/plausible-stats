@@ -37,7 +37,7 @@ def fetch_export(http: urllib3.PoolManager, prefix: str) -> Path | None:
         'date': yesterday,
         'filters': f'[["contains","event:page",["/{prefix}/"]]]',
     }
-    url = f'https://plausible.io/{SITE_ID}/export?{urlencode(params)}'
+    url = f'https://analytics.python.org/{SITE_ID}/export?{urlencode(params)}'
     print(f'Fetching Plausible statistics for {SITE_ID}/{prefix}/ from {yesterday}...')
     resp = http.request('GET', url, timeout=30, headers=HEADERS)
     if resp.status != 200:
