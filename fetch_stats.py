@@ -50,6 +50,7 @@ SITES = {
         'ja',
         'pt-br',
     ),
+    'peps.python.org': (),
     # 'pypi.org': (),
     # 'blog.pypi.org': (),
 }
