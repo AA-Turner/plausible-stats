@@ -1,0 +1,602 @@
+[
+{
+"name": "/downloads/",
+"unique_exits": "180618",
+"total_exits": "186886",
+"exit_rate": "53.0"
+},
+{
+"name": "/",
+"unique_exits": "92179",
+"total_exits": "95361",
+"exit_rate": "48.9"
+},
+{
+"name": "/downloads/windows/",
+"unique_exits": "48229",
+"total_exits": "49622",
+"exit_rate": "49.8"
+},
+{
+"name": "/downloads/release/python-3133/",
+"unique_exits": "44370",
+"total_exits": "45104",
+"exit_rate": "52.5"
+},
+{
+"name": "/downloads/release/python-3922/",
+"unique_exits": "7013",
+"total_exits": "7044",
+"exit_rate": "30.3"
+},
+{
+"name": "/about/gettingstarted/",
+"unique_exits": "6431",
+"total_exits": "6531",
+"exit_rate": "60.0"
+},
+{
+"name": "/downloads/macos/",
+"unique_exits": "6338",
+"total_exits": "6449",
+"exit_rate": "45.3"
+},
+{
+"name": "/downloads/release/python-3100/",
+"unique_exits": "4889",
+"total_exits": "5014",
+"exit_rate": "64.2"
+},
+{
+"name": "/search/",
+"unique_exits": "4858",
+"total_exits": "4999",
+"exit_rate": "30.0"
+},
+{
+"name": "/doc/",
+"unique_exits": "4680",
+"total_exits": "4762",
+"exit_rate": "50.4"
+},
+{
+"name": "/downloads/release/python-3110/",
+"unique_exits": "4321",
+"total_exits": "4409",
+"exit_rate": "63.2"
+},
+{
+"name": "/downloads/release/python-31210/",
+"unique_exits": "4104",
+"total_exits": "4184",
+"exit_rate": "67.2"
+},
+{
+"name": "/downloads/release/python-31112/",
+"unique_exits": "3181",
+"total_exits": "3203",
+"exit_rate": "25.5"
+},
+{
+"name": "/downloads/release/python-3120/",
+"unique_exits": "2758",
+"total_exits": "2805",
+"exit_rate": "58.0"
+},
+{
+"name": "/downloads/source/",
+"unique_exits": "2551",
+"total_exits": "2581",
+"exit_rate": "41.8"
+},
+{
+"name": "/downloads/release/python-3119/",
+"unique_exits": "2450",
+"total_exits": "2506",
+"exit_rate": "71.7"
+},
+{
+"name": "/downloads/release/python-31011/",
+"unique_exits": "2133",
+"total_exits": "2198",
+"exit_rate": "71.6"
+},
+{
+"name": "/downloads/release/python-3106/",
+"unique_exits": "2038",
+"total_exits": "2118",
+"exit_rate": "72.8"
+},
+{
+"name": "/downloads/release/python-3132/",
+"unique_exits": "1901",
+"total_exits": "1941",
+"exit_rate": "53.7"
+},
+{
+"name": "/psf-landing/",
+"unique_exits": "1875",
+"total_exits": "1903",
+"exit_rate": "30.4"
+},
+{
+"name": "/downloads/release/python-390/",
+"unique_exits": "1718",
+"total_exits": "1758",
+"exit_rate": "57.6"
+},
+{
+"name": "/downloads/release/python-31017/",
+"unique_exits": "1515",
+"total_exits": "1520",
+"exit_rate": "24.7"
+},
+{
+"name": "/downloads/release/python-3130/",
+"unique_exits": "1496",
+"total_exits": "1504",
+"exit_rate": "62.4"
+},
+{
+"name": "/about/",
+"unique_exits": "1289",
+"total_exits": "1295",
+"exit_rate": "30.5"
+},
+{
+"name": "/download/other/",
+"unique_exits": "1289",
+"total_exits": "1300",
+"exit_rate": "43.2"
+},
+{
+"name": "/downloads/release/python-3109/",
+"unique_exits": "1253",
+"total_exits": "1288",
+"exit_rate": "68.3"
+},
+{
+"name": "/doc/versions/",
+"unique_exits": "1235",
+"total_exits": "1252",
+"exit_rate": "74.4"
+},
+{
+"name": "/downloads/release/python-380/",
+"unique_exits": "1204",
+"total_exits": "1212",
+"exit_rate": "56.4"
+},
+{
+"name": "/downloads/release/python-3810/",
+"unique_exits": "1175",
+"total_exits": "1195",
+"exit_rate": "67.7"
+},
+{
+"name": "/jobs/",
+"unique_exits": "1155",
+"total_exits": "1185",
+"exit_rate": "39.5"
+},
+{
+"name": "/community/",
+"unique_exits": "993",
+"total_exits": "1004",
+"exit_rate": "36.1"
+},
+{
+"name": "/downloads/release/python-3913/",
+"unique_exits": "938",
+"total_exits": "967",
+"exit_rate": "68.5"
+},
+{
+"name": "/downloads/release/python-3140b1/",
+"unique_exits": "894",
+"total_exits": "897",
+"exit_rate": "43.6"
+},
+{
+"name": "/downloads/release/python-3123/",
+"unique_exits": "877",
+"total_exits": "894",
+"exit_rate": "60.5"
+},
+{
+"name": "/about/apps/",
+"unique_exits": "858",
+"total_exits": "865",
+"exit_rate": "47.9"
+},
+{
+"name": "/downloads/release/python-3129/",
+"unique_exits": "849",
+"total_exits": "859",
+"exit_rate": "64.1"
+},
+{
+"name": "/downloads/release/python-2718/",
+"unique_exits": "836",
+"total_exits": "853",
+"exit_rate": "72.6"
+},
+{
+"name": "/shell/",
+"unique_exits": "685",
+"total_exits": "704",
+"exit_rate": "68.1"
+},
+{
+"name": "/downloads/release/python-370/",
+"unique_exits": "638",
+"total_exits": "642",
+"exit_rate": "54.9"
+},
+{
+"name": "/downloads/release/python-3124/",
+"unique_exits": "633",
+"total_exits": "640",
+"exit_rate": "56.7"
+},
+{
+"name": "/downloads/release/python-31111/",
+"unique_exits": "631",
+"total_exits": "629",
+"exit_rate": "24.0"
+},
+{
+"name": "/downloads/release/python-31010/",
+"unique_exits": "606",
+"total_exits": "616",
+"exit_rate": "67.0"
+},
+{
+"name": "/downloads/release/python-3820/",
+"unique_exits": "587",
+"total_exits": "591",
+"exit_rate": "27.6"
+},
+{
+"name": "/getit/",
+"unique_exits": "575",
+"total_exits": "579",
+"exit_rate": "56.4"
+},
+{
+"name": "/downloads/release/python-3128/",
+"unique_exits": "556",
+"total_exits": "565",
+"exit_rate": "63.2"
+},
+{
+"name": "/downloads/release/python-3118/",
+"unique_exits": "555",
+"total_exits": "569",
+"exit_rate": "65.4"
+},
+{
+"name": "/downloads/release/python-31016/",
+"unique_exits": "516",
+"total_exits": "514",
+"exit_rate": "24.4"
+},
+{
+"name": "/downloads/release/python-3114/",
+"unique_exits": "481",
+"total_exits": "495",
+"exit_rate": "61.0"
+},
+{
+"name": "/download/pre-releases/",
+"unique_exits": "468",
+"total_exits": "471",
+"exit_rate": "21.0"
+},
+{
+"name": "/downloads/release/python-31013/",
+"unique_exits": "461",
+"total_exits": "461",
+"exit_rate": "25.7"
+},
+{
+"name": "/downloads/release/python-379/",
+"unique_exits": "457",
+"total_exits": "465",
+"exit_rate": "61.7"
+},
+{
+"name": "/community/logos/",
+"unique_exits": "436",
+"total_exits": "439",
+"exit_rate": "68.9"
+},
+{
+"name": "/download/releases/2.7/",
+"unique_exits": "363",
+"total_exits": "369",
+"exit_rate": "58.7"
+},
+{
+"name": "/downloads/release/python-31110/",
+"unique_exits": "361",
+"total_exits": "362",
+"exit_rate": "25.3"
+},
+{
+"name": "/downloads/release/python-3127/",
+"unique_exits": "358",
+"total_exits": "364",
+"exit_rate": "67.2"
+},
+{
+"name": "/downloads/release/python-3116/",
+"unique_exits": "341",
+"total_exits": "355",
+"exit_rate": "73.7"
+},
+{
+"name": "/blogs/",
+"unique_exits": "340",
+"total_exits": "351",
+"exit_rate": "34.9"
+},
+{
+"name": "/download/releases/",
+"unique_exits": "327",
+"total_exits": "329",
+"exit_rate": "18.2"
+},
+{
+"name": "/downloads/release/python-3117/",
+"unique_exits": "317",
+"total_exits": "324",
+"exit_rate": "66.3"
+},
+{
+"name": "/downloads/release/python-31012/",
+"unique_exits": "316",
+"total_exits": "319",
+"exit_rate": "25.9"
+},
+{
+"name": "/downloads/release/python-3131/",
+"unique_exits": "297",
+"total_exits": "305",
+"exit_rate": "55.5"
+},
+{
+"name": "/downloads/release/python-368/",
+"unique_exits": "287",
+"total_exits": "295",
+"exit_rate": "59.8"
+},
+{
+"name": "/downloads/release/python-3126/",
+"unique_exits": "279",
+"total_exits": "289",
+"exit_rate": "60.7"
+},
+{
+"name": "/downloads/release/python-31015/",
+"unique_exits": "271",
+"total_exits": "270",
+"exit_rate": "23.7"
+},
+{
+"name": "/downloads/release/python-3125/",
+"unique_exits": "270",
+"total_exits": "277",
+"exit_rate": "52.8"
+},
+{
+"name": "/downloads/release/python-360/",
+"unique_exits": "269",
+"total_exits": "275",
+"exit_rate": "48.4"
+},
+{
+"name": "/doc/essays/blurb/",
+"unique_exits": "266",
+"total_exits": "269",
+"exit_rate": "79.8"
+},
+{
+"name": "/downloads/release/python-3115/",
+"unique_exits": "248",
+"total_exits": "252",
+"exit_rate": "67.4"
+},
+{
+"name": "/downloads/release/python-3105/",
+"unique_exits": "237",
+"total_exits": "245",
+"exit_rate": "69.2"
+},
+{
+"name": "/downloads/release/python-31014/",
+"unique_exits": "221",
+"total_exits": "219",
+"exit_rate": "28.1"
+},
+{
+"name": "/downloads/release/python-3122/",
+"unique_exits": "219",
+"total_exits": "220",
+"exit_rate": "58.8"
+},
+{
+"name": "/downloads/release/python-3111/",
+"unique_exits": "215",
+"total_exits": "226",
+"exit_rate": "58.4"
+},
+{
+"name": "/downloads/release/python-3717/",
+"unique_exits": "213",
+"total_exits": "210",
+"exit_rate": "27.3"
+},
+{
+"name": "/downloads/release/python-3921/",
+"unique_exits": "205",
+"total_exits": "208",
+"exit_rate": "23.9"
+},
+{
+"name": "/events/",
+"unique_exits": "197",
+"total_exits": "199",
+"exit_rate": "40.3"
+},
+{
+"name": "/downloads/release/python-3112/",
+"unique_exits": "187",
+"total_exits": "191",
+"exit_rate": "62.6"
+},
+{
+"name": "/downloads/release/python-396/",
+"unique_exits": "186",
+"total_exits": "195",
+"exit_rate": "69.9"
+},
+{
+"name": "/success-stories/",
+"unique_exits": "185",
+"total_exits": "187",
+"exit_rate": "28.6"
+},
+{
+"name": "/downloads/release/python-3121/",
+"unique_exits": "175",
+"total_exits": "183",
+"exit_rate": "54.3"
+},
+{
+"name": "/downloads/release/python-377/",
+"unique_exits": "172",
+"total_exits": "192",
+"exit_rate": "28.9"
+},
+{
+"name": "/about/help/",
+"unique_exits": "158",
+"total_exits": "160",
+"exit_rate": "46.1"
+},
+{
+"name": "/downloads/release/python-3113/",
+"unique_exits": "157",
+"total_exits": "157",
+"exit_rate": "61.3"
+},
+{
+"name": "/downloads/release/python-374/",
+"unique_exits": "152",
+"total_exits": "154",
+"exit_rate": "51.2"
+},
+{
+"name": "/downloads/release/python-3819/",
+"unique_exits": "151",
+"total_exits": "154",
+"exit_rate": "32.6"
+},
+{
+"name": "/downloads/release/python-3104/",
+"unique_exits": "147",
+"total_exits": "147",
+"exit_rate": "64.8"
+},
+{
+"name": "/download",
+"unique_exits": "142",
+"total_exits": "145",
+"exit_rate": "36.7"
+},
+{
+"name": "/downloads/release/python-3107/",
+"unique_exits": "142",
+"total_exits": "148",
+"exit_rate": "69.2"
+},
+{
+"name": "/downloads/release/python-382/",
+"unique_exits": "139",
+"total_exits": "141",
+"exit_rate": "53.8"
+},
+{
+"name": "/doc/av/",
+"unique_exits": "136",
+"total_exits": "137",
+"exit_rate": "53.5"
+},
+{
+"name": "/download/alternatives/",
+"unique_exits": "136",
+"total_exits": "139",
+"exit_rate": "46.5"
+},
+{
+"name": "/downloads/release/python-3920/",
+"unique_exits": "135",
+"total_exits": "137",
+"exit_rate": "23.4"
+},
+{
+"name": "/getit/windows/",
+"unique_exits": "135",
+"total_exits": "135",
+"exit_rate": "53.1"
+},
+{
+"name": "/downloads/release/python-385/",
+"unique_exits": "132",
+"total_exits": "134",
+"exit_rate": "55.6"
+},
+{
+"name": "/downloads/release/python-3912/",
+"unique_exits": "126",
+"total_exits": "128",
+"exit_rate": "62.4"
+},
+{
+"name": "/downloads/release/python-2716/",
+"unique_exits": "125",
+"total_exits": "128",
+"exit_rate": "64.3"
+},
+{
+"name": "/downloads/release/python-399/",
+"unique_exits": "125",
+"total_exits": "124",
+"exit_rate": "68.5"
+},
+{
+"name": "/downloads/release/python-3919/",
+"unique_exits": "124",
+"total_exits": "124",
+"exit_rate": "28.1"
+},
+{
+"name": "/downloads/release/python-3910/",
+"unique_exits": "120",
+"total_exits": "124",
+"exit_rate": "65.6"
+},
+{
+"name": "/downloads/release/python-397/",
+"unique_exits": "119",
+"total_exits": "124",
+"exit_rate": "55.6"
+},
+{
+"name": "/downloads/release/python-3108/",
+"unique_exits": "117",
+"total_exits": "119",
+"exit_rate": "59.5"
+}
+]
