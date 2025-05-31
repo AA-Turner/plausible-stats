@@ -1,0 +1,530 @@
+[
+{
+"name": "/en/latest/tutorials/installing-packages/",
+"unique_entrances": "7912",
+"total_entrances": "8101",
+"visit_duration": "65"
+},
+{
+"name": "/en/latest/guides/installing-using-pip-and-virtual-environments/",
+"unique_entrances": "1856",
+"total_entrances": "1913",
+"visit_duration": "37"
+},
+{
+"name": "/en/latest/guides/writing-pyproject-toml/",
+"unique_entrances": "1463",
+"total_entrances": "1512",
+"visit_duration": "99"
+},
+{
+"name": "/en/latest/tutorials/packaging-projects/",
+"unique_entrances": "1380",
+"total_entrances": "1425",
+"visit_duration": "115"
+},
+{
+"name": "/en/latest/guides/tool-recommendations/",
+"unique_entrances": "938",
+"total_entrances": "950",
+"visit_duration": "65"
+},
+{
+"name": "/en/latest/",
+"unique_entrances": "629",
+"total_entrances": "645",
+"visit_duration": "109"
+},
+{
+"name": "/en/latest/guides/distributing-packages-using-setuptools/",
+"unique_entrances": "257",
+"total_entrances": "265",
+"visit_duration": "169"
+},
+{
+"name": "/en/latest/glossary/",
+"unique_entrances": "256",
+"total_entrances": "261",
+"visit_duration": "141"
+},
+{
+"name": "/en/latest/key_projects/",
+"unique_entrances": "204",
+"total_entrances": "208",
+"visit_duration": "181"
+},
+{
+"name": "/en/latest/overview/",
+"unique_entrances": "161",
+"total_entrances": "162",
+"visit_duration": "238"
+},
+{
+"name": "/en/latest/discussions/src-layout-vs-flat-layout/",
+"unique_entrances": "141",
+"total_entrances": "143",
+"visit_duration": "92"
+},
+{
+"name": "/en/latest/tutorials/managing-dependencies/",
+"unique_entrances": "119",
+"total_entrances": "119",
+"visit_duration": "150"
+},
+{
+"name": "/en/latest/specifications/pyproject-toml/",
+"unique_entrances": "116",
+"total_entrances": "123",
+"visit_duration": "162"
+},
+{
+"name": "/en/latest/guides/installing-using-linux-tools/",
+"unique_entrances": "115",
+"total_entrances": "115",
+"visit_duration": "56"
+},
+{
+"name": "/en/latest/specifications/dependency-specifiers/",
+"unique_entrances": "111",
+"total_entrances": "111",
+"visit_duration": "110"
+},
+{
+"name": "/en/latest/specifications/version-specifiers/",
+"unique_entrances": "95",
+"total_entrances": "99",
+"visit_duration": "15"
+},
+{
+"name": "/en/latest/guides/hosting-your-own-index/",
+"unique_entrances": "87",
+"total_entrances": "88",
+"visit_duration": "84"
+},
+{
+"name": "/en/latest/specifications/entry-points/",
+"unique_entrances": "83",
+"total_entrances": "83",
+"visit_duration": "74"
+},
+{
+"name": "/en/latest/guides/creating-command-line-tools/",
+"unique_entrances": "81",
+"total_entrances": "84",
+"visit_duration": "26"
+},
+{
+"name": "/en/latest/guides/packaging-namespace-packages/",
+"unique_entrances": "75",
+"total_entrances": "77",
+"visit_duration": "38"
+},
+{
+"name": "/en/latest/discussions/versioning/",
+"unique_entrances": "74",
+"total_entrances": "75",
+"visit_duration": "25"
+},
+{
+"name": "/en/latest/discussions/setup-py-deprecated/",
+"unique_entrances": "67",
+"total_entrances": "68",
+"visit_duration": "159"
+},
+{
+"name": "/en/latest/guides/section-build-and-publish/",
+"unique_entrances": "60",
+"total_entrances": "60",
+"visit_duration": "308"
+},
+{
+"name": "/en/latest/guides/",
+"unique_entrances": "55",
+"total_entrances": "55",
+"visit_duration": "121"
+},
+{
+"name": "/en/latest/guides/section-install/",
+"unique_entrances": "52",
+"total_entrances": "52",
+"visit_duration": "61"
+},
+{
+"name": "/en/latest/specifications/pypirc/",
+"unique_entrances": "51",
+"total_entrances": "51",
+"visit_duration": "81"
+},
+{
+"name": "/en/latest/tutorials/",
+"unique_entrances": "51",
+"total_entrances": "51",
+"visit_duration": "326"
+},
+{
+"name": "/en/latest/specifications/core-metadata/",
+"unique_entrances": "46",
+"total_entrances": "46",
+"visit_duration": "280"
+},
+{
+"name": "/en/latest/flow/",
+"unique_entrances": "45",
+"total_entrances": "46",
+"visit_duration": "81"
+},
+{
+"name": "/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/",
+"unique_entrances": "43",
+"total_entrances": "46",
+"visit_duration": "97"
+},
+{
+"name": "/en/latest/specifications/inline-script-metadata/",
+"unique_entrances": "43",
+"total_entrances": "43",
+"visit_duration": "49"
+},
+{
+"name": "/en/latest/specifications/",
+"unique_entrances": "42",
+"total_entrances": "42",
+"visit_duration": "251"
+},
+{
+"name": "/en/latest/guides/modernize-setup-py-project/",
+"unique_entrances": "39",
+"total_entrances": "40",
+"visit_duration": "343"
+},
+{
+"name": "/en/latest/guides/using-testpypi/",
+"unique_entrances": "38",
+"total_entrances": "38",
+"visit_duration": "24"
+},
+{
+"name": "/en/latest/specifications/platform-compatibility-tags/",
+"unique_entrances": "37",
+"total_entrances": "39",
+"visit_duration": "95"
+},
+{
+"name": "/en/latest/discussions/package-formats/",
+"unique_entrances": "34",
+"total_entrances": "34",
+"visit_duration": "305"
+},
+{
+"name": "/en/latest/guides/creating-and-discovering-plugins/",
+"unique_entrances": "33",
+"total_entrances": "33",
+"visit_duration": "91"
+},
+{
+"name": "/en/latest/search/",
+"unique_entrances": "30",
+"total_entrances": "31",
+"visit_duration": "156"
+},
+{
+"name": "/en/latest/specifications/pylock-toml/",
+"unique_entrances": "30",
+"total_entrances": "31",
+"visit_duration": "62"
+},
+{
+"name": "/en/latest/guides/using-manifest-in/",
+"unique_entrances": "28",
+"total_entrances": "29",
+"visit_duration": "228"
+},
+{
+"name": "/en/latest/specifications/dependency-groups/",
+"unique_entrances": "28",
+"total_entrances": "29",
+"visit_duration": "105"
+},
+{
+"name": "/en/latest/discussions/install-requires-vs-requirements/",
+"unique_entrances": "27",
+"total_entrances": "28",
+"visit_duration": "117"
+},
+{
+"name": "/en/latest/discussions/single-source-version/",
+"unique_entrances": "27",
+"total_entrances": "29",
+"visit_duration": "222"
+},
+{
+"name": "/en/latest/guides/analyzing-pypi-package-downloads/",
+"unique_entrances": "27",
+"total_entrances": "27",
+"visit_duration": "57"
+},
+{
+"name": "/en/latest/guides/installing-stand-alone-command-line-tools/",
+"unique_entrances": "26",
+"total_entrances": "28",
+"visit_duration": "156"
+},
+{
+"name": "/en/latest/discussions/deploying-python-applications/",
+"unique_entrances": "25",
+"total_entrances": "25",
+"visit_duration": "62"
+},
+{
+"name": "/en/latest/guides/installing-scientific-packages/",
+"unique_entrances": "25",
+"total_entrances": "26",
+"visit_duration": "57"
+},
+{
+"name": "/en/latest/guides/packaging-binary-extensions/",
+"unique_entrances": "25",
+"total_entrances": "25",
+"visit_duration": "35"
+},
+{
+"name": "/en/latest/discussions/pip-vs-easy-install/",
+"unique_entrances": "24",
+"total_entrances": "24",
+"visit_duration": "425"
+},
+{
+"name": "/en/latest/specifications/externally-managed-environments/",
+"unique_entrances": "24",
+"total_entrances": "24",
+"visit_duration": "32"
+},
+{
+"name": "/en/latest/guides/index-mirrors-and-caches/",
+"unique_entrances": "21",
+"total_entrances": "21",
+"visit_duration": "39"
+},
+{
+"name": "/en/latest/guides/installing-using-virtualenv/",
+"unique_entrances": "21",
+"total_entrances": "21",
+"visit_duration": "31"
+},
+{
+"name": "/en/latest/guides/making-a-pypi-friendly-readme/",
+"unique_entrances": "20",
+"total_entrances": "20",
+"visit_duration": "178"
+},
+{
+"name": "/en/latest/specifications/binary-distribution-format/",
+"unique_entrances": "17",
+"total_entrances": "17",
+"visit_duration": "53"
+},
+{
+"name": "/en/latest/discussions/distribution-package-vs-import-package/",
+"unique_entrances": "16",
+"total_entrances": "17",
+"visit_duration": "44"
+},
+{
+"name": "/en/latest/specifications/name-normalization/",
+"unique_entrances": "14",
+"total_entrances": "15",
+"visit_duration": "5"
+},
+{
+"name": "/en/latest/specifications/recording-installed-packages/",
+"unique_entrances": "14",
+"total_entrances": "14",
+"visit_duration": "2"
+},
+{
+"name": "/en/latest/discussions/",
+"unique_entrances": "12",
+"total_entrances": "12",
+"visit_duration": "336"
+},
+{
+"name": "/en/latest/specifications/simple-repository-api/",
+"unique_entrances": "11",
+"total_entrances": "11",
+"visit_duration": "24"
+},
+{
+"name": "/en/latest/guides/single-sourcing-package-version/",
+"unique_entrances": "9",
+"total_entrances": "9",
+"visit_duration": "1"
+},
+{
+"name": "/ja/latest/tutorials/installing-packages/",
+"unique_entrances": "9",
+"total_entrances": "9",
+"visit_duration": "1151"
+},
+{
+"name": "/en/latest/guides/licensing-examples-and-user-scenarios/",
+"unique_entrances": "8",
+"total_entrances": "8",
+"visit_duration": "37"
+},
+{
+"name": "/en/latest/specifications/glob-patterns/",
+"unique_entrances": "8",
+"total_entrances": "8",
+"visit_duration": "15"
+},
+{
+"name": "/en/latest/specifications/well-known-project-urls/",
+"unique_entrances": "8",
+"total_entrances": "8",
+"visit_duration": "213"
+},
+{
+"name": "/en/latest/guides/dropping-older-python-versions/",
+"unique_entrances": "6",
+"total_entrances": "6",
+"visit_duration": "559"
+},
+{
+"name": "/en/latest/contribute/",
+"unique_entrances": "5",
+"total_entrances": "5",
+"visit_duration": "2"
+},
+{
+"name": "/en/latest/discussions/downstream-packaging/",
+"unique_entrances": "5",
+"total_entrances": "5",
+"visit_duration": "63"
+},
+{
+"name": "/en/latest/guides/section-hosting/",
+"unique_entrances": "5",
+"total_entrances": "5",
+"visit_duration": "185"
+},
+{
+"name": "/en/latest/specifications/source-distribution-format/",
+"unique_entrances": "5",
+"total_entrances": "5",
+"visit_duration": "672"
+},
+{
+"name": "/en/latest/support/",
+"unique_entrances": "5",
+"total_entrances": "5",
+"visit_duration": "6"
+},
+{
+"name": "/en/latest/guides/migrating-to-pypi-org/",
+"unique_entrances": "4",
+"total_entrances": "4",
+"visit_duration": "45"
+},
+{
+"name": "/en/latest/specifications/virtual-environments/",
+"unique_entrances": "4",
+"total_entrances": "4",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/writing-pyproject-toml/",
+"unique_entrances": "4",
+"total_entrances": "4",
+"visit_duration": "38"
+},
+{
+"name": "/en/latest/news/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"visit_duration": "43"
+},
+{
+"name": "/en/latest/specifications/license-expression/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"visit_duration": "32"
+},
+{
+"name": "/en/latest/specifications/section-distribution-metadata/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"visit_duration": "190"
+},
+{
+"name": "/en/latest/specifications/direct-url-data-structure/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"visit_duration": "0"
+},
+{
+"name": "/en/latest/specifications/build-details/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "0"
+},
+{
+"name": "/en/latest/specifications/section-installation-metadata/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "0"
+},
+{
+"name": "/en/latest/tutorials/creating-documentation/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "4429"
+},
+{
+"name": "/ja/latest/guides/installing-using-pip-and-virtual-environments/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/platform-compatibility-tags/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "3291"
+},
+{
+"name": "/pt-br/latest/guides/tool-recommendations/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "5"
+},
+{
+"name": "/pt-br/latest/guides/writing-pyproject-toml/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "0"
+},
+{
+"name": "/pt-br/latest/tutorials/installing-packages/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "214"
+},
+{
+"name": "/pt-br/latest/tutorials/packaging-projects/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "204"
+},
+{
+"name": "/tutorials/installing-packages/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"visit_duration": "96"
+}
+]
