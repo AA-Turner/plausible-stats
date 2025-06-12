@@ -1,0 +1,802 @@
+[
+{
+"name": "/3/",
+"visitors": "13560",
+"pageviews": "17203",
+"bounce_rate": "54",
+"time_on_page": "19",
+"scroll_depth": "75"
+},
+{
+"name": "/3/library/venv.html",
+"visitors": "8846",
+"pageviews": "9591",
+"bounce_rate": "91",
+"time_on_page": "39",
+"scroll_depth": "33"
+},
+{
+"name": "/3/library/functions.html",
+"visitors": "8279",
+"pageviews": "9429",
+"bounce_rate": "78",
+"time_on_page": "90",
+"scroll_depth": "45"
+},
+{
+"name": "/3/library/stdtypes.html",
+"visitors": "8143",
+"pageviews": "9778",
+"bounce_rate": "78",
+"time_on_page": "94",
+"scroll_depth": "39"
+},
+{
+"name": "/3/tutorial/index.html",
+"visitors": "6796",
+"pageviews": "8989",
+"bounce_rate": "61",
+"time_on_page": "43",
+"scroll_depth": "57"
+},
+{
+"name": "/3/library/datetime.html",
+"visitors": "5956",
+"pageviews": "6927",
+"bounce_rate": "85",
+"time_on_page": "65",
+"scroll_depth": "40"
+},
+{
+"name": "/3/search.html",
+"visitors": "4838",
+"pageviews": "8336",
+"bounce_rate": "36",
+"time_on_page": "24",
+"scroll_depth": "45"
+},
+{
+"name": "/3/library/index.html",
+"visitors": "4450",
+"pageviews": "5785",
+"bounce_rate": "60",
+"time_on_page": "44",
+"scroll_depth": "42"
+},
+{
+"name": "/3/tutorial/datastructures.html",
+"visitors": "4391",
+"pageviews": "4841",
+"bounce_rate": "78",
+"time_on_page": "96",
+"scroll_depth": "48"
+},
+{
+"name": "/3/library/typing.html",
+"visitors": "4335",
+"pageviews": "4868",
+"bounce_rate": "81",
+"time_on_page": "43",
+"scroll_depth": "26"
+},
+{
+"name": "/3/library/re.html",
+"visitors": "4229",
+"pageviews": "4720",
+"bounce_rate": "87",
+"time_on_page": "69",
+"scroll_depth": "40"
+},
+{
+"name": "/3/library/tkinter.html",
+"visitors": "3564",
+"pageviews": "4171",
+"bounce_rate": "77",
+"time_on_page": "49",
+"scroll_depth": "31"
+},
+{
+"name": "/3/library/logging.html",
+"visitors": "3449",
+"pageviews": "3881",
+"bounce_rate": "81",
+"time_on_page": "350",
+"scroll_depth": "37"
+},
+{
+"name": "/3/library/csv.html",
+"visitors": "3189",
+"pageviews": "3645",
+"bounce_rate": "86",
+"time_on_page": "74",
+"scroll_depth": "42"
+},
+{
+"name": "/3/library/argparse.html",
+"visitors": "3124",
+"pageviews": "3553",
+"bounce_rate": "82",
+"time_on_page": "104",
+"scroll_depth": "33"
+},
+{
+"name": "/3/library/pathlib.html",
+"visitors": "3078",
+"pageviews": "3434",
+"bounce_rate": "82",
+"time_on_page": "98",
+"scroll_depth": "41"
+},
+{
+"name": "/3/library/subprocess.html",
+"visitors": "2994",
+"pageviews": "3502",
+"bounce_rate": "82",
+"time_on_page": "82",
+"scroll_depth": "31"
+},
+{
+"name": "/3/library/os.html",
+"visitors": "2907",
+"pageviews": "3251",
+"bounce_rate": "75",
+"time_on_page": "55",
+"scroll_depth": "36"
+},
+{
+"name": "/3/tutorial/controlflow.html",
+"visitors": "2875",
+"pageviews": "3146",
+"bounce_rate": "78",
+"time_on_page": "145",
+"scroll_depth": "42"
+},
+{
+"name": "/3/tutorial/",
+"visitors": "2819",
+"pageviews": "4072",
+"bounce_rate": "68",
+"time_on_page": "44",
+"scroll_depth": "51"
+},
+{
+"name": "/3/tutorial/errors.html",
+"visitors": "2789",
+"pageviews": "2908",
+"bounce_rate": "80",
+"time_on_page": "79",
+"scroll_depth": "39"
+},
+{
+"name": "/3/library/random.html",
+"visitors": "2731",
+"pageviews": "3046",
+"bounce_rate": "85",
+"time_on_page": "50",
+"scroll_depth": "34"
+},
+{
+"name": "/3/library/exceptions.html",
+"visitors": "2599",
+"pageviews": "2794",
+"bounce_rate": "81",
+"time_on_page": "152",
+"scroll_depth": "49"
+},
+{
+"name": "/3/tutorial/classes.html",
+"visitors": "2514",
+"pageviews": "2638",
+"bounce_rate": "84",
+"time_on_page": "239",
+"scroll_depth": "47"
+},
+{
+"name": "/3/library/turtle.html",
+"visitors": "2412",
+"pageviews": "3118",
+"bounce_rate": "83",
+"time_on_page": "82",
+"scroll_depth": "34"
+},
+{
+"name": "/3/library/collections.html",
+"visitors": "2390",
+"pageviews": "2566",
+"bounce_rate": "84",
+"time_on_page": "66",
+"scroll_depth": "42"
+},
+{
+"name": "/3/library/dataclasses.html",
+"visitors": "2367",
+"pageviews": "2585",
+"bounce_rate": "84",
+"time_on_page": "63",
+"scroll_depth": "34"
+},
+{
+"name": "/3/library/multiprocessing.html",
+"visitors": "2282",
+"pageviews": "2700",
+"bounce_rate": "78",
+"time_on_page": "87",
+"scroll_depth": "28"
+},
+{
+"name": "/3/glossary.html",
+"visitors": "2202",
+"pageviews": "2348",
+"bounce_rate": "63",
+"time_on_page": "56",
+"scroll_depth": "51"
+},
+{
+"name": "/3/tutorial/introduction.html",
+"visitors": "2199",
+"pageviews": "2466",
+"bounce_rate": "76",
+"time_on_page": "160",
+"scroll_depth": "56"
+},
+{
+"name": "/3/tutorial/interpreter.html",
+"visitors": "2147",
+"pageviews": "2409",
+"bounce_rate": "71",
+"time_on_page": "80",
+"scroll_depth": "76"
+},
+{
+"name": "/3/library/idle.html",
+"visitors": "2141",
+"pageviews": "2522",
+"bounce_rate": "79",
+"time_on_page": "25",
+"scroll_depth": "29"
+},
+{
+"name": "/3/library/math.html",
+"visitors": "2119",
+"pageviews": "2355",
+"bounce_rate": "86",
+"time_on_page": "133",
+"scroll_depth": "38"
+},
+{
+"name": "/3/library/itertools.html",
+"visitors": "1996",
+"pageviews": "2139",
+"bounce_rate": "86",
+"time_on_page": "69",
+"scroll_depth": "33"
+},
+{
+"name": "/3/library/asyncio-task.html",
+"visitors": "1975",
+"pageviews": "2323",
+"bounce_rate": "78",
+"time_on_page": "132",
+"scroll_depth": "38"
+},
+{
+"name": "/3/library/json.html",
+"visitors": "1957",
+"pageviews": "2060",
+"bounce_rate": "87",
+"time_on_page": "89",
+"scroll_depth": "34"
+},
+{
+"name": "/3/library/os.path.html",
+"visitors": "1880",
+"pageviews": "2044",
+"bounce_rate": "80",
+"time_on_page": "46",
+"scroll_depth": "47"
+},
+{
+"name": "/3/library/string.html",
+"visitors": "1837",
+"pageviews": "2061",
+"bounce_rate": "75",
+"time_on_page": "70",
+"scroll_depth": "47"
+},
+{
+"name": "/3/library/unittest.html",
+"visitors": "1833",
+"pageviews": "2068",
+"bounce_rate": "85",
+"time_on_page": "64",
+"scroll_depth": "25"
+},
+{
+"name": "/3/tutorial/inputoutput.html",
+"visitors": "1813",
+"pageviews": "1897",
+"bounce_rate": "77",
+"time_on_page": "89",
+"scroll_depth": "48"
+},
+{
+"name": "/3/library/unittest.mock.html",
+"visitors": "1784",
+"pageviews": "2227",
+"bounce_rate": "83",
+"time_on_page": "197",
+"scroll_depth": "35"
+},
+{
+"name": "/3/library/time.html",
+"visitors": "1769",
+"pageviews": "1914",
+"bounce_rate": "80",
+"time_on_page": "49",
+"scroll_depth": "41"
+},
+{
+"name": "/3/tutorial/modules.html",
+"visitors": "1762",
+"pageviews": "1836",
+"bounce_rate": "79",
+"time_on_page": "106",
+"scroll_depth": "51"
+},
+{
+"name": "/3/library/enum.html",
+"visitors": "1739",
+"pageviews": "1915",
+"bounce_rate": "85",
+"time_on_page": "64",
+"scroll_depth": "34"
+},
+{
+"name": "/3/reference/datamodel.html",
+"visitors": "1676",
+"pageviews": "1854",
+"bounce_rate": "75",
+"time_on_page": "201",
+"scroll_depth": "50"
+},
+{
+"name": "/3/library/threading.html",
+"visitors": "1673",
+"pageviews": "1806",
+"bounce_rate": "81",
+"time_on_page": "84",
+"scroll_depth": "37"
+},
+{
+"name": "/3/tutorial/appetite.html",
+"visitors": "1624",
+"pageviews": "1568",
+"bounce_rate": "49",
+"time_on_page": "86",
+"scroll_depth": "86"
+},
+{
+"name": "/3/library/asyncio.html",
+"visitors": "1594",
+"pageviews": "2032",
+"bounce_rate": "65",
+"time_on_page": "99",
+"scroll_depth": "77"
+},
+{
+"name": "/3/library/functools.html",
+"visitors": "1499",
+"pageviews": "1575",
+"bounce_rate": "86",
+"time_on_page": "47",
+"scroll_depth": "42"
+},
+{
+"name": "/3/whatsnew/3.13.html",
+"visitors": "1499",
+"pageviews": "1653",
+"bounce_rate": "69",
+"time_on_page": "65",
+"scroll_depth": "18"
+},
+{
+"name": "/3/library/sqlite3.html",
+"visitors": "1489",
+"pageviews": "1768",
+"bounce_rate": "84",
+"time_on_page": "86",
+"scroll_depth": "25"
+},
+{
+"name": "/3/using/windows.html",
+"visitors": "1428",
+"pageviews": "1554",
+"bounce_rate": "86",
+"time_on_page": "60",
+"scroll_depth": "41"
+},
+{
+"name": "/3/howto/logging.html",
+"visitors": "1413",
+"pageviews": "1467",
+"bounce_rate": "81",
+"time_on_page": "106",
+"scroll_depth": "35"
+},
+{
+"name": "/3/tutorial/venv.html",
+"visitors": "1410",
+"pageviews": "1498",
+"bounce_rate": "90",
+"time_on_page": "48",
+"scroll_depth": "57"
+},
+{
+"name": "/3/library/concurrent.futures.html",
+"visitors": "1378",
+"pageviews": "1572",
+"bounce_rate": "82",
+"time_on_page": "84",
+"scroll_depth": "48"
+},
+{
+"name": "/3/library/xml.etree.elementtree.html",
+"visitors": "1365",
+"pageviews": "1605",
+"bounce_rate": "82",
+"time_on_page": "91",
+"scroll_depth": "35"
+},
+{
+"name": "/3/library/sys.html",
+"visitors": "1239",
+"pageviews": "1318",
+"bounce_rate": "77",
+"time_on_page": "43",
+"scroll_depth": "34"
+},
+{
+"name": "/3/reference/index.html",
+"visitors": "1219",
+"pageviews": "1537",
+"bounce_rate": "52",
+"time_on_page": "43",
+"scroll_depth": "69"
+},
+{
+"name": "/3/installing/index.html",
+"visitors": "1185",
+"pageviews": "1195",
+"bounce_rate": "84",
+"time_on_page": "36",
+"scroll_depth": "61"
+},
+{
+"name": "/3/library/shutil.html",
+"visitors": "1158",
+"pageviews": "1259",
+"bounce_rate": "82",
+"time_on_page": "62",
+"scroll_depth": "37"
+},
+{
+"name": "/3/howto/sorting.html",
+"visitors": "1131",
+"pageviews": "1197",
+"bounce_rate": "81",
+"time_on_page": "104",
+"scroll_depth": "42"
+},
+{
+"name": "/3/library/socket.html",
+"visitors": "1121",
+"pageviews": "1299",
+"bounce_rate": "77",
+"time_on_page": "89",
+"scroll_depth": "45"
+},
+{
+"name": "/3/library/struct.html",
+"visitors": "1108",
+"pageviews": "1218",
+"bounce_rate": "87",
+"time_on_page": "192",
+"scroll_depth": "47"
+},
+{
+"name": "/3/library/pickle.html",
+"visitors": "1086",
+"pageviews": "1186",
+"bounce_rate": "88",
+"time_on_page": "50",
+"scroll_depth": "27"
+},
+{
+"name": "/3/library/io.html",
+"visitors": "1059",
+"pageviews": "1151",
+"bounce_rate": "78",
+"time_on_page": "61",
+"scroll_depth": "45"
+},
+{
+"name": "/3/py-modindex.html",
+"visitors": "1052",
+"pageviews": "1290",
+"bounce_rate": "68",
+"time_on_page": "43",
+"scroll_depth": "53"
+},
+{
+"name": "/3/library/tempfile.html",
+"visitors": "1046",
+"pageviews": "1173",
+"bounce_rate": "80",
+"time_on_page": "73",
+"scroll_depth": "54"
+},
+{
+"name": "/3/library/heapq.html",
+"visitors": "937",
+"pageviews": "1023",
+"bounce_rate": "87",
+"time_on_page": "47",
+"scroll_depth": "49"
+},
+{
+"name": "/3/reference/compound_stmts.html",
+"visitors": "930",
+"pageviews": "938",
+"bounce_rate": "72",
+"time_on_page": "77",
+"scroll_depth": "37"
+},
+{
+"name": "/3/contents.html",
+"visitors": "918",
+"pageviews": "1027",
+"bounce_rate": "38",
+"time_on_page": "22",
+"scroll_depth": "16"
+},
+{
+"name": "/zh-cn/3/tutorial/index.html",
+"visitors": "905",
+"pageviews": "1117",
+"bounce_rate": "61",
+"time_on_page": "40",
+"scroll_depth": "57"
+},
+{
+"name": "/3/library/pdb.html",
+"visitors": "904",
+"pageviews": "975",
+"bounce_rate": "89",
+"time_on_page": "44",
+"scroll_depth": "34"
+},
+{
+"name": "/3/using/cmdline.html",
+"visitors": "886",
+"pageviews": "909",
+"bounce_rate": "82",
+"time_on_page": "54",
+"scroll_depth": "38"
+},
+{
+"name": "/3/using/mac.html",
+"visitors": "848",
+"pageviews": "906",
+"bounce_rate": "78",
+"time_on_page": "67",
+"scroll_depth": "51"
+},
+{
+"name": "/3/library/asyncio-eventloop.html",
+"visitors": "827",
+"pageviews": "955",
+"bounce_rate": "73",
+"time_on_page": "128",
+"scroll_depth": "38"
+},
+{
+"name": "/3/index.html",
+"visitors": "820",
+"pageviews": "1025",
+"bounce_rate": "44",
+"time_on_page": "19",
+"scroll_depth": "78"
+},
+{
+"name": "/3/library/abc.html",
+"visitors": "810",
+"pageviews": "843",
+"bounce_rate": "83",
+"time_on_page": "87",
+"scroll_depth": "49"
+},
+{
+"name": "/3/reference/lexical_analysis.html",
+"visitors": "806",
+"pageviews": "860",
+"bounce_rate": "76",
+"time_on_page": "87",
+"scroll_depth": "58"
+},
+{
+"name": "/3/reference/expressions.html",
+"visitors": "792",
+"pageviews": "868",
+"bounce_rate": "78",
+"time_on_page": "342",
+"scroll_depth": "62"
+},
+{
+"name": "/3/library/configparser.html",
+"visitors": "773",
+"pageviews": "838",
+"bounce_rate": "86",
+"time_on_page": "148",
+"scroll_depth": "29"
+},
+{
+"name": "/3/reference/import.html",
+"visitors": "752",
+"pageviews": "786",
+"bounce_rate": "78",
+"time_on_page": "121",
+"scroll_depth": "37"
+},
+{
+"name": "/3/howto/regex.html",
+"visitors": "724",
+"pageviews": "733",
+"bounce_rate": "85",
+"time_on_page": "253",
+"scroll_depth": "35"
+},
+{
+"name": "/3/library/copy.html",
+"visitors": "719",
+"pageviews": "736",
+"bounce_rate": "89",
+"time_on_page": "97",
+"scroll_depth": "68"
+},
+{
+"name": "/3/library/contextlib.html",
+"visitors": "718",
+"pageviews": "783",
+"bounce_rate": "80",
+"time_on_page": "82",
+"scroll_depth": "30"
+},
+{
+"name": "/3/library/pprint.html",
+"visitors": "713",
+"pageviews": "757",
+"bounce_rate": "88",
+"time_on_page": "34",
+"scroll_depth": "37"
+},
+{
+"name": "/3/library/urllib.parse.html",
+"visitors": "712",
+"pageviews": "817",
+"bounce_rate": "84",
+"time_on_page": "45",
+"scroll_depth": "41"
+},
+{
+"name": "/3/library/hashlib.html",
+"visitors": "708",
+"pageviews": "786",
+"bounce_rate": "81",
+"time_on_page": "57",
+"scroll_depth": "31"
+},
+{
+"name": "/3/library/glob.html",
+"visitors": "682",
+"pageviews": "720",
+"bounce_rate": "85",
+"time_on_page": "36",
+"scroll_depth": "64"
+},
+{
+"name": "/3/library/zipfile.html",
+"visitors": "670",
+"pageviews": "791",
+"bounce_rate": "79",
+"time_on_page": "59",
+"scroll_depth": "36"
+},
+{
+"name": "/zh-cn/3/",
+"visitors": "654",
+"pageviews": "826",
+"bounce_rate": "49",
+"time_on_page": "32",
+"scroll_depth": "78"
+},
+{
+"name": "/3/library/queue.html",
+"visitors": "652",
+"pageviews": "714",
+"bounce_rate": "79",
+"time_on_page": "66",
+"scroll_depth": "61"
+},
+{
+"name": "/3/howto/argparse.html",
+"visitors": "609",
+"pageviews": "596",
+"bounce_rate": "80",
+"time_on_page": "128",
+"scroll_depth": "44"
+},
+{
+"name": "/3/library/",
+"visitors": "607",
+"pageviews": "719",
+"bounce_rate": "65",
+"time_on_page": "48",
+"scroll_depth": "41"
+},
+{
+"name": "/3/library/http.server.html",
+"visitors": "604",
+"pageviews": "724",
+"bounce_rate": "82",
+"time_on_page": "50",
+"scroll_depth": "51"
+},
+{
+"name": "/3/download.html",
+"visitors": "594",
+"pageviews": "579",
+"bounce_rate": "74",
+"time_on_page": "31",
+"scroll_depth": "84"
+},
+{
+"name": "/3/reference/simple_stmts.html",
+"visitors": "587",
+"pageviews": "622",
+"bounce_rate": "68",
+"time_on_page": "66",
+"scroll_depth": "59"
+},
+{
+"name": "/3/library/operator.html",
+"visitors": "569",
+"pageviews": "606",
+"bounce_rate": "79",
+"time_on_page": "39",
+"scroll_depth": "49"
+},
+{
+"name": "/3/library/ctypes.html",
+"visitors": "557",
+"pageviews": "619",
+"bounce_rate": "85",
+"time_on_page": "134",
+"scroll_depth": "34"
+},
+{
+"name": "/3/library/logging.handlers.html",
+"visitors": "548",
+"pageviews": "600",
+"bounce_rate": "76",
+"time_on_page": "59",
+"scroll_depth": "36"
+},
+{
+"name": "/3/library/collections.abc.html",
+"visitors": "547",
+"pageviews": "660",
+"bounce_rate": "64",
+"time_on_page": "99",
+"scroll_depth": "64"
+}
+]
