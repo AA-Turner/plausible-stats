@@ -1,0 +1,926 @@
+[
+{
+"name": "Google",
+"visitors": "3798",
+"bounce_rate": "81",
+"visit_duration": "129"
+},
+{
+"name": "Baidu",
+"visitors": "2074",
+"bounce_rate": "83",
+"visit_duration": "20"
+},
+{
+"name": "Direct / None",
+"visitors": "2059",
+"bounce_rate": "61",
+"visit_duration": "279"
+},
+{
+"name": "qiita.com",
+"visitors": "259",
+"bounce_rate": "83",
+"visit_duration": "121"
+},
+{
+"name": "Bing",
+"visitors": "255",
+"bounce_rate": "64",
+"visit_duration": "275"
+},
+{
+"name": "note.nkmk.me",
+"visitors": "178",
+"bounce_rate": "88",
+"visit_duration": "72"
+},
+{
+"name": "Yahoo!",
+"visitors": "89",
+"bounce_rate": "84",
+"visit_duration": "118"
+},
+{
+"name": "chatgpt.com",
+"visitors": "53",
+"bounce_rate": "60",
+"visit_duration": "146"
+},
+{
+"name": "moodle.s.kyushu-u.ac.jp",
+"visitors": "43",
+"bounce_rate": "61",
+"visit_duration": "1045"
+},
+{
+"name": "python.org",
+"visitors": "39",
+"bounce_rate": "0",
+"visit_duration": "862"
+},
+{
+"name": "python.jp",
+"visitors": "33",
+"bounce_rate": "56",
+"visit_duration": "203"
+},
+{
+"name": "paiza.jp",
+"visitors": "15",
+"bounce_rate": "80",
+"visit_duration": "93"
+},
+{
+"name": "utokyo-ipp.github.io",
+"visitors": "14",
+"bounce_rate": "93",
+"visit_duration": "140"
+},
+{
+"name": "Microsoft Teams",
+"visitors": "13",
+"bounce_rate": "33",
+"visit_duration": "294"
+},
+{
+"name": "DuckDuckGo",
+"visitors": "12",
+"bounce_rate": "83",
+"visit_duration": "408"
+},
+{
+"name": "tact.ac.thers.ac.jp",
+"visitors": "11",
+"bounce_rate": "75",
+"visit_duration": "270"
+},
+{
+"name": "moodle.daiichi-koudai.ac.jp",
+"visitors": "9",
+"bounce_rate": "33",
+"visit_duration": "850"
+},
+{
+"name": "GitHub",
+"visitors": "8",
+"bounce_rate": "83",
+"visit_duration": "328"
+},
+{
+"name": "hatenablog-parts.com",
+"visitors": "8",
+"bounce_rate": "57",
+"visit_duration": "275"
+},
+{
+"name": "jupyter.org",
+"visitors": "8",
+"bounce_rate": "38",
+"visit_duration": "14"
+},
+{
+"name": "softasia.jp",
+"visitors": "8",
+"bounce_rate": "17",
+"visit_duration": "65"
+},
+{
+"name": "teratail.com",
+"visitors": "8",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "chokkan.github.io",
+"visitors": "7",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "Youtube",
+"visitors": "6",
+"bounce_rate": "50",
+"visit_duration": "107"
+},
+{
+"name": "pg-chain.com",
+"visitors": "6",
+"bounce_rate": "33",
+"visit_duration": "96"
+},
+{
+"name": "python-izm.com",
+"visitors": "6",
+"bounce_rate": "17",
+"visit_duration": "269"
+},
+{
+"name": "algo-method.com",
+"visitors": "5",
+"bounce_rate": "60",
+"visit_duration": "453"
+},
+{
+"name": "techacademy.jp",
+"visitors": "5",
+"bounce_rate": "40",
+"visit_duration": "77"
+},
+{
+"name": "atmarkit.itmedia.co.jp",
+"visitors": "4",
+"bounce_rate": "50",
+"visit_duration": "40"
+},
+{
+"name": "dev.classmethod.jp",
+"visitors": "4",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "diver.diveintocode.jp",
+"visitors": "4",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.pyq.jp",
+"visitors": "4",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lms-wc.el.kanazawa-u.ac.jp",
+"visitors": "4",
+"bounce_rate": "20",
+"visit_duration": "502"
+},
+{
+"name": "mazda.aidemy.jp",
+"visitors": "4",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "Ecosia",
+"visitors": "3",
+"bounce_rate": "33",
+"visit_duration": "9"
+},
+{
+"name": "Rakuten",
+"visitors": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nikkie-ftnext.hatenablog.com",
+"visitors": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "note.alhinc.jp",
+"visitors": "3",
+"bounce_rate": "0",
+"visit_duration": "43"
+},
+{
+"name": "Brave",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "4"
+},
+{
+"name": "Perplexity",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "150"
+},
+{
+"name": "Wikipedia",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "460"
+},
+{
+"name": "atcoder.jp",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "blog.mtb-production.info",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "36"
+},
+{
+"name": "business.algo-method.com",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "32"
+},
+{
+"name": "choshicure.hatenablog.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "copilot.microsoft.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "dcm-llm.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "gihyo.jp",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "154"
+},
+{
+"name": "hibiki-press.tech",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "732"
+},
+{
+"name": "hitachigroup.okta.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "iiimethodsiv.github.io",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "imagingsolution.net",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "642"
+},
+{
+"name": "kirara-code.net",
+"visitors": "2",
+"bounce_rate": "67",
+"visit_duration": "134"
+},
+{
+"name": "lifewithpython.com",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "4"
+},
+{
+"name": "maku77.github.io",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nissanchem.aidemy.jp",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nlp.c.titech.ac.jp",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "36"
+},
+{
+"name": "premium.aidemy.jp",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "pyex.srbrnote.work",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "34"
+},
+{
+"name": "school.ctc-g.co.jp",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "sejuku.net",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "248"
+},
+{
+"name": "service.smt.docomo.ne.jp",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "8"
+},
+{
+"name": "sfdjp12931.swf.nec.co.jp",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "32"
+},
+{
+"name": "space.genbacloud.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "sukkiri.jp",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "140"
+},
+{
+"name": "udemy.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "6"
+},
+{
+"name": "vsv-amethyst.skygroup.local",
+"visitors": "2",
+"bounce_rate": "33",
+"visit_duration": "485"
+},
+{
+"name": "yokaze.github.io",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "zero3kw.github.io",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "10.2.51.151",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "180"
+},
+{
+"name": "10.250.0.254",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "192.168.1.101",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "192.168.250.3",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "Biglobe",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "Shenma",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "Slack",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "Twitter",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ai.azure.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "aisin.aidemy.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "amanotk.github.io",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "blog.pyq.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "788"
+},
+{
+"name": "bozuman.s.cybozu.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "33"
+},
+{
+"name": "canon.aidemy.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "chat.greatsimplex.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "chat.peerworker.ai",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "68"
+},
+{
+"name": "cms.cis.k.hosei.ac.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "101"
+},
+{
+"name": "code-graffiti.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "code.visualstudio.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "confluence.s-credplus.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "contents.j-school.ac",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "crystal-method.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "daihen.smart-generative-chat.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "92"
+},
+{
+"name": "digipla.qh.toyota.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.astral.sh",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "131"
+},
+{
+"name": "docs.pydantic.dev",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1172"
+},
+{
+"name": "dropbox.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "eieito.hatenablog.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "engage.cloud.microsoft",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "engineer-life.dev",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "excel-ubara.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "forum.djangoproject.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "gammasoft.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "gri.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "hbq08jzhrer.sg.larksuite.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "799"
+},
+{
+"name": "headboost.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "inarizuuuushi.hatenablog.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "inetnf.auth",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "91"
+},
+{
+"name": "intranet.nomuranow.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "is.cs.tut.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "itctl-redmine.cygames.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "139"
+},
+{
+"name": "jeis2.aidemy.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "jpc-excel.officeapps.live.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "kakedashi-engineer.appspot.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lfour.semicon.sony.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "link.csdn.net",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "677"
+},
+{
+"name": "linux.s.ogu.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lms-m41.mie-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lms.omu.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "mazdagroup.sharepoint.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "mhir.sharepoint.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "miraiserver.ne.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "16"
+},
+{
+"name": "mitani.cs.tsukuba.ac.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "140"
+},
+{
+"name": "mitsubishielectric.aidemy.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "miyamae.cygames.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "nashiza-blog.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nb.anaconda.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "network-engineer.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nibutan.hatenablog.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nisshingeppo.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "nswjp.udemy.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "numpy.org",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "182"
+},
+{
+"name": "osmaniax.1banzaka.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "palantir.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "56"
+},
+{
+"name": "partners.logit.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1941"
+},
+{
+"name": "potesara-tips.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "potipoti-dev.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "prisma-cp.paprisma",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "pytest-mock.readthedocs.io",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1258"
+},
+{
+"name": "python-work.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "roadmap.sh",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "3352"
+},
+{
+"name": "saltyster.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "spdlybra.nintendo.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "special-journey-g99qpvw64jpc9pq6.github.dev",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ssrv.net",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "switch-science.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "152"
+},
+{
+"name": "szdrblog.info",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "5"
+},
+{
+"name": "tanamon.hatenablog.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "141"
+},
+{
+"name": "tech-joho.info",
+"visitors": "1",
+"bounce_rate": "50",
+"visit_duration": "192"
+},
+{
+"name": "tech-lab.sios.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "21"
+},
+{
+"name": "toolify.ai",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "trap.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "32"
+},
+{
+"name": "tutorials.chainer.org",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "webbibouroku.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "wizard-notes.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+}
+]
