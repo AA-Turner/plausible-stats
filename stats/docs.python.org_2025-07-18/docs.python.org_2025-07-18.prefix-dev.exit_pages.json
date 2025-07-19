@@ -1,0 +1,602 @@
+[
+{
+"name": "/dev/using/windows.html",
+"unique_exits": "533",
+"total_exits": "616",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/c-api/marshal.html",
+"unique_exits": "352",
+"total_exits": "351",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/index.html",
+"unique_exits": "95",
+"total_exits": "95",
+"exit_rate": ""
+},
+{
+"name": "/ja/3.13/c-api/capsule.html",
+"unique_exits": "49",
+"total_exits": "49",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/installing/index.html",
+"unique_exits": "49",
+"total_exits": "50",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/installing/index.html",
+"unique_exits": "44",
+"total_exits": "45",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/library/stdtypes.html",
+"unique_exits": "34",
+"total_exits": "34",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/tutorial/venv.html",
+"unique_exits": "34",
+"total_exits": "34",
+"exit_rate": ""
+},
+{
+"name": "/ko/3.13/library/intro.html",
+"unique_exits": "30",
+"total_exits": "30",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/unittest.mock.html",
+"unique_exits": "22",
+"total_exits": "22",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/venv.html",
+"unique_exits": "22",
+"total_exits": "22",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/extending/newtypes_tutorial.html",
+"unique_exits": "22",
+"total_exits": "22",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/hashlib.html",
+"unique_exits": "17",
+"total_exits": "17",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/argparse.html",
+"unique_exits": "16",
+"total_exits": "17",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/tutorial/errors.html",
+"unique_exits": "16",
+"total_exits": "16",
+"exit_rate": ""
+},
+{
+"name": "/dev/",
+"unique_exits": "13",
+"total_exits": "13",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/venv.html",
+"unique_exits": "13",
+"total_exits": "14",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/functools.html",
+"unique_exits": "11",
+"total_exits": "11",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/os.path.html",
+"unique_exits": "11",
+"total_exits": "12",
+"exit_rate": ""
+},
+{
+"name": "/ja/3/c-api/import.html",
+"unique_exits": "10",
+"total_exits": "10",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/controlflow.html",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/reference/compound_stmts.html",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/whatsnew/3.4.html",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/csv.html",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/3/",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/stdtypes.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/pickle.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/enum.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/bugs.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/collections.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/zlib.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/pl/dev/tutorial/classes.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/pathlib.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/tomllib.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/marshal.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/unix.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/howto/regex.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/uk/3/library/asyncio-protocol.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/3.15/using/windows.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/dev/glossary.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/asyncio.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/concurrent.futures.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/functions.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/multiprocessing.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/os.path.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/tkinter.ttk.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/xml.etree.elementtree.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/turtle.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/statistics.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/reference/import.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/tutorial/datastructures.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/ios.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/whatsnew/3.13.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/whatsnew/3.14.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/3.13/",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3.14/using/windows.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3/library/argparse.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3/library/re.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3/library/unittest.mock.html",
+"unique_exits": "4",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3/library/venv.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3/using/windows.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/os.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/search.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/modules.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/whatsnew/2.7.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/whatsnew/3.12.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/venv.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/xml.etree.elementtree.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/datastructures.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/codecs.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/whatsnew/index.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/calendar.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/using/ios.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/contents.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/howto/free-threading-python.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/stdtypes.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3.13/using/windows.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3.14/whatsnew/3.14.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3/library/concurrent.futures.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3/library/multiprocessing.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3/library/turtle.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/c-api/init_config.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/collections.abc.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/collections.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/faulthandler.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/pathlib.html",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/tempfile.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/reference/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/using/configure.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/extending/embedding.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/howto/unicode.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/unittest.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ja/3.13/copyright.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/whatsnew/3.14.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/xml.etree.elementtree.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/cmdline.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/howto/logging.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+}
+]
