@@ -1,0 +1,602 @@
+[
+{
+"name": "/ko/dev/c-api/marshal.html",
+"unique_exits": "460",
+"total_exits": "461",
+"exit_rate": ""
+},
+{
+"name": "/dev/using/windows.html",
+"unique_exits": "395",
+"total_exits": "433",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/index.html",
+"unique_exits": "92",
+"total_exits": "92",
+"exit_rate": ""
+},
+{
+"name": "/ja/3.13/c-api/capsule.html",
+"unique_exits": "48",
+"total_exits": "48",
+"exit_rate": ""
+},
+{
+"name": "/ko/3.13/library/intro.html",
+"unique_exits": "42",
+"total_exits": "42",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/extending/newtypes_tutorial.html",
+"unique_exits": "39",
+"total_exits": "39",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/library/stdtypes.html",
+"unique_exits": "31",
+"total_exits": "31",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/tutorial/venv.html",
+"unique_exits": "25",
+"total_exits": "25",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/installing/index.html",
+"unique_exits": "22",
+"total_exits": "22",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/hashlib.html",
+"unique_exits": "20",
+"total_exits": "20",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/venv.html",
+"unique_exits": "19",
+"total_exits": "19",
+"exit_rate": ""
+},
+{
+"name": "/ja/3/c-api/import.html",
+"unique_exits": "11",
+"total_exits": "11",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/installing/index.html",
+"unique_exits": "11",
+"total_exits": "11",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/index.html",
+"unique_exits": "10",
+"total_exits": "11",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/mac.html",
+"unique_exits": "10",
+"total_exits": "11",
+"exit_rate": ""
+},
+{
+"name": "/dev/",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/venv.html",
+"unique_exits": "8",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/3/",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/turtle.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/windows.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/howto/sorting.html",
+"unique_exits": "6",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/tutorial/datastructures.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/stdtypes.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/bugs.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/cmdline.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/faq/general.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/tkinter.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/whatsnew/3.4.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/os.path.html",
+"unique_exits": "5",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/3.15/whatsnew/3.15.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/argparse.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/functions.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/turtle.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/using/unix.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/zlib.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/3.15/using/windows.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3.13/using/windows.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/genindex.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/asyncio.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/unittest.mock.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/controlflow.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/modules.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/venv.html",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/using/configure.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/whatsnew/3.12.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/whatsnew/3.6.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/glossary.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/faq/general.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/statistics.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/uk/3/library/asyncio-protocol.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/c-api/intro.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/installing/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/ios.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/using/windows.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/tutorial/datastructures.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3.13/tutorial/appetite.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3.13/whatsnew/3.13.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3.14/using/windows.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3.14/whatsnew/3.14.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/howto/functional.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/os.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/warnings.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/tutorial/stdlib2.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/contents.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/download.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/genindex-all.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/glossary.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/howto/logging-cookbook.html",
+"unique_exits": "2",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/installing/index.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/constants.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/intro.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/os.path.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/pathlib.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/random.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/ssl.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/venv.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/search.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/classes.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/inputoutput.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/whatsnew/2.7.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/howto/sorting.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/math.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/security_warnings.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/sqlite3.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/zlib.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/reference/datamodel.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/search.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/datastructures.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/using/windows.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/whatsnew/3.12.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/whatsnew/3.15.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/howto/unicode.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/configparser.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/turtle.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/reference/compound_stmts.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/enum.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/pathlib.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+}
+]
