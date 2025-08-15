@@ -1,0 +1,602 @@
+[
+{
+"name": "/dev/using/windows.html",
+"unique_exits": "704",
+"total_exits": "822",
+"exit_rate": ""
+},
+{
+"name": "/uk/dev/library/stdtypes.html",
+"unique_exits": "113",
+"total_exits": "114",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/zlib.html",
+"unique_exits": "56",
+"total_exits": "56",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/installing/index.html",
+"unique_exits": "37",
+"total_exits": "37",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/installing/index.html",
+"unique_exits": "35",
+"total_exits": "35",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/venv.html",
+"unique_exits": "26",
+"total_exits": "27",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/argparse.html",
+"unique_exits": "24",
+"total_exits": "25",
+"exit_rate": ""
+},
+{
+"name": "/dev/",
+"unique_exits": "23",
+"total_exits": "23",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/os.path.html",
+"unique_exits": "18",
+"total_exits": "18",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/",
+"unique_exits": "17",
+"total_exits": "17",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/venv.html",
+"unique_exits": "15",
+"total_exits": "15",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/unittest.mock.html",
+"unique_exits": "12",
+"total_exits": "12",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/tutorial/errors.html",
+"unique_exits": "12",
+"total_exits": "12",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/controlflow.html",
+"unique_exits": "11",
+"total_exits": "12",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/bugs.html",
+"unique_exits": "10",
+"total_exits": "10",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/tkinter.html",
+"unique_exits": "10",
+"total_exits": "10",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/tutorial/datastructures.html",
+"unique_exits": "10",
+"total_exits": "10",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/howto/sorting.html",
+"unique_exits": "9",
+"total_exits": "9",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/functools.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/tkinter.ttk.html",
+"unique_exits": "8",
+"total_exits": "10",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/howto/regex.html",
+"unique_exits": "8",
+"total_exits": "8",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/concurrent.futures.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/pathlib.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/turtle.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/reference/import.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/3/",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/3/library/venv.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/dev/reference/datamodel.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/datastructures.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/csv.html",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/logging.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/modules.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/dev/tutorial/venv.html",
+"unique_exits": "5",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/xml.etree.elementtree.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/howto/logging.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/stdtypes.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/unittest.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/using/ios.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/3/library/stdtypes.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3/library/unittest.mock.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/reference/compound_stmts.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/using/configure.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/zlib.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/reference/compound_stmts.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/library/uuid.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/asyncio-eventloop.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/re.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/library/statistics.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/library/heapq.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/re.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/webbrowser.html",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/3.13/using/windows.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3.15/",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3/library/tkinter.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/download.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/howto/logging-cookbook.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/installing/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/datetime.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/functions.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/multiprocessing.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/random.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/ssl.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/stdtypes.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/dev/library/tkinter.ttk.html",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/dev/search.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/howto/logging.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/library/contextvars.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/inputoutput.html",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/tutorial/interpreter.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/es/dev/using/windows.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/fr/dev/library/pickle.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ja/dev/whatsnew/3.14.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/asyncio-task.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/ko/dev/library/idle.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/dev/faq/general.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/library/csv.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/library/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/whatsnew/3.12.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/whatsnew/3.13.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-cn/dev/whatsnew/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/collections.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/functions.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/math.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/library/time.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/search.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/tutorial/datastructures.html",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/zh-tw/dev/whatsnew/3.12.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3.13/tutorial/index.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3.13/tutorial/introduction.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3.15/contents.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/contextlib.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/ensurepip.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/exceptions.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/io.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/library/pickle.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/search.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/tutorial/controlflow.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/3/using/windows.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/dev/c-api/init.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+}
+]
