@@ -1,0 +1,918 @@
+[
+{
+"name": "Capital District",
+"visitors": "211"
+},
+{
+"name": "Buenos Aires Province",
+"visitors": "200"
+},
+{
+"name": "Santiago Metropolitan",
+"visitors": "129"
+},
+{
+"name": "Antioquia",
+"visitors": "121"
+},
+{
+"name": "Lima",
+"visitors": "107"
+},
+{
+"name": "Ciudad de Mexico",
+"visitors": "104"
+},
+{
+"name": "Madrid Autonomous Community",
+"visitors": "95"
+},
+{
+"name": "Catalonia",
+"visitors": "70"
+},
+{
+"name": "Mexico State",
+"visitors": "63"
+},
+{
+"name": "Valle del Cauca",
+"visitors": "55"
+},
+{
+"name": "Andalusia",
+"visitors": "45"
+},
+{
+"name": "Jalisco",
+"visitors": "43"
+},
+{
+"name": "Valencian Community",
+"visitors": "42"
+},
+{
+"name": "San Jos\u00e9",
+"visitors": "30"
+},
+{
+"name": "Guanajuato",
+"visitors": "26"
+},
+{
+"name": "Cundinamarca",
+"visitors": "24"
+},
+{
+"name": "Nuevo Le\u00f3n",
+"visitors": "23"
+},
+{
+"name": "San Salvador",
+"visitors": "22"
+},
+{
+"name": "Montevideo",
+"visitors": "22"
+},
+{
+"name": "Guayas",
+"visitors": "21"
+},
+{
+"name": "Capital",
+"visitors": "21"
+},
+{
+"name": "Atl\u00e1ntico",
+"visitors": "20"
+},
+{
+"name": "Galicia",
+"visitors": "20"
+},
+{
+"name": "Buenos Aires",
+"visitors": "19"
+},
+{
+"name": "C\u00f3rdoba",
+"visitors": "19"
+},
+{
+"name": "Havana",
+"visitors": "18"
+},
+{
+"name": "Puebla",
+"visitors": "18"
+},
+{
+"name": "Florida",
+"visitors": "18"
+},
+{
+"name": "Santander",
+"visitors": "17"
+},
+{
+"name": "Morelos",
+"visitors": "17"
+},
+{
+"name": "Asunci\u00f3n",
+"visitors": "17"
+},
+{
+"name": "La Paz",
+"visitors": "16"
+},
+{
+"name": "B\u00edo B\u00edo",
+"visitors": "16"
+},
+{
+"name": "Sonora",
+"visitors": "16"
+},
+{
+"name": "Corrientes",
+"visitors": "15"
+},
+{
+"name": "Tolima",
+"visitors": "15"
+},
+{
+"name": "Baja California",
+"visitors": "15"
+},
+{
+"name": "Lima Region",
+"visitors": "15"
+},
+{
+"name": "Magdalena",
+"visitors": "14"
+},
+{
+"name": "Distrito Nacional",
+"visitors": "14"
+},
+{
+"name": "Panam\u00e1",
+"visitors": "14"
+},
+{
+"name": "Arequipa",
+"visitors": "14"
+},
+{
+"name": "Pichincha",
+"visitors": "13"
+},
+{
+"name": "Sinaloa",
+"visitors": "13"
+},
+{
+"name": "Santa Cruz",
+"visitors": "12"
+},
+{
+"name": "Bol\u00edvar",
+"visitors": "12"
+},
+{
+"name": "Risaralda",
+"visitors": "12"
+},
+{
+"name": "Santo Domingo",
+"visitors": "12"
+},
+{
+"name": "Chihuahua",
+"visitors": "12"
+},
+{
+"name": "Santa Fe",
+"visitors": "11"
+},
+{
+"name": "Valpara\u00edso",
+"visitors": "11"
+},
+{
+"name": "Cesar",
+"visitors": "11"
+},
+{
+"name": "Quer\u00e9taro",
+"visitors": "11"
+},
+{
+"name": "Lara",
+"visitors": "11"
+},
+{
+"name": "Misiones",
+"visitors": "10"
+},
+{
+"name": "Boyac\u00e1",
+"visitors": "10"
+},
+{
+"name": "Castile and Le\u00f3n",
+"visitors": "10"
+},
+{
+"name": "Canary Islands",
+"visitors": "10"
+},
+{
+"name": "Murcia Region",
+"visitors": "10"
+},
+{
+"name": "Chiapas",
+"visitors": "10"
+},
+{
+"name": "Quintana Roo",
+"visitors": "10"
+},
+{
+"name": "Veracruz",
+"visitors": "10"
+},
+{
+"name": "Texas",
+"visitors": "10"
+},
+{
+"name": "Salta",
+"visitors": "9"
+},
+{
+"name": "Basque Country",
+"visitors": "9"
+},
+{
+"name": "Guatemala",
+"visitors": "9"
+},
+{
+"name": "Guerrero",
+"visitors": "9"
+},
+{
+"name": "Michoac\u00e1n",
+"visitors": "9"
+},
+{
+"name": "Tamaulipas",
+"visitors": "9"
+},
+{
+"name": "R\u00edo Negro",
+"visitors": "7"
+},
+{
+"name": "Tucum\u00e1n",
+"visitors": "7"
+},
+{
+"name": "Cochabamba",
+"visitors": "7"
+},
+{
+"name": "Cauca",
+"visitors": "7"
+},
+{
+"name": "Campeche",
+"visitors": "7"
+},
+{
+"name": "Hidalgo",
+"visitors": "7"
+},
+{
+"name": "Bol\u00edvar",
+"visitors": "7"
+},
+{
+"name": "Entre R\u00edos",
+"visitors": "6"
+},
+{
+"name": "Huila",
+"visitors": "6"
+},
+{
+"name": "Azuay",
+"visitors": "6"
+},
+{
+"name": "Aguascalientes",
+"visitors": "6"
+},
+{
+"name": "San Luis Potos\u00ed",
+"visitors": "6"
+},
+{
+"name": "Yucat\u00e1n",
+"visitors": "6"
+},
+{
+"name": "Managua",
+"visitors": "6"
+},
+{
+"name": "La Libertad",
+"visitors": "6"
+},
+{
+"name": "Aragua",
+"visitors": "6"
+},
+{
+"name": "Zulia",
+"visitors": "6"
+},
+{
+"name": "Mendoza",
+"visitors": "5"
+},
+{
+"name": "Chubut",
+"visitors": "5"
+},
+{
+"name": "Maule",
+"visitors": "5"
+},
+{
+"name": "Norte de Santander",
+"visitors": "5"
+},
+{
+"name": "Aragon",
+"visitors": "5"
+},
+{
+"name": "Tabasco",
+"visitors": "5"
+},
+{
+"name": "Anzo\u00e1tegui",
+"visitors": "5"
+},
+{
+"name": "Carabobo",
+"visitors": "5"
+},
+{
+"name": "San Luis",
+"visitors": "4"
+},
+{
+"name": "La Rioja",
+"visitors": "4"
+},
+{
+"name": "Chaco",
+"visitors": "4"
+},
+{
+"name": "Jujuy",
+"visitors": "4"
+},
+{
+"name": "Queensland",
+"visitors": "4"
+},
+{
+"name": "C\u00f3rdoba",
+"visitors": "4"
+},
+{
+"name": "Nari\u00f1o",
+"visitors": "4"
+},
+{
+"name": "Sucre",
+"visitors": "4"
+},
+{
+"name": "Santiago",
+"visitors": "4"
+},
+{
+"name": "Santa Elena",
+"visitors": "4"
+},
+{
+"name": "Castile-La Mancha",
+"visitors": "4"
+},
+{
+"name": "Balearic Islands",
+"visitors": "4"
+},
+{
+"name": "Cort\u00e9s",
+"visitors": "4"
+},
+{
+"name": "Francisco Moraz\u00e1n",
+"visitors": "4"
+},
+{
+"name": "South Holland",
+"visitors": "4"
+},
+{
+"name": "Ucayali",
+"visitors": "4"
+},
+{
+"name": "California",
+"visitors": "4"
+},
+{
+"name": "Minnesota",
+"visitors": "4"
+},
+{
+"name": "Monagas",
+"visitors": "4"
+},
+{
+"name": "Formosa",
+"visitors": "3"
+},
+{
+"name": "Santa Catarina",
+"visitors": "3"
+},
+{
+"name": "Z\u00fcrich",
+"visitors": "3"
+},
+{
+"name": "Araucan\u00eda",
+"visitors": "3"
+},
+{
+"name": "Libertador General Bernardo O'Higgins",
+"visitors": "3"
+},
+{
+"name": "Los Lagos",
+"visitors": "3"
+},
+{
+"name": "Los R\u00edos",
+"visitors": "3"
+},
+{
+"name": "La Guajira",
+"visitors": "3"
+},
+{
+"name": "Meta",
+"visitors": "3"
+},
+{
+"name": "Santo Domingo de los Ts\u00e1chilas",
+"visitors": "3"
+},
+{
+"name": "Asturias",
+"visitors": "3"
+},
+{
+"name": "Extremadura",
+"visitors": "3"
+},
+{
+"name": "Coahuila",
+"visitors": "3"
+},
+{
+"name": "Cusco",
+"visitors": "3"
+},
+{
+"name": "Hu\u00e1nuco",
+"visitors": "3"
+},
+{
+"name": "Lambayeque",
+"visitors": "3"
+},
+{
+"name": "Piura",
+"visitors": "3"
+},
+{
+"name": "Tacna",
+"visitors": "3"
+},
+{
+"name": "Concepci\u00f3n",
+"visitors": "3"
+},
+{
+"name": "Central",
+"visitors": "3"
+},
+{
+"name": "North Carolina",
+"visitors": "3"
+},
+{
+"name": "New York",
+"visitors": "3"
+},
+{
+"name": "Oregon",
+"visitors": "3"
+},
+{
+"name": "M\u00e9rida",
+"visitors": "3"
+},
+{
+"name": "Vargas",
+"visitors": "3"
+},
+{
+"name": "Catamarca",
+"visitors": "2"
+},
+{
+"name": "Chuquisaca",
+"visitors": "2"
+},
+{
+"name": "Quebec",
+"visitors": "2"
+},
+{
+"name": "Zhejiang",
+"visitors": "2"
+},
+{
+"name": "Caldas",
+"visitors": "2"
+},
+{
+"name": "Heredia",
+"visitors": "2"
+},
+{
+"name": "El Oro",
+"visitors": "2"
+},
+{
+"name": "Hauts-de-France",
+"visitors": "2"
+},
+{
+"name": "Maharashtra",
+"visitors": "2"
+},
+{
+"name": "Telang\u0101na",
+"visitors": "2"
+},
+{
+"name": "Calabria",
+"visitors": "2"
+},
+{
+"name": "Riga",
+"visitors": "2"
+},
+{
+"name": "Colima",
+"visitors": "2"
+},
+{
+"name": "Tlaxcala",
+"visitors": "2"
+},
+{
+"name": "Zacatecas",
+"visitors": "2"
+},
+{
+"name": "Chiriqu\u00ed",
+"visitors": "2"
+},
+{
+"name": "Ica",
+"visitors": "2"
+},
+{
+"name": "Puno",
+"visitors": "2"
+},
+{
+"name": "Mazovia",
+"visitors": "2"
+},
+{
+"name": "Lisbon",
+"visitors": "2"
+},
+{
+"name": "Georgia",
+"visitors": "2"
+},
+{
+"name": "Indiana",
+"visitors": "2"
+},
+{
+"name": "New Jersey",
+"visitors": "2"
+},
+{
+"name": "Barinas",
+"visitors": "2"
+},
+{
+"name": "Miranda",
+"visitors": "2"
+},
+{
+"name": "Andorra la Vella",
+"visitors": "1"
+},
+{
+"name": "San Juan",
+"visitors": "1"
+},
+{
+"name": "Neuqu\u00e9n",
+"visitors": "1"
+},
+{
+"name": "Tierra del Fuego",
+"visitors": "1"
+},
+{
+"name": "New South Wales",
+"visitors": "1"
+},
+{
+"name": "Federation of Bosnia and Herzegovina",
+"visitors": "1"
+},
+{
+"name": "Wallonia",
+"visitors": "1"
+},
+{
+"name": "Sofia",
+"visitors": "1"
+},
+{
+"name": "Northern",
+"visitors": "1"
+},
+{
+"name": "Paran\u00e1",
+"visitors": "1"
+},
+{
+"name": "Rio de Janeiro",
+"visitors": "1"
+},
+{
+"name": "Rio Grande do Sul",
+"visitors": "1"
+},
+{
+"name": "British Columbia",
+"visitors": "1"
+},
+{
+"name": "Ontario",
+"visitors": "1"
+},
+{
+"name": "Coquimbo",
+"visitors": "1"
+},
+{
+"name": "\u00d1uble",
+"visitors": "1"
+},
+{
+"name": "Anhui",
+"visitors": "1"
+},
+{
+"name": "Hunan",
+"visitors": "1"
+},
+{
+"name": "Shanghai",
+"visitors": "1"
+},
+{
+"name": "Casanare",
+"visitors": "1"
+},
+{
+"name": "Choc\u00f3",
+"visitors": "1"
+},
+{
+"name": "Putumayo",
+"visitors": "1"
+},
+{
+"name": "Quind\u00edo",
+"visitors": "1"
+},
+{
+"name": "Alajuela",
+"visitors": "1"
+},
+{
+"name": "Lim\u00f3n",
+"visitors": "1"
+},
+{
+"name": "Berlin",
+"visitors": "1"
+},
+{
+"name": "Hamburg",
+"visitors": "1"
+},
+{
+"name": "North Rhine-Westphalia",
+"visitors": "1"
+},
+{
+"name": "San Pedro de Macor\u00eds",
+"visitors": "1"
+},
+{
+"name": "Laghouat",
+"visitors": "1"
+},
+{
+"name": "Manab\u00ed",
+"visitors": "1"
+},
+{
+"name": "Los R\u00edos",
+"visitors": "1"
+},
+{
+"name": "Tungurahua",
+"visitors": "1"
+},
+{
+"name": "Cotopaxi",
+"visitors": "1"
+},
+{
+"name": "Cantabria",
+"visitors": "1"
+},
+{
+"name": "Provence-Alpes-C\u00f4te-d'Azur",
+"visitors": "1"
+},
+{
+"name": "Quetzaltenango",
+"visitors": "1"
+},
+{
+"name": "Atl\u00e1ntida",
+"visitors": "1"
+},
+{
+"name": "Zagreb",
+"visitors": "1"
+},
+{
+"name": "Gujarat",
+"visitors": "1"
+},
+{
+"name": "Karnataka",
+"visitors": "1"
+},
+{
+"name": "Tamil Nadu",
+"visitors": "1"
+},
+{
+"name": "Veneto",
+"visitors": "1"
+},
+{
+"name": "Liguria",
+"visitors": "1"
+},
+{
+"name": "Tokyo",
+"visitors": "1"
+},
+{
+"name": "Durango",
+"visitors": "1"
+},
+{
+"name": "Oaxaca",
+"visitors": "1"
+},
+{
+"name": "Ancash",
+"visitors": "1"
+},
+{
+"name": "El Callao",
+"visitors": "1"
+},
+{
+"name": "Jun\u00edn",
+"visitors": "1"
+},
+{
+"name": "Viseu",
+"visitors": "1"
+},
+{
+"name": "Itap\u00faa",
+"visitors": "1"
+},
+{
+"name": "Beograd",
+"visitors": "1"
+},
+{
+"name": "Bashkortostan",
+"visitors": "1"
+},
+{
+"name": "Ankara",
+"visitors": "1"
+},
+{
+"name": "Istanbul",
+"visitors": "1"
+},
+{
+"name": "Kocaeli",
+"visitors": "1"
+},
+{
+"name": "Central",
+"visitors": "1"
+},
+{
+"name": "Louisiana",
+"visitors": "1"
+},
+{
+"name": "Michigan",
+"visitors": "1"
+},
+{
+"name": "South Carolina",
+"visitors": "1"
+},
+{
+"name": "Virginia",
+"visitors": "1"
+},
+{
+"name": "Washington",
+"visitors": "1"
+},
+{
+"name": "Canelones",
+"visitors": "1"
+},
+{
+"name": "Maldonado",
+"visitors": "1"
+},
+{
+"name": "Hanoi",
+"visitors": "1"
+}
+]
