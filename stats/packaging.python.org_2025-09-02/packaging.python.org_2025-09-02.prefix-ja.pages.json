@@ -1,0 +1,418 @@
+[
+{
+"name": "/ja/latest/tutorials/installing-packages/",
+"visitors": "103",
+"pageviews": "113",
+"bounce_rate": "78",
+"time_on_page": "47",
+"scroll_depth": "39"
+},
+{
+"name": "/ja/latest/guides/installing-using-pip-and-virtual-environments/",
+"visitors": "75",
+"pageviews": "81",
+"bounce_rate": "93",
+"time_on_page": "34",
+"scroll_depth": "49"
+},
+{
+"name": "/ja/latest/guides/writing-pyproject-toml/",
+"visitors": "70",
+"pageviews": "80",
+"bounce_rate": "71",
+"time_on_page": "50",
+"scroll_depth": "45"
+},
+{
+"name": "/ja/latest/tutorials/packaging-projects/",
+"visitors": "17",
+"pageviews": "14",
+"bounce_rate": "82",
+"time_on_page": "32",
+"scroll_depth": "56"
+},
+{
+"name": "/ja/latest/guides/distributing-packages-using-setuptools/",
+"visitors": "11",
+"pageviews": "13",
+"bounce_rate": "50",
+"time_on_page": "54",
+"scroll_depth": "52"
+},
+{
+"name": "/ja/latest/discussions/src-layout-vs-flat-layout/",
+"visitors": "10",
+"pageviews": "9",
+"bounce_rate": "50",
+"time_on_page": "88",
+"scroll_depth": "81"
+},
+{
+"name": "/ja/latest/guides/installing-using-linux-tools/",
+"visitors": "8",
+"pageviews": "7",
+"bounce_rate": "80",
+"time_on_page": "13",
+"scroll_depth": "64"
+},
+{
+"name": "/ja/latest/discussions/setup-py-deprecated/",
+"visitors": "7",
+"pageviews": "6",
+"bounce_rate": "100",
+"time_on_page": "8",
+"scroll_depth": "39"
+},
+{
+"name": "/ja/latest/glossary/",
+"visitors": "7",
+"pageviews": "6",
+"bounce_rate": "100",
+"time_on_page": "26",
+"scroll_depth": "34"
+},
+{
+"name": "/ja/latest/guides/modernize-setup-py-project/",
+"visitors": "7",
+"pageviews": "6",
+"bounce_rate": "83",
+"time_on_page": "4",
+"scroll_depth": "43"
+},
+{
+"name": "/ja/latest/key_projects/",
+"visitors": "7",
+"pageviews": "6",
+"bounce_rate": "50",
+"time_on_page": "12",
+"scroll_depth": "32"
+},
+{
+"name": "/ja/latest/",
+"visitors": "6",
+"pageviews": "6",
+"bounce_rate": "67",
+"time_on_page": "25",
+"scroll_depth": "85"
+},
+{
+"name": "/ja/latest/discussions/package-formats/",
+"visitors": "6",
+"pageviews": "6",
+"bounce_rate": "25",
+"time_on_page": "20",
+"scroll_depth": "86"
+},
+{
+"name": "/ja/latest/specifications/dependency-specifiers/",
+"visitors": "6",
+"pageviews": "8",
+"bounce_rate": "100",
+"time_on_page": "53",
+"scroll_depth": "38"
+},
+{
+"name": "/ja/latest/guides/packaging-namespace-packages/",
+"visitors": "5",
+"pageviews": "6",
+"bounce_rate": "67",
+"time_on_page": "3",
+"scroll_depth": "26"
+},
+{
+"name": "/ja/latest/guides/tool-recommendations/",
+"visitors": "5",
+"pageviews": "5",
+"bounce_rate": "0",
+"time_on_page": "38",
+"scroll_depth": "43"
+},
+{
+"name": "/ja/latest/tutorials/managing-dependencies/",
+"visitors": "5",
+"pageviews": "5",
+"bounce_rate": "100",
+"time_on_page": "52",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/discussions/deploying-python-applications/",
+"visitors": "3",
+"pageviews": "2",
+"bounce_rate": "100",
+"time_on_page": "16",
+"scroll_depth": "80"
+},
+{
+"name": "/ja/latest/discussions/install-requires-vs-requirements/",
+"visitors": "3",
+"pageviews": "3",
+"bounce_rate": "100",
+"time_on_page": "11",
+"scroll_depth": "98"
+},
+{
+"name": "/ja/latest/discussions/pip-vs-easy-install/",
+"visitors": "3",
+"pageviews": "3",
+"bounce_rate": "100",
+"time_on_page": "7",
+"scroll_depth": "61"
+},
+{
+"name": "/ja/latest/flow/",
+"visitors": "3",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "23",
+"scroll_depth": "75"
+},
+{
+"name": "/ja/latest/guides/",
+"visitors": "3",
+"pageviews": "3",
+"bounce_rate": "0",
+"time_on_page": "14",
+"scroll_depth": "92"
+},
+{
+"name": "/ja/latest/guides/dropping-older-python-versions/",
+"visitors": "3",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "1",
+"scroll_depth": "30"
+},
+{
+"name": "/ja/latest/guides/section-build-and-publish/",
+"visitors": "3",
+"pageviews": "5",
+"bounce_rate": "100",
+"time_on_page": "8",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/specifications/inline-script-metadata/",
+"visitors": "3",
+"pageviews": "3",
+"bounce_rate": "100",
+"time_on_page": "30",
+"scroll_depth": "68"
+},
+{
+"name": "/ja/latest/tutorials/",
+"visitors": "3",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "6",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/discussions/single-source-version/",
+"visitors": "2",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "34",
+"scroll_depth": "81"
+},
+{
+"name": "/ja/latest/guides/analyzing-pypi-package-downloads/",
+"visitors": "2",
+"pageviews": "2",
+"bounce_rate": "100",
+"time_on_page": "5",
+"scroll_depth": "38"
+},
+{
+"name": "/ja/latest/guides/creating-and-discovering-plugins/",
+"visitors": "2",
+"pageviews": "4",
+"bounce_rate": "100",
+"time_on_page": "8",
+"scroll_depth": "52"
+},
+{
+"name": "/ja/latest/guides/creating-command-line-tools/",
+"visitors": "2",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "104",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/guides/index-mirrors-and-caches/",
+"visitors": "2",
+"pageviews": "2",
+"bounce_rate": "100",
+"time_on_page": "8",
+"scroll_depth": "71"
+},
+{
+"name": "/ja/latest/guides/installing-scientific-packages/",
+"visitors": "2",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "61",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/guides/packaging-binary-extensions/",
+"visitors": "2",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "3",
+"scroll_depth": "12"
+},
+{
+"name": "/ja/latest/overview/",
+"visitors": "2",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "25",
+"scroll_depth": "66"
+},
+{
+"name": "/ja/latest/specifications/pyproject-toml/",
+"visitors": "2",
+"pageviews": "2",
+"bounce_rate": "50",
+"time_on_page": "1",
+"scroll_depth": "14"
+},
+{
+"name": "/ja/latest/discussions/distribution-package-vs-import-package/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "85",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/discussions/versioning/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "",
+"scroll_depth": ""
+},
+{
+"name": "/ja/latest/guides/installing-stand-alone-command-line-tools/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "12",
+"scroll_depth": "76"
+},
+{
+"name": "/ja/latest/guides/licensing-examples-and-user-scenarios/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "4",
+"scroll_depth": "43"
+},
+{
+"name": "/ja/latest/guides/making-a-pypi-friendly-readme/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "",
+"scroll_depth": ""
+},
+{
+"name": "/ja/latest/guides/migrating-to-pypi-org/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "18",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "71",
+"scroll_depth": "65"
+},
+{
+"name": "/ja/latest/guides/section-install/",
+"visitors": "1",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "11",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/guides/using-manifest-in/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "",
+"scroll_depth": ""
+},
+{
+"name": "/ja/latest/search/",
+"visitors": "1",
+"pageviews": "2",
+"bounce_rate": "0",
+"time_on_page": "7",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/specifications/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "11",
+"scroll_depth": "100"
+},
+{
+"name": "/ja/latest/specifications/binary-distribution-format/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "",
+"scroll_depth": ""
+},
+{
+"name": "/ja/latest/specifications/direct-url-data-structure/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "1",
+"scroll_depth": "8"
+},
+{
+"name": "/ja/latest/specifications/direct-url/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "5",
+"scroll_depth": "74"
+},
+{
+"name": "/ja/latest/specifications/platform-compatibility-tags/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "100",
+"time_on_page": "0",
+"scroll_depth": "31"
+},
+{
+"name": "/ja/latest/specifications/version-specifiers/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "306",
+"scroll_depth": "39"
+},
+{
+"name": "/ja/latest/specifications/well-known-project-urls/",
+"visitors": "1",
+"pageviews": "1",
+"bounce_rate": "0",
+"time_on_page": "5",
+"scroll_depth": "68"
+}
+]
