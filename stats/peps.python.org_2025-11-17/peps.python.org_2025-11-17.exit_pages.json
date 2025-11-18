@@ -1,0 +1,602 @@
+[
+{
+"name": "/",
+"unique_exits": "891635",
+"total_exits": "961677",
+"exit_rate": "98.0"
+},
+{
+"name": "/pep-0008/",
+"unique_exits": "5514",
+"total_exits": "5758",
+"exit_rate": "89.5"
+},
+{
+"name": "/pep-0693/",
+"unique_exits": "3117",
+"total_exits": "3139",
+"exit_rate": "78.8"
+},
+{
+"name": "/pep-0745/",
+"unique_exits": "2769",
+"total_exits": "2780",
+"exit_rate": "84.8"
+},
+{
+"name": "/pep-0664/",
+"unique_exits": "2544",
+"total_exits": "2562",
+"exit_rate": "77.4"
+},
+{
+"name": "/pep-0619/",
+"unique_exits": "1838",
+"total_exits": "1850",
+"exit_rate": "78.5"
+},
+{
+"name": "/pep-0719/",
+"unique_exits": "1305",
+"total_exits": "1313",
+"exit_rate": "78.0"
+},
+{
+"name": "/pep-0790/",
+"unique_exits": "888",
+"total_exits": "892",
+"exit_rate": "80.4"
+},
+{
+"name": "/pep-0257/",
+"unique_exits": "725",
+"total_exits": "748",
+"exit_rate": "86.4"
+},
+{
+"name": "/pep-0020/",
+"unique_exits": "502",
+"total_exits": "521",
+"exit_rate": "87.4"
+},
+{
+"name": "/pep-0263/",
+"unique_exits": "490",
+"total_exits": "503",
+"exit_rate": "91.5"
+},
+{
+"name": "/pep-0596/",
+"unique_exits": "444",
+"total_exits": "446",
+"exit_rate": "80.2"
+},
+{
+"name": "/topic/release/",
+"unique_exits": "382",
+"total_exits": "384",
+"exit_rate": "31.9"
+},
+{
+"name": "/pep-0484/",
+"unique_exits": "302",
+"total_exits": "308",
+"exit_rate": "81.5"
+},
+{
+"name": "/pep-0249/",
+"unique_exits": "250",
+"total_exits": "256",
+"exit_rate": "89.5"
+},
+{
+"name": "/pep-0440/",
+"unique_exits": "223",
+"total_exits": "231",
+"exit_rate": "91.3"
+},
+{
+"name": "/pep-0000/",
+"unique_exits": "193",
+"total_exits": "192",
+"exit_rate": "48.6"
+},
+{
+"name": "/pep-0636/",
+"unique_exits": "193",
+"total_exits": "197",
+"exit_rate": "85.3"
+},
+{
+"name": "/pep-0810/",
+"unique_exits": "187",
+"total_exits": "193",
+"exit_rate": "79.8"
+},
+{
+"name": "/pep-0668/",
+"unique_exits": "149",
+"total_exits": "149",
+"exit_rate": "93.7"
+},
+{
+"name": "/pep-0602/",
+"unique_exits": "140",
+"total_exits": "140",
+"exit_rate": "48.1"
+},
+{
+"name": "/pep-0623/",
+"unique_exits": "124",
+"total_exits": "124",
+"exit_rate": "78.0"
+},
+{
+"name": "/pep-0703/",
+"unique_exits": "103",
+"total_exits": "107",
+"exit_rate": "82.9"
+},
+{
+"name": "/pep-0498/",
+"unique_exits": "97",
+"total_exits": "100",
+"exit_rate": "82.0"
+},
+{
+"name": "/pep-0621/",
+"unique_exits": "93",
+"total_exits": "98",
+"exit_rate": "81.0"
+},
+{
+"name": "/pep-0508/",
+"unique_exits": "90",
+"total_exits": "91",
+"exit_rate": "83.5"
+},
+{
+"name": "/pep-0585/",
+"unique_exits": "82",
+"total_exits": "83",
+"exit_rate": "85.6"
+},
+{
+"name": "/pep-0572/",
+"unique_exits": "77",
+"total_exits": "78",
+"exit_rate": "88.6"
+},
+{
+"name": "/pep-0517/",
+"unique_exits": "76",
+"total_exits": "81",
+"exit_rate": "84.4"
+},
+{
+"name": "/pep-0589/",
+"unique_exits": "76",
+"total_exits": "76",
+"exit_rate": "93.8"
+},
+{
+"name": "/pep-0750/",
+"unique_exits": "75",
+"total_exits": "76",
+"exit_rate": "90.5"
+},
+{
+"name": "/pep-3333/",
+"unique_exits": "73",
+"total_exits": "77",
+"exit_rate": "93.9"
+},
+{
+"name": "/pep-0318/",
+"unique_exits": "71",
+"total_exits": "71",
+"exit_rate": "87.7"
+},
+{
+"name": "/pep-0420/",
+"unique_exits": "68",
+"total_exits": "68",
+"exit_rate": "75.6"
+},
+{
+"name": "/pep-0604/",
+"unique_exits": "68",
+"total_exits": "68",
+"exit_rate": "81.9"
+},
+{
+"name": "/pep-0695/",
+"unique_exits": "67",
+"total_exits": "69",
+"exit_rate": "69.7"
+},
+{
+"name": "/pep-0518/",
+"unique_exits": "65",
+"total_exits": "65",
+"exit_rate": "78.3"
+},
+{
+"name": "/pep-0586/",
+"unique_exits": "62",
+"total_exits": "62",
+"exit_rate": "87.3"
+},
+{
+"name": "/pep-0492/",
+"unique_exits": "61",
+"total_exits": "61",
+"exit_rate": "78.2"
+},
+{
+"name": "/pep-0525/",
+"unique_exits": "59",
+"total_exits": "62",
+"exit_rate": "83.8"
+},
+{
+"name": "/pep-0544/",
+"unique_exits": "59",
+"total_exits": "60",
+"exit_rate": "90.9"
+},
+{
+"name": "/pep-0561/",
+"unique_exits": "58",
+"total_exits": "58",
+"exit_rate": "89.2"
+},
+{
+"name": "/pep-0649/",
+"unique_exits": "58",
+"total_exits": "59",
+"exit_rate": "69.4"
+},
+{
+"name": "/pep-0702/",
+"unique_exits": "58",
+"total_exits": "58",
+"exit_rate": "84.1"
+},
+{
+"name": "/pep-0798/",
+"unique_exits": "56",
+"total_exits": "58",
+"exit_rate": "80.6"
+},
+{
+"name": "/pep-0632/",
+"unique_exits": "55",
+"total_exits": "56",
+"exit_rate": "93.3"
+},
+{
+"name": "/pep-0735/",
+"unique_exits": "55",
+"total_exits": "55",
+"exit_rate": "88.7"
+},
+{
+"name": "/pep-0563/",
+"unique_exits": "53",
+"total_exits": "53",
+"exit_rate": "81.5"
+},
+{
+"name": "/pep-0673/",
+"unique_exits": "53",
+"total_exits": "54",
+"exit_rate": "84.4"
+},
+{
+"name": "/pep-0594/",
+"unique_exits": "51",
+"total_exits": "51",
+"exit_rate": "85.0"
+},
+{
+"name": "/pep-0526/",
+"unique_exits": "50",
+"total_exits": "51",
+"exit_rate": "77.3"
+},
+{
+"name": "/pep-0569/",
+"unique_exits": "50",
+"total_exits": "50",
+"exit_rate": "87.7"
+},
+{
+"name": "/pep-0343/",
+"unique_exits": "49",
+"total_exits": "49",
+"exit_rate": "89.1"
+},
+{
+"name": "/pep-0515/",
+"unique_exits": "49",
+"total_exits": "54",
+"exit_rate": "93.1"
+},
+{
+"name": "/pep-3107/",
+"unique_exits": "49",
+"total_exits": "48",
+"exit_rate": "69.6"
+},
+{
+"name": "/pep-0471/",
+"unique_exits": "46",
+"total_exits": "47",
+"exit_rate": "94.0"
+},
+{
+"name": "/pep-0557/",
+"unique_exits": "44",
+"total_exits": "47",
+"exit_rate": "88.7"
+},
+{
+"name": "/pep-0657/",
+"unique_exits": "44",
+"total_exits": "44",
+"exit_rate": "75.9"
+},
+{
+"name": "/pep-0639/",
+"unique_exits": "41",
+"total_exits": "41",
+"exit_rate": "75.9"
+},
+{
+"name": "/pep-0723/",
+"unique_exits": "41",
+"total_exits": "43",
+"exit_rate": "86.0"
+},
+{
+"name": "/pep-0751/",
+"unique_exits": "41",
+"total_exits": "41",
+"exit_rate": "95.3"
+},
+{
+"name": "/pep-3101/",
+"unique_exits": "41",
+"total_exits": "43",
+"exit_rate": "87.8"
+},
+{
+"name": "/pep-0698/",
+"unique_exits": "39",
+"total_exits": "39",
+"exit_rate": "84.8"
+},
+{
+"name": "/pep-0397/",
+"unique_exits": "38",
+"total_exits": "41",
+"exit_rate": "91.1"
+},
+{
+"name": "/pep-0007/",
+"unique_exits": "37",
+"total_exits": "37",
+"exit_rate": "67.3"
+},
+{
+"name": "/pep-0011/",
+"unique_exits": "37",
+"total_exits": "37",
+"exit_rate": "78.7"
+},
+{
+"name": "/pep-0287/",
+"unique_exits": "37",
+"total_exits": "38",
+"exit_rate": "70.4"
+},
+{
+"name": "/pep-0634/",
+"unique_exits": "37",
+"total_exits": "37",
+"exit_rate": "64.9"
+},
+{
+"name": "/pep-3102/",
+"unique_exits": "37",
+"total_exits": "37",
+"exit_rate": "90.2"
+},
+{
+"name": "/pep-0427/",
+"unique_exits": "36",
+"total_exits": "37",
+"exit_rate": "88.1"
+},
+{
+"name": "/pep-0001/",
+"unique_exits": "35",
+"total_exits": "35",
+"exit_rate": "61.4"
+},
+{
+"name": "/pep-0646/",
+"unique_exits": "35",
+"total_exits": "36",
+"exit_rate": "72.0"
+},
+{
+"name": "/pep-0654/",
+"unique_exits": "35",
+"total_exits": "35",
+"exit_rate": "70.0"
+},
+{
+"name": "/pep-0622/",
+"unique_exits": "34",
+"total_exits": "34",
+"exit_rate": "81.0"
+},
+{
+"name": "/pep-0661/",
+"unique_exits": "34",
+"total_exits": "34",
+"exit_rate": "91.9"
+},
+{
+"name": "/pep-0423/",
+"unique_exits": "33",
+"total_exits": "34",
+"exit_rate": "70.8"
+},
+{
+"name": "/pep-0436/",
+"unique_exits": "33",
+"total_exits": "33",
+"exit_rate": "97.1"
+},
+{
+"name": "/pep-0487/",
+"unique_exits": "33",
+"total_exits": "34",
+"exit_rate": "87.2"
+},
+{
+"name": "/pep-0749/",
+"unique_exits": "33",
+"total_exits": "33",
+"exit_rate": "71.7"
+},
+{
+"name": "/pep-0483/",
+"unique_exits": "32",
+"total_exits": "32",
+"exit_rate": "80.0"
+},
+{
+"name": "/pep-0584/",
+"unique_exits": "32",
+"total_exits": "32",
+"exit_rate": "86.5"
+},
+{
+"name": "/pep-3119/",
+"unique_exits": "32",
+"total_exits": "32",
+"exit_rate": "91.4"
+},
+{
+"name": "/pep-0784/",
+"unique_exits": "31",
+"total_exits": "31",
+"exit_rate": "81.6"
+},
+{
+"name": "/pep-0405/",
+"unique_exits": "30",
+"total_exits": "30",
+"exit_rate": "96.8"
+},
+{
+"name": "/pep-0328/",
+"unique_exits": "27",
+"total_exits": "27",
+"exit_rate": "84.4"
+},
+{
+"name": "/pep-0612/",
+"unique_exits": "27",
+"total_exits": "27",
+"exit_rate": "73.0"
+},
+{
+"name": "/pep-0647/",
+"unique_exits": "27",
+"total_exits": "27",
+"exit_rate": "84.4"
+},
+{
+"name": "/pep-0734/",
+"unique_exits": "27",
+"total_exits": "28",
+"exit_rate": "77.8"
+},
+{
+"name": "/pep-0541/",
+"unique_exits": "26",
+"total_exits": "26",
+"exit_rate": "89.7"
+},
+{
+"name": "/pep-0814/",
+"unique_exits": "26",
+"total_exits": "27",
+"exit_rate": "71.1"
+},
+{
+"name": "/pep-0765/",
+"unique_exits": "25",
+"total_exits": "26",
+"exit_rate": "76.5"
+},
+{
+"name": "/pep-0591/",
+"unique_exits": "24",
+"total_exits": "24",
+"exit_rate": "92.3"
+},
+{
+"name": "/pep-0690/",
+"unique_exits": "24",
+"total_exits": "25",
+"exit_rate": "92.6"
+},
+{
+"name": "/pep-0503/",
+"unique_exits": "23",
+"total_exits": "25",
+"exit_rate": "75.8"
+},
+{
+"name": "/pep-0744/",
+"unique_exits": "22",
+"total_exits": "23",
+"exit_rate": "62.2"
+},
+{
+"name": "/pep-0773/",
+"unique_exits": "22",
+"total_exits": "22",
+"exit_rate": "64.7"
+},
+{
+"name": "/pep-0289/",
+"unique_exits": "21",
+"total_exits": "21",
+"exit_rate": "91.3"
+},
+{
+"name": "/pep-0465/",
+"unique_exits": "21",
+"total_exits": "22",
+"exit_rate": "78.6"
+},
+{
+"name": "/pep-0567/",
+"unique_exits": "21",
+"total_exits": "21",
+"exit_rate": "87.5"
+},
+{
+"name": "/pep-0779/",
+"unique_exits": "21",
+"total_exits": "21",
+"exit_rate": "63.6"
+}
+]
