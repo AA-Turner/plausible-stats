@@ -1,0 +1,886 @@
+[
+{
+"name": "Brazil",
+"visitors": "331356"
+},
+{
+"name": "India",
+"visitors": "114312"
+},
+{
+"name": "United States",
+"visitors": "86984"
+},
+{
+"name": "Argentina",
+"visitors": "47302"
+},
+{
+"name": "Vietnam",
+"visitors": "25466"
+},
+{
+"name": "Indonesia",
+"visitors": "22885"
+},
+{
+"name": "Ecuador",
+"visitors": "17808"
+},
+{
+"name": "Mexico",
+"visitors": "16872"
+},
+{
+"name": "Malaysia",
+"visitors": "15471"
+},
+{
+"name": "Bangladesh",
+"visitors": "14140"
+},
+{
+"name": "Philippines",
+"visitors": "13784"
+},
+{
+"name": "Chile",
+"visitors": "12717"
+},
+{
+"name": "Turkey",
+"visitors": "12684"
+},
+{
+"name": "Colombia",
+"visitors": "12378"
+},
+{
+"name": "France",
+"visitors": "12254"
+},
+{
+"name": "Russian Federation",
+"visitors": "10674"
+},
+{
+"name": "Spain",
+"visitors": "10147"
+},
+{
+"name": "South Africa",
+"visitors": "9226"
+},
+{
+"name": "Peru",
+"visitors": "7789"
+},
+{
+"name": "Pakistan",
+"visitors": "7418"
+},
+{
+"name": "Ukraine",
+"visitors": "6877"
+},
+{
+"name": "Poland",
+"visitors": "6640"
+},
+{
+"name": "Nepal",
+"visitors": "6197"
+},
+{
+"name": "Italy",
+"visitors": "5627"
+},
+{
+"name": "Paraguay",
+"visitors": "5574"
+},
+{
+"name": "Iraq",
+"visitors": "5294"
+},
+{
+"name": "Venezuela",
+"visitors": "4796"
+},
+{
+"name": "Algeria",
+"visitors": "4765"
+},
+{
+"name": "Saudi Arabia",
+"visitors": "4477"
+},
+{
+"name": "Thailand",
+"visitors": "4314"
+},
+{
+"name": "Morocco",
+"visitors": "4152"
+},
+{
+"name": "United Arab Emirates",
+"visitors": "4059"
+},
+{
+"name": "Uruguay",
+"visitors": "3696"
+},
+{
+"name": "Egypt",
+"visitors": "3654"
+},
+{
+"name": "Portugal",
+"visitors": "3356"
+},
+{
+"name": "China",
+"visitors": "3122"
+},
+{
+"name": "Dominican Republic",
+"visitors": "2713"
+},
+{
+"name": "Japan",
+"visitors": "2573"
+},
+{
+"name": "Netherlands",
+"visitors": "2396"
+},
+{
+"name": "Tunisia",
+"visitors": "2209"
+},
+{
+"name": "Cambodia",
+"visitors": "2062"
+},
+{
+"name": "Taiwan",
+"visitors": "1844"
+},
+{
+"name": "Uzbekistan",
+"visitors": "1754"
+},
+{
+"name": "Trinidad and Tobago",
+"visitors": "1734"
+},
+{
+"name": "Kuwait",
+"visitors": "1677"
+},
+{
+"name": "Belgium",
+"visitors": "1676"
+},
+{
+"name": "Romania",
+"visitors": "1671"
+},
+{
+"name": "Kenya",
+"visitors": "1651"
+},
+{
+"name": "Singapore",
+"visitors": "1649"
+},
+{
+"name": "Kazakhstan",
+"visitors": "1634"
+},
+{
+"name": "Germany",
+"visitors": "1633"
+},
+{
+"name": "Belarus",
+"visitors": "1614"
+},
+{
+"name": "Jordan",
+"visitors": "1603"
+},
+{
+"name": "Greece",
+"visitors": "1592"
+},
+{
+"name": "Czechia",
+"visitors": "1539"
+},
+{
+"name": "Ireland",
+"visitors": "1475"
+},
+{
+"name": "Norway",
+"visitors": "1442"
+},
+{
+"name": "Hungary",
+"visitors": "1399"
+},
+{
+"name": "Jamaica",
+"visitors": "1386"
+},
+{
+"name": "Bolivia",
+"visitors": "1384"
+},
+{
+"name": "Sweden",
+"visitors": "1374"
+},
+{
+"name": "Senegal",
+"visitors": "1241"
+},
+{
+"name": "Bulgaria",
+"visitors": "1200"
+},
+{
+"name": "Serbia",
+"visitors": "1179"
+},
+{
+"name": "Albania",
+"visitors": "1090"
+},
+{
+"name": "New Zealand",
+"visitors": "1084"
+},
+{
+"name": "Barbados",
+"visitors": "1080"
+},
+{
+"name": "Honduras",
+"visitors": "998"
+},
+{
+"name": "Slovakia",
+"visitors": "990"
+},
+{
+"name": "Guatemala",
+"visitors": "980"
+},
+{
+"name": "Costa Rica",
+"visitors": "943"
+},
+{
+"name": "Panama",
+"visitors": "935"
+},
+{
+"name": "Sri Lanka",
+"visitors": "934"
+},
+{
+"name": "Denmark",
+"visitors": "928"
+},
+{
+"name": "Oman",
+"visitors": "916"
+},
+{
+"name": "United Kingdom",
+"visitors": "906"
+},
+{
+"name": "Switzerland",
+"visitors": "825"
+},
+{
+"name": "Georgia",
+"visitors": "795"
+},
+{
+"name": "Bahrain",
+"visitors": "787"
+},
+{
+"name": "Finland",
+"visitors": "771"
+},
+{
+"name": "Qatar",
+"visitors": "770"
+},
+{
+"name": "Mongolia",
+"visitors": "764"
+},
+{
+"name": "El Salvador",
+"visitors": "757"
+},
+{
+"name": "Hong Kong",
+"visitors": "746"
+},
+{
+"name": "Lithuania",
+"visitors": "738"
+},
+{
+"name": "Moldova",
+"visitors": "729"
+},
+{
+"name": "Lebanon",
+"visitors": "664"
+},
+{
+"name": "Armenia",
+"visitors": "647"
+},
+{
+"name": "Bosnia and Herzegovina",
+"visitors": "647"
+},
+{
+"name": "Kosovo",
+"visitors": "642"
+},
+{
+"name": "Latvia",
+"visitors": "621"
+},
+{
+"name": "Palestine, State of",
+"visitors": "595"
+},
+{
+"name": "Croatia",
+"visitors": "573"
+},
+{
+"name": "Azerbaijan",
+"visitors": "562"
+},
+{
+"name": "Brunei Darussalam",
+"visitors": "558"
+},
+{
+"name": "Puerto Rico",
+"visitors": "551"
+},
+{
+"name": "C\u00f4te d'Ivoire",
+"visitors": "547"
+},
+{
+"name": "Canada",
+"visitors": "517"
+},
+{
+"name": "North Macedonia",
+"visitors": "490"
+},
+{
+"name": "Myanmar",
+"visitors": "475"
+},
+{
+"name": "Kyrgyzstan",
+"visitors": "463"
+},
+{
+"name": "Bahamas",
+"visitors": "435"
+},
+{
+"name": "Slovenia",
+"visitors": "400"
+},
+{
+"name": "Nicaragua",
+"visitors": "395"
+},
+{
+"name": "Estonia",
+"visitors": "365"
+},
+{
+"name": "Libya",
+"visitors": "363"
+},
+{
+"name": "Cyprus",
+"visitors": "345"
+},
+{
+"name": "Ethiopia",
+"visitors": "342"
+},
+{
+"name": "Ghana",
+"visitors": "327"
+},
+{
+"name": "Guyana",
+"visitors": "321"
+},
+{
+"name": "Burkina Faso",
+"visitors": "315"
+},
+{
+"name": "Angola",
+"visitors": "302"
+},
+{
+"name": "Australia",
+"visitors": "301"
+},
+{
+"name": "Macao",
+"visitors": "300"
+},
+{
+"name": "Laos",
+"visitors": "285"
+},
+{
+"name": "Iran",
+"visitors": "281"
+},
+{
+"name": "Nigeria",
+"visitors": "258"
+},
+{
+"name": "Mauritius",
+"visitors": "248"
+},
+{
+"name": "Gabon",
+"visitors": "236"
+},
+{
+"name": "Malta",
+"visitors": "232"
+},
+{
+"name": "Belize",
+"visitors": "207"
+},
+{
+"name": "Israel",
+"visitors": "206"
+},
+{
+"name": "South Korea",
+"visitors": "192"
+},
+{
+"name": "Maldives",
+"visitors": "191"
+},
+{
+"name": "Uganda",
+"visitors": "185"
+},
+{
+"name": "Togo",
+"visitors": "174"
+},
+{
+"name": "Tanzania",
+"visitors": "166"
+},
+{
+"name": "Congo",
+"visitors": "157"
+},
+{
+"name": "Suriname",
+"visitors": "157"
+},
+{
+"name": "Syria",
+"visitors": "141"
+},
+{
+"name": "Luxembourg",
+"visitors": "139"
+},
+{
+"name": "Montenegro",
+"visitors": "139"
+},
+{
+"name": "Botswana",
+"visitors": "129"
+},
+{
+"name": "Saint Lucia",
+"visitors": "122"
+},
+{
+"name": "Zimbabwe",
+"visitors": "121"
+},
+{
+"name": "Saint Vincent and the Grenadines",
+"visitors": "117"
+},
+{
+"name": "Iceland",
+"visitors": "113"
+},
+{
+"name": "Mozambique",
+"visitors": "99"
+},
+{
+"name": "Austria",
+"visitors": "92"
+},
+{
+"name": "Cayman Islands",
+"visitors": "92"
+},
+{
+"name": "R\u00e9union",
+"visitors": "88"
+},
+{
+"name": "Haiti",
+"visitors": "86"
+},
+{
+"name": "Grenada",
+"visitors": "85"
+},
+{
+"name": "Guadeloupe",
+"visitors": "80"
+},
+{
+"name": "Bermuda",
+"visitors": "78"
+},
+{
+"name": "Antigua and Barbuda",
+"visitors": "74"
+},
+{
+"name": "Fiji",
+"visitors": "74"
+},
+{
+"name": "Cura\u00e7ao",
+"visitors": "73"
+},
+{
+"name": "Madagascar",
+"visitors": "71"
+},
+{
+"name": "Martinique",
+"visitors": "70"
+},
+{
+"name": "Mauritania",
+"visitors": "69"
+},
+{
+"name": "Somalia",
+"visitors": "67"
+},
+{
+"name": "Saint Kitts and Nevis",
+"visitors": "57"
+},
+{
+"name": "Tajikistan",
+"visitors": "54"
+},
+{
+"name": "Benin",
+"visitors": "53"
+},
+{
+"name": "French Guiana",
+"visitors": "53"
+},
+{
+"name": "Virgin Islands, U.S.",
+"visitors": "51"
+},
+{
+"name": "Virgin Islands, British",
+"visitors": "44"
+},
+{
+"name": "Cameroon",
+"visitors": "43"
+},
+{
+"name": "Yemen",
+"visitors": "43"
+},
+{
+"name": "Cabo Verde",
+"visitors": "41"
+},
+{
+"name": "Lesotho",
+"visitors": "41"
+},
+{
+"name": "Zambia",
+"visitors": "40"
+},
+{
+"name": "Namibia",
+"visitors": "39"
+},
+{
+"name": "Afghanistan",
+"visitors": "38"
+},
+{
+"name": "Mali",
+"visitors": "38"
+},
+{
+"name": "Jersey",
+"visitors": "36"
+},
+{
+"name": "Rwanda",
+"visitors": "35"
+},
+{
+"name": "Dominica",
+"visitors": "32"
+},
+{
+"name": "Sint Maarten (Dutch part)",
+"visitors": "32"
+},
+{
+"name": "Isle of Man",
+"visitors": "31"
+},
+{
+"name": "Congo, The Democratic Republic of the",
+"visitors": "30"
+},
+{
+"name": "Andorra",
+"visitors": "28"
+},
+{
+"name": "Bhutan",
+"visitors": "28"
+},
+{
+"name": "Eswatini",
+"visitors": "27"
+},
+{
+"name": "Anguilla",
+"visitors": "22"
+},
+{
+"name": "Bonaire, Sint Eustatius and Saba",
+"visitors": "22"
+},
+{
+"name": "Turks and Caicos Islands",
+"visitors": "21"
+},
+{
+"name": "Aruba",
+"visitors": "20"
+},
+{
+"name": "Saint Martin (French part)",
+"visitors": "18"
+},
+{
+"name": "Gibraltar",
+"visitors": "16"
+},
+{
+"name": "Guinea",
+"visitors": "15"
+},
+{
+"name": "Seychelles",
+"visitors": "15"
+},
+{
+"name": "Timor-Leste",
+"visitors": "15"
+},
+{
+"name": "Gambia",
+"visitors": "13"
+},
+{
+"name": "Sierra Leone",
+"visitors": "12"
+},
+{
+"name": "Faroe Islands",
+"visitors": "11"
+},
+{
+"name": "Guernsey",
+"visitors": "11"
+},
+{
+"name": "Guam",
+"visitors": "11"
+},
+{
+"name": "Guinea-Bissau",
+"visitors": "11"
+},
+{
+"name": "New Caledonia",
+"visitors": "11"
+},
+{
+"name": "Djibouti",
+"visitors": "10"
+},
+{
+"name": "Sao Tome and Principe",
+"visitors": "9"
+},
+{
+"name": "Liberia",
+"visitors": "8"
+},
+{
+"name": "Malawi",
+"visitors": "8"
+},
+{
+"name": "\u00c5land Islands",
+"visitors": "7"
+},
+{
+"name": "Cuba",
+"visitors": "7"
+},
+{
+"name": "Greenland",
+"visitors": "7"
+},
+{
+"name": "Niger",
+"visitors": "7"
+},
+{
+"name": "Chad",
+"visitors": "7"
+},
+{
+"name": "Burundi",
+"visitors": "6"
+},
+{
+"name": "South Sudan",
+"visitors": "6"
+},
+{
+"name": "Sudan",
+"visitors": "5"
+},
+{
+"name": "Monaco",
+"visitors": "4"
+},
+{
+"name": "Montserrat",
+"visitors": "4"
+},
+{
+"name": "Equatorial Guinea",
+"visitors": "3"
+},
+{
+"name": "Liechtenstein",
+"visitors": "3"
+},
+{
+"name": "Papua New Guinea",
+"visitors": "3"
+},
+{
+"name": "Tonga",
+"visitors": "3"
+},
+{
+"name": "Mayotte",
+"visitors": "3"
+},
+{
+"name": "American Samoa",
+"visitors": "2"
+},
+{
+"name": "Micronesia, Federated States of",
+"visitors": "2"
+},
+{
+"name": "Northern Mariana Islands",
+"visitors": "2"
+},
+{
+"name": "San Marino",
+"visitors": "2"
+},
+{
+"name": "Kiribati",
+"visitors": "1"
+},
+{
+"name": "Saint Pierre and Miquelon",
+"visitors": "1"
+},
+{
+"name": "Palau",
+"visitors": "1"
+},
+{
+"name": "Solomon Islands",
+"visitors": "1"
+},
+{
+"name": "Turkmenistan",
+"visitors": "1"
+},
+{
+"name": "Vanuatu",
+"visitors": "1"
+},
+{
+"name": "Samoa",
+"visitors": "1"
+}
+]
