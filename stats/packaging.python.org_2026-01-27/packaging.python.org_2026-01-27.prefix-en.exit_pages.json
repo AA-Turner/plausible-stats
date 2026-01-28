@@ -1,0 +1,602 @@
+[
+{
+"name": "/en/latest/tutorials/installing-packages/",
+"unique_exits": "6093",
+"total_exits": "6211",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/writing-pyproject-toml/",
+"unique_exits": "1324",
+"total_exits": "1355",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/installing-using-pip-and-virtual-environments/",
+"unique_exits": "1106",
+"total_exits": "1141",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/tool-recommendations/",
+"unique_exits": "1104",
+"total_exits": "1112",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/tutorials/packaging-projects/",
+"unique_exits": "1091",
+"total_exits": "1111",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/binary-distribution-format/",
+"unique_exits": "399",
+"total_exits": "408",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/",
+"unique_exits": "390",
+"total_exits": "395",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/glossary/",
+"unique_exits": "314",
+"total_exits": "316",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/key_projects/",
+"unique_exits": "275",
+"total_exits": "279",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/distributing-packages-using-setuptools/",
+"unique_exits": "189",
+"total_exits": "190",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/src-layout-vs-flat-layout/",
+"unique_exits": "180",
+"total_exits": "188",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/version-specifiers/",
+"unique_exits": "171",
+"total_exits": "178",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/overview/",
+"unique_exits": "163",
+"total_exits": "167",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/dependency-specifiers/",
+"unique_exits": "156",
+"total_exits": "159",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/pyproject-toml/",
+"unique_exits": "126",
+"total_exits": "130",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/installing-using-linux-tools/",
+"unique_exits": "113",
+"total_exits": "112",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/versioning/",
+"unique_exits": "105",
+"total_exits": "107",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/section-install/",
+"unique_exits": "105",
+"total_exits": "104",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/packaging-namespace-packages/",
+"unique_exits": "90",
+"total_exits": "94",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/tutorials/managing-dependencies/",
+"unique_exits": "80",
+"total_exits": "83",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/entry-points/",
+"unique_exits": "70",
+"total_exits": "71",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/hosting-your-own-index/",
+"unique_exits": "69",
+"total_exits": "69",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/core-metadata/",
+"unique_exits": "68",
+"total_exits": "72",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/creating-command-line-tools/",
+"unique_exits": "67",
+"total_exits": "71",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/installing-stand-alone-command-line-tools/",
+"unique_exits": "58",
+"total_exits": "58",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/dependency-groups/",
+"unique_exits": "57",
+"total_exits": "65",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/pypirc/",
+"unique_exits": "53",
+"total_exits": "54",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/creating-and-discovering-plugins/",
+"unique_exits": "44",
+"total_exits": "45",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/installing-using-virtualenv/",
+"unique_exits": "43",
+"total_exits": "46",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/",
+"unique_exits": "42",
+"total_exits": "42",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/",
+"unique_exits": "42",
+"total_exits": "42",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/platform-compatibility-tags/",
+"unique_exits": "40",
+"total_exits": "41",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/inline-script-metadata/",
+"unique_exits": "39",
+"total_exits": "39",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/pylock-toml/",
+"unique_exits": "39",
+"total_exits": "39",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/",
+"unique_exits": "38",
+"total_exits": "39",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/modernize-setup-py-project/",
+"unique_exits": "37",
+"total_exits": "39",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/packaging-binary-extensions/",
+"unique_exits": "37",
+"total_exits": "38",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/search/",
+"unique_exits": "37",
+"total_exits": "37",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/flow/",
+"unique_exits": "36",
+"total_exits": "38",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/install-requires-vs-requirements/",
+"unique_exits": "33",
+"total_exits": "34",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/setup-py-deprecated/",
+"unique_exits": "32",
+"total_exits": "32",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/analyzing-pypi-package-downloads/",
+"unique_exits": "30",
+"total_exits": "31",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/simple-repository-api/",
+"unique_exits": "30",
+"total_exits": "32",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/section-build-and-publish/",
+"unique_exits": "29",
+"total_exits": "31",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/deploying-python-applications/",
+"unique_exits": "27",
+"total_exits": "28",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/package-formats/",
+"unique_exits": "26",
+"total_exits": "26",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/externally-managed-environments/",
+"unique_exits": "25",
+"total_exits": "26",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/tutorials/",
+"unique_exits": "25",
+"total_exits": "25",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/single-source-version/",
+"unique_exits": "24",
+"total_exits": "24",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/installing-scientific-packages/",
+"unique_exits": "23",
+"total_exits": "23",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/using-testpypi/",
+"unique_exits": "22",
+"total_exits": "25",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/name-normalization/",
+"unique_exits": "21",
+"total_exits": "21",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/source-distribution-format/",
+"unique_exits": "21",
+"total_exits": "21",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/using-manifest-in/",
+"unique_exits": "20",
+"total_exits": "20",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/licensing-examples-and-user-scenarios/",
+"unique_exits": "18",
+"total_exits": "18",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/recording-installed-packages/",
+"unique_exits": "17",
+"total_exits": "17",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/distribution-package-vs-import-package/",
+"unique_exits": "14",
+"total_exits": "14",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/making-a-pypi-friendly-readme/",
+"unique_exits": "13",
+"total_exits": "13",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/pip-vs-easy-install/",
+"unique_exits": "12",
+"total_exits": "12",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/index-mirrors-and-caches/",
+"unique_exits": "11",
+"total_exits": "12",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/license-expression/",
+"unique_exits": "10",
+"total_exits": "10",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/section-distribution-metadata/",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/news/",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/glob-patterns/",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/virtual-environments/",
+"unique_exits": "6",
+"total_exits": "6",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/dropping-older-python-versions/",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/well-known-project-urls/",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/ja/latest/tutorials/installing-packages/",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/direct-url/",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/support/",
+"unique_exits": "4",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/contribute/",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/section-installation-metadata/",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/tutorials/installing-packages/",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/discussions/downstream-packaging/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/multi-version-installs/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/section-hosting/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/file-yanking/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/index-hosted-attestations/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/section-distribution-formats/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/ja/latest/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/ja/latest/glossary/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/genindex/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/single-sourcing-package-version/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/guides/supporting-windows-using-appveyor/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/build-details/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/declaring-project-metadata/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/direct-url-data-structure/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/specifications/section-reproducible-environments/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/en/latest/tutorials/creating-documentation/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/ja/latest/discussions/src-layout-vs-flat-layout/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/ja/latest/guides/making-a-pypi-friendly-readme/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/ja/latest/specifications/well-known-project-urls/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/contribute/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/discussions/src-layout-vs-flat-layout/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/glossary/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/guides/installing-using-pip-and-virtual-environments/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/guides/writing-pyproject-toml/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/specifications/entry-points/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/latest/tutorials/packaging-projects/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+}
+]
