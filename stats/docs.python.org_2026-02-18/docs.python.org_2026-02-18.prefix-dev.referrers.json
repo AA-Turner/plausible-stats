@@ -1,0 +1,596 @@
+[
+{
+"name": "Direct / None",
+"visitors": "32618",
+"bounce_rate": "83",
+"visit_duration": "76"
+},
+{
+"name": "google.com",
+"visitors": "524",
+"bounce_rate": "80",
+"visit_duration": "200"
+},
+{
+"name": "python.org",
+"visitors": "477",
+"bounce_rate": "75",
+"visit_duration": "302"
+},
+{
+"name": "m.baidu.com",
+"visitors": "60",
+"bounce_rate": "93",
+"visit_duration": "8"
+},
+{
+"name": "bing.com",
+"visitors": "46",
+"bounce_rate": "67",
+"visit_duration": "513"
+},
+{
+"name": "yandex.ru",
+"visitors": "21",
+"bounce_rate": "100",
+"visit_duration": "434"
+},
+{
+"name": "search.brave.com",
+"visitors": "18",
+"bounce_rate": "100",
+"visit_duration": "301"
+},
+{
+"name": "baidu.com",
+"visitors": "11",
+"bounce_rate": "90",
+"visit_duration": "8"
+},
+{
+"name": "baidu.com/link",
+"visitors": "11",
+"bounce_rate": "86",
+"visit_duration": "39"
+},
+{
+"name": "wiki.python.org",
+"visitors": "10",
+"bounce_rate": "0",
+"visit_duration": "821"
+},
+{
+"name": "duckduckgo.com",
+"visitors": "9",
+"bounce_rate": "0",
+"visit_duration": "790"
+},
+{
+"name": "pypi.org",
+"visitors": "8",
+"bounce_rate": "71",
+"visit_duration": "176"
+},
+{
+"name": "pip.pypa.io/en/stable/installation",
+"visitors": "7",
+"bounce_rate": "0",
+"visit_duration": "1217"
+},
+{
+"name": "chatgpt.com",
+"visitors": "6",
+"bounce_rate": "33",
+"visit_duration": "1146"
+},
+{
+"name": "cn.bing.com",
+"visitors": "4",
+"bounce_rate": "0",
+"visit_duration": "183"
+},
+{
+"name": "pygame.org",
+"visitors": "4",
+"bounce_rate": "0",
+"visit_duration": "1119"
+},
+{
+"name": "kivy.org",
+"visitors": "3",
+"bounce_rate": "0",
+"visit_duration": "537"
+},
+{
+"name": "vidalibarraquer.net",
+"visitors": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "cachetools.readthedocs.io/en/stable",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "103"
+},
+{
+"name": "codecademy.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "devguide.python.org/getting-started/setup-building",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.cloud.google.com",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "225"
+},
+{
+"name": "github.com/dbean104/ff9-rope-jump",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "505"
+},
+{
+"name": "github.com/nodejs/node-gyp",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "183"
+},
+{
+"name": "github.com/python/cpython/issues/104212",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "habr.com/ru/companies/simbirsoft/articles/701020",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "700"
+},
+{
+"name": "login.microsoftonline.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "mock.readthedocs.io/en/latest",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "592"
+},
+{
+"name": "peps.python.org",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "155"
+},
+{
+"name": "python.org/downloads/release/pymanager-252",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "realpython.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ru.wikipedia.org",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "328"
+},
+{
+"name": "stackoverflow.com",
+"visitors": "2",
+"bounce_rate": "67",
+"visit_duration": "69"
+},
+{
+"name": "statics.teams.cdn.office.net",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "android-app://com.google.android.googlequicksearchbox",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "944"
+},
+{
+"name": "automatetheboringstuff.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1"
+},
+{
+"name": "caterpillar.sharepoint.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "classroom.google.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "588"
+},
+{
+"name": "developers.google.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "3101"
+},
+{
+"name": "discuss.python.org",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "103"
+},
+{
+"name": "doc.qt.io",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1225"
+},
+{
+"name": "docs.celeryq.dev/en/latest/userguide/calling.html",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.celeryq.dev/en/main/reference/celery.beat.html",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.celeryq.dev/en/main/userguide/calling.html",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.celeryq.dev/en/main/userguide/tasks.html",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "docs.celeryq.dev/en/stable/internals/worker.html",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ecosia.org",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "117"
+},
+{
+"name": "educacionadistancia.juntadeandalucia.es",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "es.python.org",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "41"
+},
+{
+"name": "github.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "90"
+},
+{
+"name": "github.com/malthe/chameleon/issues/430",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "github.com/python/cpython/issues/131178",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "github.com/python/cpython/issues/139823",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1804"
+},
+{
+"name": "github.com/python/cpython/issues/80847",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "github.com/python/pymanager",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "567"
+},
+{
+"name": "github.com/testing-cabal/mock",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "google.com/search",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1044"
+},
+{
+"name": "google.fr",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "guru99.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "238"
+},
+{
+"name": "heart.health.docs.pyansys.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "19"
+},
+{
+"name": "huggingface.co",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1224"
+},
+{
+"name": "m.baidu.com/from=0/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_14.0_24_141.0/baiduid=E09CF354D2E67555B30A6E4CE867E4A9/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=0/bd_page_type=1/ssid=0/uid=0/pu=vmgdb%400020100228y%2Csz%401320_1004%2Cusm%402/baiduid=5E46643059A1D884592C2DB28F332342/w=0_10_/t=zbios/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_17.0/baiduid=8347D251CD47150C6AE268570EEDB615/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_16.0/baiduid=F7F3153D3EF28D16ED3B7613E07A42AE/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "6"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_17.0/baiduid=D3700960249A8095F3CC82238C801048/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_12.0_18_40.10%2Cusm%401/baiduid=BB1A5793753CF6F28D577242F4D8E4F2/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_15.0_18_40.10%2Cusm%400/baiduid=9A8D46F1DC211CE59010371184FA1703/w=30_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_15.0_18_40.10/baiduid=329B1E868EE2870A115723470EDF26EB/w=10_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1012852q/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1004%2Cta%40iphone_2_11.0_11_20.9/baiduid=7A64694EFA94653B5ED0C44B739A9DB9/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1012852q/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_220%2Cta%40iphone___11_20.12/baiduid=3020CB7E9D1EBF920237C2F8EAC740D9/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_10.0_19_28.1/baiduid=CB33110F718C0F56A2BCBC3B934972D6/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_13.0_19_27.7/baiduid=020D838F9721C13FBC3FE8D004A489D8/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1020712r/bd_page_type=1/ssid=0/uid=0/pu=c3_aid%40A00-4XFJNCQQ2LFDFP22EJQJP4CWS3HL4UWW-HIG34TYJ%2Ccsrc%40app_mainbox_voice%2Csz%401320_480%2Ccuid%40gi2Bi_OQvilLu2us0avOu08y2i0RiHuegi268Yu0Hu8YkWaJ_9Qru_DwA%2Cctv%402%2Ccen%40cuid_cua_cut%2Ccua%40_a2OiyaOvijBNE6lI5me6NN0v8zta-I4_C2Hi4uI2iqlC%2Cosname%40baiduboxapp%2Ccfrom%401026250u%2Cusm%402%2Cvmgdb%400020100228y/baiduid=91FAF7084B9DA79BC6355CE0E6C67E0A/w=0_10_/t=zbios/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1020786r/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_15.0_19_28.1/baiduid=3855610D50D0266C15348045FFC78446/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1023410h/bd_page_type=1/ssid=0/uid=0/pu=vmgdb%400020100228y%2Csz%401320_1004%2Cusm%400/baiduid=5FAC32F8882948FDD22DFD63925DFE9C/w=10_10_/t=zbios/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1034829p/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1003%2Cta%40iphone_2_10.0_1_18.5/baiduid=632F2E021EB5ECF2810048AAFA5E6640/w=10_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1057810a/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1004%2Cta%40iphone_2_12.0_49_3.2%2Cusm%401/baiduid=7F6D976D62A0C9ED8387ED21C47D9A28/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.quark.cn",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "medcodecamp.blogspot.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "113"
+},
+{
+"name": "medium.com/velotio-perspectives/an-introduction-to-asynchronous-programming-in-python-af0189a88bbb",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "mitaoe.codetantra.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "991"
+},
+{
+"name": "namu.wiki",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "npmjs.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "24"
+},
+{
+"name": "pcpma0b.posco.net",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1313"
+},
+{
+"name": "perplexity.ai",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "pip.pypa.io/en/latest/installation",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "post.docs.pyansys.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "pydoc.pages.taltech.ee",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "reddit.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1972"
+},
+{
+"name": "rha.ole.redhat.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "0"
+},
+{
+"name": "robotframework.org",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "349"
+},
+{
+"name": "search.yahoo.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "source.android.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "169"
+},
+{
+"name": "source.corp.google.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "universidadeluiza.com.br",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "wapbaike.baidu.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ya.ru",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "161"
+}
+]
