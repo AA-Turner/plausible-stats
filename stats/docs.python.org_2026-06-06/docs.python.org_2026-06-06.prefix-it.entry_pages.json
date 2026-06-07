@@ -1,0 +1,996 @@
+[
+{
+"name": "/it/3.15/improve-page.html",
+"unique_entrances": "28",
+"total_entrances": "28",
+"bounce_rate": "96",
+"visit_duration": "30"
+},
+{
+"name": "/it/3/tutorial/index.html",
+"unique_entrances": "9",
+"total_entrances": "10",
+"bounce_rate": "50",
+"visit_duration": "388"
+},
+{
+"name": "/it/3/",
+"unique_entrances": "8",
+"total_entrances": "9",
+"bounce_rate": "33",
+"visit_duration": "82"
+},
+{
+"name": "/3/using/windows.html",
+"unique_entrances": "7",
+"total_entrances": "9",
+"bounce_rate": "0",
+"visit_duration": "145"
+},
+{
+"name": "/it/3.14/",
+"unique_entrances": "7",
+"total_entrances": "8",
+"bounce_rate": "25",
+"visit_duration": "160"
+},
+{
+"name": "/3/",
+"unique_entrances": "6",
+"total_entrances": "6",
+"bounce_rate": "0",
+"visit_duration": "418"
+},
+{
+"name": "/it/3.14/tutorial/index.html",
+"unique_entrances": "5",
+"total_entrances": "5",
+"bounce_rate": "20",
+"visit_duration": "171"
+},
+{
+"name": "/it/3/tutorial/controlflow.html",
+"unique_entrances": "4",
+"total_entrances": "6",
+"bounce_rate": "83",
+"visit_duration": "7"
+},
+{
+"name": "/it/3/tutorial/datastructures.html",
+"unique_entrances": "4",
+"total_entrances": "4",
+"bounce_rate": "25",
+"visit_duration": "173"
+},
+{
+"name": "/it/3/tutorial/inputoutput.html",
+"unique_entrances": "4",
+"total_entrances": "4",
+"bounce_rate": "75",
+"visit_duration": "8"
+},
+{
+"name": "/3.14/tutorial/index.html",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "0",
+"visit_duration": "355"
+},
+{
+"name": "/3/library/index.html",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "0",
+"visit_duration": "355"
+},
+{
+"name": "/it/3.13/contents.html",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/genindex-all.html",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/contents.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/library/unittest.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/c-api/module.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/tutorial/index.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "641"
+},
+{
+"name": "/it/3.14/improve-page.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/using/windows.html",
+"unique_entrances": "2",
+"total_entrances": "3",
+"bounce_rate": "33",
+"visit_duration": "119"
+},
+{
+"name": "/it/3.15/howto/logging-cookbook.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/improve-page.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/reference/index.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "27"
+},
+{
+"name": "/it/3/tutorial/appetite.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "264"
+},
+{
+"name": "/it/3/tutorial/interpreter.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "1026"
+},
+{
+"name": "/it/3/tutorial/introduction.html",
+"unique_entrances": "2",
+"total_entrances": "4",
+"bounce_rate": "50",
+"visit_duration": "394"
+},
+{
+"name": "/it/3/tutorial/venv.html",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "54"
+},
+{
+"name": "/3.14/reference/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "457"
+},
+{
+"name": "/3.14/using/windows.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "876"
+},
+{
+"name": "/3.16/search.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "11"
+},
+{
+"name": "/3/library/datetime.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "12"
+},
+{
+"name": "/3/library/functions.html",
+"unique_entrances": "1",
+"total_entrances": "2",
+"bounce_rate": "0",
+"visit_duration": "3696"
+},
+{
+"name": "/3/library/stdtypes.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "1514"
+},
+{
+"name": "/3/library/string.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "69"
+},
+{
+"name": "/3/library/turtle.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "1174"
+},
+{
+"name": "/3/search.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "367"
+},
+{
+"name": "/3/tutorial/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "361"
+},
+{
+"name": "/3/tutorial/appetite.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "352"
+},
+{
+"name": "/3/tutorial/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "1067"
+},
+{
+"name": "/3/tutorial/venv.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "3"
+},
+{
+"name": "/it/3.12/library/asyncio-task.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/library/crypt.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/library/pyexpat.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/library/socketserver.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/library/turtle.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/library/wsgiref.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/reference/introduction.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/tutorial/classes.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/tutorial/controlflow.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/tutorial/datastructures.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.12/tutorial/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "19"
+},
+{
+"name": "/it/3.13/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "368"
+},
+{
+"name": "/it/3.13/c-api/coro.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/c-api/structures.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/c-api/sys.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/download.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/howto/regex.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/distribution.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/faulthandler.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/functions.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/http.cookies.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/http.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "347"
+},
+{
+"name": "/it/3.13/library/netrc.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/optparse.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/os.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/pickletools.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/pkgutil.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/profile.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/sched.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/select.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/tkinter.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/trace.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/types.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/urllib.request.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/uu.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/weakref.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/library/xmlrpc.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/reference/expressions.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.13/reference/simple_stmts.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/about.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/c-api/sys.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/library/graphlib.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/library/importlib.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/library/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/library/time.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/library/turtle.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/license.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/search.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "31"
+},
+{
+"name": "/it/3.14/tutorial/datastructures.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/tutorial/errors.html+",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/tutorial/stdlib.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.14/tutorial/venv.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/c-api/function.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/c-api/veryhigh.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/faq/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/howto/enum.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/asyncio-exceptions.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/email.header.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/email.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/functions.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/graphlib.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/ipc.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/operator.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/os.path.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/py_compile.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/reprlib.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/socketserver.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/syslog.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/unicodedata.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/library/zipimport.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.15/whatsnew/3.15.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3.16/reference/import.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "824"
+},
+{
+"name": "/it/3.16/reference/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "1198"
+},
+{
+"name": "/it/3/c-api/code.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/c-api/import.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/c-api/marshal.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/c-api/stable.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/howto/free-threading-python.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/howto/mro.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/howto/urllib2.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/asyncio-task.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/doctest.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/index.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/keyword.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/locale.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/queue.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/socket.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/stdtypes.html",
+"unique_entrances": "1",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/tarfile.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/tkinter.messagebox.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/library/webbrowser.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/reference/compound_stmts.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "373"
+},
+{
+"name": "/it/3/reference/executionmodel.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/search.html",
+"unique_entrances": "1",
+"total_entrances": "2",
+"bounce_rate": "0",
+"visit_duration": "292"
+},
+{
+"name": "/it/3/tutorial/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "106"
+},
+{
+"name": "/it/3/tutorial/classes.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/tutorial/errors.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/using/android.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/it/3/whatsnew/3.10.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/3.12/library/xml.sax.utils.html",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "188"
+}
+]
