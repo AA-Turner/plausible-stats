@@ -1,0 +1,824 @@
+[
+{
+"name": "google.com",
+"visitors": "1194",
+"bounce_rate": "80",
+"visit_duration": "133"
+},
+{
+"name": "Direct / None",
+"visitors": "1049",
+"bounce_rate": "63",
+"visit_duration": "260"
+},
+{
+"name": "bing.com",
+"visitors": "123",
+"bounce_rate": "75",
+"visit_duration": "135"
+},
+{
+"name": "m.baidu.com",
+"visitors": "107",
+"bounce_rate": "97",
+"visit_duration": "3"
+},
+{
+"name": "qiita.com",
+"visitors": "72",
+"bounce_rate": "74",
+"visit_duration": "112"
+},
+{
+"name": "note.nkmk.me",
+"visitors": "53",
+"bounce_rate": "85",
+"visit_duration": "54"
+},
+{
+"name": "search.yahoo.co.jp",
+"visitors": "44",
+"bounce_rate": "85",
+"visit_duration": "62"
+},
+{
+"name": "python.org",
+"visitors": "18",
+"bounce_rate": "0",
+"visit_duration": "474"
+},
+{
+"name": "chatgpt.com",
+"visitors": "16",
+"bounce_rate": "50",
+"visit_duration": "178"
+},
+{
+"name": "moodle.s.kyushu-u.ac.jp",
+"visitors": "16",
+"bounce_rate": "48",
+"visit_duration": "1449"
+},
+{
+"name": "utokyo-ipp.github.io",
+"visitors": "16",
+"bounce_rate": "88",
+"visit_duration": "1"
+},
+{
+"name": "python.jp",
+"visitors": "15",
+"bounce_rate": "73",
+"visit_duration": "204"
+},
+{
+"name": "baidu.com",
+"visitors": "11",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "google.co.jp",
+"visitors": "9",
+"bounce_rate": "89",
+"visit_duration": "0"
+},
+{
+"name": "duckduckgo.com",
+"visitors": "8",
+"bounce_rate": "100",
+"visit_duration": "157"
+},
+{
+"name": "atcoder.jp",
+"visitors": "7",
+"bounce_rate": "75",
+"visit_duration": "109"
+},
+{
+"name": "statics.teams.cdn.office.net",
+"visitors": "6",
+"bounce_rate": "67",
+"visit_duration": "131"
+},
+{
+"name": "note.com",
+"visitors": "5",
+"bounce_rate": "83",
+"visit_duration": "16"
+},
+{
+"name": "bitarrow.eplang.jp",
+"visitors": "3",
+"bounce_rate": "75",
+"visit_duration": "249"
+},
+{
+"name": "chokkan.github.io",
+"visitors": "3",
+"bounce_rate": "50",
+"visit_duration": "62"
+},
+{
+"name": "colab.research.google.com",
+"visitors": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "digipla.qh.toyota.co.jp",
+"visitors": "3",
+"bounce_rate": "67",
+"visit_duration": "22"
+},
+{
+"name": "gemini.google.com",
+"visitors": "3",
+"bounce_rate": "33",
+"visit_duration": "145"
+},
+{
+"name": "github.com",
+"visitors": "3",
+"bounce_rate": "75",
+"visit_duration": "40"
+},
+{
+"name": "paiza.jp",
+"visitors": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "classroom.google.com",
+"visitors": "2",
+"bounce_rate": "67",
+"visit_duration": "8"
+},
+{
+"name": "docs.google.com",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "headboost.jp",
+"visitors": "2",
+"bounce_rate": "50",
+"visit_duration": "70"
+},
+{
+"name": "lms.learningbox.online",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "oreilly.co.jp",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "118"
+},
+{
+"name": "t.co",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "tenshoku.mynavi.jp",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "translations.python.org",
+"visitors": "2",
+"bounce_rate": "0",
+"visit_duration": "2288"
+},
+{
+"name": "vsv-amethyst.skygroup.local",
+"visitors": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "1kara-hajimeru.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "::",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ai-assist.ynmr-chat.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "algo-method.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "aosw.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "baidu.com/link",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "blog.serverworks.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "business.algo-method.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "cdn.kcc.knowledgewing.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "codecamp.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "codeprep.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "dev.classmethod.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "dianxnao.com/python%EF%BC%9Atkinter%E3%81%A7%E6%8C%87%E5%AE%9A%E3%81%A7%E3%81%8D%E3%82%8B%E8%89%B2%E5%90%8D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "digibeatrix.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "29"
+},
+{
+"name": "drep.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ecosia.org",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "edifist.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "engineer-life.dev/python-desktop-app",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "738"
+},
+{
+"name": "google.com/search",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "11"
+},
+{
+"name": "hack.nikkei.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "15"
+},
+{
+"name": "hitachigroup.okta.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "3"
+},
+{
+"name": "ja.wikipedia.org",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "jp.quora.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "jpc-powerpoint.officeapps.live.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "kulms.tl.kansai-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "469"
+},
+{
+"name": "lecture.ecc.u-tokyo.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lm.facebook.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lms-m41.mie-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "lms.ynu.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "login.microsoftonline.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_12.0_28_17.0%2Cusm%401/baiduid=563C8BB496E2FDA82AFB2E188EDBA1DA/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_10.0_28_17.0/baiduid=DB0799C7229D6CDE23112A03A27AC854/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_10.0_28_17.0/baiduid=1DEEE7ABE2160C0F92EAF60EDA5AC220/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_10.0_28_17.0/baiduid=35F18C2F75E360DC1EFDC591917F80AB/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_17.0/baiduid=7B4518B536216684761BADC5AB8865ED/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_17.0/baiduid=87ED6D16415D50289B6975BE9DB7843F/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_17.0/baiduid=A1DC8A313F1E28350D615FD65AD59F50/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001192y/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_28_17.0/baiduid=F77B90FFA032E73DC8EE76F7F1E9EBE3/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_13.0_18_40.8/baiduid=84FADC6C4B27A90D5F330259D780FEE0/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_12.0_18_40.10/baiduid=38E7EA673A83675B3CD290EA5F3BD0A1/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_15.0_18_40.10/baiduid=80787639D7AD1756ADBD0C9F4EEE0E14/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_15.0_18_40.10/baiduid=D5C60B6C8995C8A52D9382FCAD33F94F/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1001703a/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_16.0_18_40.10/baiduid=A94D2A5CE2C853FB8445686262549850/w=10_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1012852q/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1004%2Cta%40iphone_2_10.0_11_14.8/baiduid=8BBF56317213D886167E767182016D06/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1012852q/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1004%2Cta%40iphone_2_12.0_11_16.9/baiduid=8E2BA7518472FE2DAEE0AE9F6784EBDD/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_15.0_19_28.6%2Cusm%401/baiduid=0041B83376CF876F172D3B1FC8F13A10/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "4"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_16.0_19_29.4%2Cusm%401/baiduid=F61AB5A1441CB7CFFC58E8F384D7DB98/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_10.0_19_29.4/baiduid=F5430C6376CFA1F6896AD66D0220041B/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "805"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_9.0_19_29.4/baiduid=4DAFA69D56DB6F9CE9B9D3F559EDCAF6/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_13.0_19_29.4/baiduid=128374196ADC2F30B4009A492F269258/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_14.0_19_29.3/baiduid=C704C8153FB2242D03589F1FC52D76A6/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1013966u/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_16.0_19_28.9/baiduid=75435D317538D5515098BE28E7C785B9/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_16.0_19_27.2%2Cusm%401/baiduid=951B1B8CDFA4B771DFC597983B4639AB/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_11.0_19_29.0/baiduid=42AA76F7FB205510FD77C2E114338B29/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1001%2Cta%40iphone_2_15.0_19_29.0/baiduid=3B771F26A4F0E6309382958FF24529EE/w=10_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_15.0_19_28.4/baiduid=E0383C809DB54D0C6A663421DA9D0EB0/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "14"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_16.0_19_27.2/baiduid=464503F7D8790489C72F765D8A1E3402/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_16.0_19_29.4/baiduid=73568E993728B1986C3B4E70ECB346ED/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1019311v/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_1001%2Cta%40iphone_2_16.0_19_29.5/baiduid=897620F52CD07BC1DA19AFB1DEDE0351/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1020761f/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_1001%2Cta%40iphone_2_13.0_19_29.0%2Cusm%401/baiduid=B3760FE259CB5C59ABDB9A7DCA0748E4/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1026293a/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_480%2Ccuid%40_aHBaguY28_AuHt__827alaz2fgO8SiBlivlug83vu8R9SPxraQ0a8FuA%2Ccua%40_a-qiyuuvig4NEq5I5me6NN02I_Uh2I-guDpieLqA%2Cosname%40baiduboxapp%2Cctv%402%2Ccfrom%401026293a%2Ccen%40cuid_cua%2Cc3_aid%40A00-XC5HOS2AIE7FVLKOF7KDIFVVPI5NNIEN-QYD7DVCE%2Cosbranch%40a9%2Ccsrc%40home_box_txt%2Cusm%402%2Cvmgdb%400020100228y/baiduid=CB3DB745767B2E1995D3B91F806252F3/w=0_10_/t=zbios/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1027624n/bd_page_type=1/ssid=0/uid=0/pu=usm%400%2Csz%401320_1004%2Cta%40iphone_2_14.0_11_20.17/baiduid=4DE8C19C637C1E62A02EE0C0663BA574/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1034658a/bd_page_type=1/ssid=0/uid=0/pu=sz%401320_480%2Ccuid%400uHdugikvi_NPHaJ_P2OiguV-ilV82urlO2li0uGva8G9v8xg82dOFrwA%2Ccua%40_avLCgu72i4HywoUfpw1z4PLXiopaX8b4a2AiqqHB%2Cosname%40baiduboxapp%2Cctv%402%2Ccfrom%401030738b%2Ccen%40cuid_cua%2Cc3_aid%40A00-DHTYAU3ICGQF72NIEK53KOVBP4X2J2PP-CMQNTZKX%2Ccsrc%40bdbox_tserch_txt%2Cwh%401%2Cta%40iphone___31_9.0%2Cusm%400/baiduid=5060917C1E4F9C4DC4DF06947F58F9E6/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.baidu.com/from=1057810a/bd_page_type=1/ssid=0/uid=0/pu=usm%401%2Csz%401320_220%2Cta%40iphone___49_3.5/baiduid=325E08299F27EDF3C5362298BDF413E8/w=0_10_/t=iphone/l=1/tc",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "m.so.com/s",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "mathkuro.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "mathkuro.com/python/configperser",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "md.kumamoto-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "melonattacker.github.io",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "moodle.miyasankei-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "necglobal.sharepoint.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "note.alhinc.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "11"
+},
+{
+"name": "note.sngklab.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ntp.msn.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "one.nec.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "206"
+},
+{
+"name": "paiza.jp/works/python/new-primer/python-new-primer-23/85013",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "paiza.jp/works/python3/primer/beginner-python1/4000",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "paiza.jp/works/python3/primer/beginner-python1/4005/1",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "paiza.jp/works/python3/primer/beginner-python2/4015",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "paiza.jp/works/python3/primer/beginner-python7/6152/3",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "paiza.jp/works/python3/primer/beginner-python8/6162/1",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "paiza.jp/works/python3/primer/beginner-python8/6166",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "295"
+},
+{
+"name": "pod.hatenablog.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "programming-mondai.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "ps.s.kyushu-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "1883"
+},
+{
+"name": "pxai.is.jp.panasonic.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "python.joho.info/tutorial/modules-packages-libraries-py",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "150"
+},
+{
+"name": "school.ctc-g.co.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "search.fenrir-inc.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "sejuku.net",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "service.smt.docomo.ne.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "sukkiri.jp",
+"visitors": "1",
+"bounce_rate": "50",
+"visit_duration": "109"
+},
+{
+"name": "support-ja.backlog.com",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "tatsy.github.io",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "tech.kx2.site",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "tonari-it.com/python-file-get-time-epoch",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "torotoki.hatenablog.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "331"
+},
+{
+"name": "twelite.net",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "web.ngs.nec.co.jp",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "6"
+},
+{
+"name": "webapp3.sarayajp.local",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "wsdmoodle.waseda.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "wwwmain.h.kobe-u.ac.jp",
+"visitors": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "youtube.com",
+"visitors": "1",
+"bounce_rate": "0",
+"visit_duration": "120"
+}
+]
