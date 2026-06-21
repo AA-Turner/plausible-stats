@@ -1,0 +1,975 @@
+[
+{
+"property": "url",
+"value": "(none)",
+"visitors": "3702",
+"events": "6588",
+"percentage": "99.97"
+},
+{
+"property": "url",
+"value": "https://www.python.org/",
+"visitors": "83",
+"events": "88",
+"percentage": "2.24"
+},
+{
+"property": "url",
+"value": "https://bootstrap.pypa.io/get-pip.py",
+"visitors": "79",
+"events": "92",
+"percentage": "2.13"
+},
+{
+"property": "url",
+"value": "https://docs.python-guide.org/starting/installation/#installation",
+"visitors": "59",
+"events": "64",
+"percentage": "1.59"
+},
+{
+"property": "url",
+"value": "https://opentechschool.github.io/python-beginners/en/getting_started.html#what-is-python-exactly",
+"visitors": "23",
+"events": "24",
+"percentage": "0.62"
+},
+{
+"property": "url",
+"value": "https://pypi.org/",
+"visitors": "17",
+"events": "17",
+"percentage": "0.46"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/user_guide/#requirements-files",
+"visitors": "9",
+"events": "10",
+"percentage": "0.24"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/ensurepip.html",
+"visitors": "8",
+"events": "8",
+"percentage": "0.22"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/",
+"visitors": "8",
+"events": "8",
+"percentage": "0.22"
+},
+{
+"property": "url",
+"value": "https://pipx.pypa.io/",
+"visitors": "8",
+"events": "8",
+"percentage": "0.22"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/venv.html",
+"visitors": "7",
+"events": "7",
+"percentage": "0.19"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/topics/secure-installs/",
+"visitors": "7",
+"events": "7",
+"percentage": "0.19"
+},
+{
+"property": "url",
+"value": "https://www.python.org/downloads/",
+"visitors": "7",
+"events": "7",
+"percentage": "0.19"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pip",
+"visitors": "6",
+"events": "6",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pip/",
+"visitors": "6",
+"events": "6",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/account/register/",
+"visitors": "6",
+"events": "7",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://www.pypa.io/en/latest/",
+"visitors": "6",
+"events": "7",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging-problems",
+"visitors": "5",
+"events": "5",
+"percentage": "0.14"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0639/",
+"visitors": "5",
+"events": "5",
+"percentage": "0.14"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org",
+"visitors": "4",
+"events": "4",
+"percentage": "0.11"
+},
+{
+"property": "url",
+"value": "https://pypi.org/classifiers",
+"visitors": "4",
+"events": "4",
+"percentage": "0.11"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/tutorial/modules.html#packages",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://en.wikipedia.org/wiki/Linux_distribution",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging-problems/issues/new?template=packaging_tutorial.yml&title=Trouble+with+the+packaging+tutorial&guide=https://packaging.python.org/tutorials/packaging-projects",
+"visitors": "3",
+"events": "4",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/tutorials/installing-packages.rst?plain=true",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://hatch.pypa.io/latest/",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/cli/pip_install/#pip-install",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/stable/user_guide/#user-installs",
+"visitors": "3",
+"events": "4",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/development_mode.html",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://brew.sh/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/sysconfig.html#installation-paths",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pradyunsg/furo",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/index.rst?plain=true",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pipfile",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/setuptools",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0440/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0518/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/user_guide/#user-installs",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://pipenv.pypa.io/en/latest/index.html",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/setuptools",
+"visitors": "2",
+"events": "3",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/manage/account/#api-tokens",
+"visitors": "2",
+"events": "3",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "http://localhost:8000/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "http://pip.readthedocs.org/en/stable/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "http://winpython.github.io/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://bottlepy.org/docs/dev/tutorial.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://build.pypa.io/en/stable/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://cloud.google.com/bigquery",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://datatracker.ietf.org/doc/html/rfc2119.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://developer.android.com/tools/releases/platforms",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://developer.fedoraproject.org/tech/languages/python/python-installation.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://devpi.net/docs/devpi/devpi/latest/+doc/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.microsoft.com/en-us/windows/win32/shell/user-environment-variables?redirectedfrom=MSDN",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/2/library/sysconfig.html#installation-paths",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/pkgutil.html#pkgutil.iter_modules",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/site.html#index-2",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/sys.html#sys.path",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/reference/lexical_analysis.html#identifiers",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docutils.sourceforge.io/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docutils.sourceforge.io/docs/ref/rst/directives.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://files.pythonhosted.org/packages/eb/45/79be82bdeafcecb9dca474cad4003e32ef8e4a0dec6abbd4145ccb02abe1/sampleproject-1.2.0.tar.gz",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://flit.readthedocs.io/en/latest/rationale.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/PyCQA/flake8",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/jazzband/pip-tools",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/mesonbuild/meson",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/ofek/pypinfo",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/auditwheel",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/build",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/cibuildwheel",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/distlib",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/hatch",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/glossary.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/news.rst?plain=true",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/overview.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/specifications/version-specifiers.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/tutorials/packaging-projects.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/guides/index.rst",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/guides/installing-stand-alone-command-line-tools.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/index.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/tutorials/installing-packages.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pipenv",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pipx",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/sample-namespace-packages/tree/master/pkgutil",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/sampleproject",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/sampleproject/blob/db5806e0a3204034c51b1c00dde7d5eb3fa2532e/setup.cfg",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/sampleproject/blob/main/LICENSE.txt",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/python/mypy",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/tzulberti/Flask-PyPi-Proxy",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://httpd.apache.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://iscinumpy.dev/post/bound-version-constraints/#pinning-the-python-version-is-special",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://mail.python.org/mailman3/lists/distutils-sig.python.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://mail.python.org/pipermail/distutils-sig/2017-October/031585.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pandas.pydata.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0345/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0459/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0508/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0508/#names",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0517/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0566/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0753/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pip-tools.readthedocs.io/en/latest/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/cli/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pyinstaller.readthedocs.io/en/stable/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/cmake",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pip/23.3.1/#files",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pipenv",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pipx/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/py2exe/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/trove-classifiers/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pytest.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10435/019ee453-f55e-75e1-a957-366b5863ec6a/",
+"visitors": "1",
+"events": "19",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10500/019ee4c0-d6ff-7831-abdc-17dd7e682dac/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10507/019ee27b-1afb-7970-bab4-45493e5bff79/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10513/019ee523-aee9-7d90-9821-29baa9a25b85/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10585/019ee303-89c7-7d12-8f39-128af6ba9567/",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10587/019ee68a-900b-7a91-9ce9-b1de1adf4314/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10600/019ee75e-b22f-7841-b657-537dda366838/",
+"visitors": "1",
+"events": "4",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8171/019ee3d2-af6d-73e1-ace1-1ebc7b261da3/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8174/019ee383-e30a-7623-9ab2-b131f0ea457c/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8174/019ee4df-ff8c-71e0-b1c9-f59291d20f63/",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8174/019ee674-8678-7fd2-b445-8dbf6d6c4a37/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8174/019ee6e6-8374-7a63-8bb8-cea5cc7c32c7/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8175/019ee5ea-55de-7712-b06e-cc4cd49b890f/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8175/019ee6e0-753a-7e41-9130-3807f4ed8abb/",
+"visitors": "1",
+"events": "3",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8176/019ee423-7e3f-7ed0-bfa2-b7ae5ced9190/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8176/019ee5e4-17ac-79b3-a341-ead28c496200/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/entry_point.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html#dynamic-metadata",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.readthedocs.io/en/latest/deprecated/easy_install.html#natural-script-launcher",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.readthedocs.io/en/latest/userguide/dependency_management.html#optional-dependencies",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://spdx.org/licenses/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/help/#apitoken",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://translate.google.com/website?sl=en&tl=es&hl=es&client=srp&u=https://opentechschool.github.io/python-beginners/en/getting_started.html%23what-is-python-exactly",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://virtualenv.pypa.io/en/stable/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://www.sphinx-doc.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+}
+]
