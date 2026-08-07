@@ -1,0 +1,569 @@
+[
+{
+"name": "/ja/latest/tutorials/installing-packages/",
+"unique_entrances": "36",
+"total_entrances": "37",
+"bounce_rate": "84",
+"visit_duration": "24"
+},
+{
+"name": "/ja/latest/guides/writing-pyproject-toml/",
+"unique_entrances": "26",
+"total_entrances": "26",
+"bounce_rate": "96",
+"visit_duration": "19"
+},
+{
+"name": "/ja/latest/guides/installing-using-pip-and-virtual-environments/",
+"unique_entrances": "25",
+"total_entrances": "25",
+"bounce_rate": "96",
+"visit_duration": "13"
+},
+{
+"name": "/ja/latest/discussions/src-layout-vs-flat-layout/",
+"unique_entrances": "8",
+"total_entrances": "8",
+"bounce_rate": "88",
+"visit_duration": "8"
+},
+{
+"name": "/ja/latest/tutorials/packaging-projects/",
+"unique_entrances": "7",
+"total_entrances": "7",
+"bounce_rate": "86",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/",
+"unique_entrances": "5",
+"total_entrances": "5",
+"bounce_rate": "60",
+"visit_duration": "100"
+},
+{
+"name": "/ja/latest/discussions/deploying-python-applications/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/discussions/setup-py-deprecated/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/flow/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "67",
+"visit_duration": "491"
+},
+{
+"name": "/ja/latest/guides/installing-stand-alone-command-line-tools/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/packaging-namespace-packages/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/section-build-and-publish/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "67",
+"visit_duration": "5"
+},
+{
+"name": "/ja/latest/overview/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/entry-points/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "67",
+"visit_duration": "298"
+},
+{
+"name": "/ja/latest/specifications/source-distribution-format/",
+"unique_entrances": "3",
+"total_entrances": "3",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/en/latest/tutorials/installing-packages/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "0",
+"visit_duration": "114"
+},
+{
+"name": "/en/latest/tutorials/packaging-projects/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "0",
+"visit_duration": "1272"
+},
+{
+"name": "/ja/latest/discussions/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "28"
+},
+{
+"name": "/ja/latest/guides/creating-command-line-tools/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/hosting-your-own-index/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/index-mirrors-and-caches/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/installing-scientific-packages/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "53"
+},
+{
+"name": "/ja/latest/guides/installing-using-linux-tools/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/installing-using-virtualenv/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "50",
+"visit_duration": "4"
+},
+{
+"name": "/ja/latest/news/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/dependency-groups/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/externally-managed-environments/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/inline-script-metadata/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/schemas/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/support/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/tutorials/managing-dependencies/",
+"unique_entrances": "2",
+"total_entrances": "2",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/en/latest/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "26"
+},
+{
+"name": "/en/latest/specifications/dependency-specifiers/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "220"
+},
+{
+"name": "/ja/latest/contribute/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/discussions/distribution-package-vs-import-package/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/discussions/downstream-packaging/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/discussions/install-requires-vs-requirements/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "16"
+},
+{
+"name": "/ja/latest/discussions/pip-vs-easy-install/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/discussions/versioning/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "16"
+},
+{
+"name": "/ja/latest/guides/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/analyzing-pypi-package-downloads/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/creating-and-discovering-plugins/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "1981"
+},
+{
+"name": "/ja/latest/guides/distributing-packages-using-setuptools/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/dropping-older-python-versions/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/making-a-pypi-friendly-readme/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/modernize-setup-py-project/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/multi-version-installs/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/packaging-binary-extensions/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/section-hosting/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/section-install/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/guides/using-testpypi/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/key_projects/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/binary-distribution-format/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/build-details/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/build-details/v1.0/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/dependency-specifiers/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/direct-url-data-structure/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/direct-url/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/file-yanking/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/glob-patterns/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/index-hosted-attestations/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/license-expression/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/name-normalization/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/platform-compatibility-tags/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/project-status-markers/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/pylock-toml/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/pypirc/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "187"
+},
+{
+"name": "/ja/latest/specifications/pyproject-toml/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/recording-installed-packages/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/section-distribution-formats/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/section-distribution-metadata/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/section-installation-metadata/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "0",
+"visit_duration": "28"
+},
+{
+"name": "/ja/latest/specifications/section-package-indices/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/section-python-description-formats/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/simple-repository-api/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/version-specifiers/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/virtual-environments/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/specifications/well-known-project-urls/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+},
+{
+"name": "/ja/latest/tutorials/",
+"unique_entrances": "1",
+"total_entrances": "1",
+"bounce_rate": "100",
+"visit_duration": "0"
+}
+]
