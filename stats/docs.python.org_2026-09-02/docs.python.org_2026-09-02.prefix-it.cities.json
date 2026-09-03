@@ -1,0 +1,806 @@
+[
+{
+"name": "Ho Chi Minh City",
+"visitors": "163"
+},
+{
+"name": "Hanoi",
+"visitors": "113"
+},
+{
+"name": "Singapore",
+"visitors": "50"
+},
+{
+"name": "Da Nang",
+"visitors": "13"
+},
+{
+"name": "Milan",
+"visitors": "11"
+},
+{
+"name": "Rome",
+"visitors": "10"
+},
+{
+"name": "Tr\u00e0 Vinh",
+"visitors": "8"
+},
+{
+"name": "Haiphong",
+"visitors": "8"
+},
+{
+"name": "Thanh H\u00f3a",
+"visitors": "6"
+},
+{
+"name": "S\u00f3c Tr\u0103ng",
+"visitors": "6"
+},
+{
+"name": "T\u00e2y Ninh",
+"visitors": "5"
+},
+{
+"name": "Hu\u1ebf",
+"visitors": "5"
+},
+{
+"name": "C\u1ea7n Th\u01a1",
+"visitors": "5"
+},
+{
+"name": "Bi\u00ean H\u00f2a",
+"visitors": "5"
+},
+{
+"name": "Turin",
+"visitors": "5"
+},
+{
+"name": "V\u0129nh Long",
+"visitors": "4"
+},
+{
+"name": "Vinh",
+"visitors": "4"
+},
+{
+"name": "\u0110\u1ed3ng H\u1edbi",
+"visitors": "4"
+},
+{
+"name": "Kuala Lumpur",
+"visitors": "4"
+},
+{
+"name": "Jeddah",
+"visitors": "3"
+},
+{
+"name": "V\u0169ng T\u00e0u",
+"visitors": "3"
+},
+{
+"name": "Tr\u1ea3ng B\u00e0ng",
+"visitors": "3"
+},
+{
+"name": "Th\u00e1i Nguy\u00ean",
+"visitors": "3"
+},
+{
+"name": "Nha Trang",
+"visitors": "3"
+},
+{
+"name": "H\u01b0ng Y\u00ean",
+"visitors": "3"
+},
+{
+"name": "H\u1ea1 Long",
+"visitors": "3"
+},
+{
+"name": "B\u1ea3o L\u1ed9c",
+"visitors": "3"
+},
+{
+"name": "Naples",
+"visitors": "3"
+},
+{
+"name": "S\u00e3o Paulo",
+"visitors": "3"
+},
+{
+"name": "Campinas",
+"visitors": "3"
+},
+{
+"name": "Panam\u00e1",
+"visitors": "3"
+},
+{
+"name": "Cupertino",
+"visitors": "3"
+},
+{
+"name": "N/A",
+"visitors": "3"
+},
+{
+"name": "Amman",
+"visitors": "2"
+},
+{
+"name": "Muscat",
+"visitors": "2"
+},
+{
+"name": "Lahore",
+"visitors": "2"
+},
+{
+"name": "Dhaka",
+"visitors": "2"
+},
+{
+"name": "Y\u00ean B\u00e1i",
+"visitors": "2"
+},
+{
+"name": "V\u0129nh Y\u00ean",
+"visitors": "2"
+},
+{
+"name": "Th\u00e1i B\u00ecnh",
+"visitors": "2"
+},
+{
+"name": "Ninh B\u00ecnh",
+"visitors": "2"
+},
+{
+"name": "H\u1ea3i D\u01b0\u01a1ng",
+"visitors": "2"
+},
+{
+"name": "Cao L\u00e3nh",
+"visitors": "2"
+},
+{
+"name": "B\u1eafc Ninh",
+"visitors": "2"
+},
+{
+"name": "N/A",
+"visitors": "2"
+},
+{
+"name": "Quezon City",
+"visitors": "2"
+},
+{
+"name": "Davao",
+"visitors": "2"
+},
+{
+"name": "Melbourne",
+"visitors": "2"
+},
+{
+"name": "Dakar",
+"visitors": "2"
+},
+{
+"name": "Palermo",
+"visitors": "2"
+},
+{
+"name": "Genoa",
+"visitors": "2"
+},
+{
+"name": "Florence",
+"visitors": "2"
+},
+{
+"name": "Capurso",
+"visitors": "2"
+},
+{
+"name": "Busto Arsizio",
+"visitors": "2"
+},
+{
+"name": "Bologna",
+"visitors": "2"
+},
+{
+"name": "Montevideo",
+"visitors": "2"
+},
+{
+"name": "Alagoinhas",
+"visitors": "2"
+},
+{
+"name": "Caracas",
+"visitors": "2"
+},
+{
+"name": "Lima",
+"visitors": "2"
+},
+{
+"name": "Prineville",
+"visitors": "2"
+},
+{
+"name": "Baghdad",
+"visitors": "1"
+},
+{
+"name": "Kuwait City",
+"visitors": "1"
+},
+{
+"name": "Manama",
+"visitors": "1"
+},
+{
+"name": "Dubai",
+"visitors": "1"
+},
+{
+"name": "\u0130zmir",
+"visitors": "1"
+},
+{
+"name": "Cairo",
+"visitors": "1"
+},
+{
+"name": "Yaroslavl",
+"visitors": "1"
+},
+{
+"name": "Nizhnekamsk",
+"visitors": "1"
+},
+{
+"name": "Aktobe",
+"visitors": "1"
+},
+{
+"name": "Minsk",
+"visitors": "1"
+},
+{
+"name": "Odessa",
+"visitors": "1"
+},
+{
+"name": "Nizhyn",
+"visitors": "1"
+},
+{
+"name": "Adapazar\u0131",
+"visitors": "1"
+},
+{
+"name": "Potchefstroom",
+"visitors": "1"
+},
+{
+"name": "Port Elizabeth",
+"visitors": "1"
+},
+{
+"name": "Sialkot",
+"visitors": "1"
+},
+{
+"name": "Th\u0101ne",
+"visitors": "1"
+},
+{
+"name": "R\u0101jkot",
+"visitors": "1"
+},
+{
+"name": "Jamnagar",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Hyderabad",
+"visitors": "1"
+},
+{
+"name": "Bengaluru",
+"visitors": "1"
+},
+{
+"name": "Kathmandu",
+"visitors": "1"
+},
+{
+"name": "Yekaterinburg",
+"visitors": "1"
+},
+{
+"name": "Krasnoyarsk",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "T\u00e2y H\u1ed3",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Ph\u00fa Th\u1ecd",
+"visitors": "1"
+},
+{
+"name": "Ph\u1ee7 L\u00fd",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Long Xuy\u00ean",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Bu\u00f4n Ma Thu\u1ed9t",
+"visitors": "1"
+},
+{
+"name": "B\u1eafc Giang",
+"visitors": "1"
+},
+{
+"name": "Samut Sakhon",
+"visitors": "1"
+},
+{
+"name": "Lamongan",
+"visitors": "1"
+},
+{
+"name": "Urdaneta",
+"visitors": "1"
+},
+{
+"name": "Santa Maria",
+"visitors": "1"
+},
+{
+"name": "Makati City",
+"visitors": "1"
+},
+{
+"name": "Calamba",
+"visitors": "1"
+},
+{
+"name": "Cagayan de Oro",
+"visitors": "1"
+},
+{
+"name": "Kota Kinabalu",
+"visitors": "1"
+},
+{
+"name": "Petaling Jaya",
+"visitors": "1"
+},
+{
+"name": "Kunming",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Lagos",
+"visitors": "1"
+},
+{
+"name": "Sfax",
+"visitors": "1"
+},
+{
+"name": "Tizi Ouzou",
+"visitors": "1"
+},
+{
+"name": "San Giovanni la Punta",
+"visitors": "1"
+},
+{
+"name": "Montalto Uffugo",
+"visitors": "1"
+},
+{
+"name": "Modica",
+"visitors": "1"
+},
+{
+"name": "Cagliari",
+"visitors": "1"
+},
+{
+"name": "El Jadid",
+"visitors": "1"
+},
+{
+"name": "Casablanca",
+"visitors": "1"
+},
+{
+"name": "Croydon",
+"visitors": "1"
+},
+{
+"name": "Bellinzona",
+"visitors": "1"
+},
+{
+"name": "Villalago",
+"visitors": "1"
+},
+{
+"name": "Verona",
+"visitors": "1"
+},
+{
+"name": "Venice",
+"visitors": "1"
+},
+{
+"name": "Trieste",
+"visitors": "1"
+},
+{
+"name": "Travagliato",
+"visitors": "1"
+},
+{
+"name": "Torre del Greco",
+"visitors": "1"
+},
+{
+"name": "Tassullo",
+"visitors": "1"
+},
+{
+"name": "Taranto",
+"visitors": "1"
+},
+{
+"name": "Rimini",
+"visitors": "1"
+},
+{
+"name": "Ravenna",
+"visitors": "1"
+},
+{
+"name": "Quarto d'Altino",
+"visitors": "1"
+},
+{
+"name": "Quarona",
+"visitors": "1"
+},
+{
+"name": "Poggio A Caiano",
+"visitors": "1"
+},
+{
+"name": "Pietramelara",
+"visitors": "1"
+},
+{
+"name": "Perano",
+"visitors": "1"
+},
+{
+"name": "Modena",
+"visitors": "1"
+},
+{
+"name": "Marino",
+"visitors": "1"
+},
+{
+"name": "Mariano del Friuli",
+"visitors": "1"
+},
+{
+"name": "Isola Vicentina",
+"visitors": "1"
+},
+{
+"name": "Formigine",
+"visitors": "1"
+},
+{
+"name": "Fondi",
+"visitors": "1"
+},
+{
+"name": "Correggio",
+"visitors": "1"
+},
+{
+"name": "Conegliano",
+"visitors": "1"
+},
+{
+"name": "Carmignano",
+"visitors": "1"
+},
+{
+"name": "Bari",
+"visitors": "1"
+},
+{
+"name": "Bagnara di Romagna",
+"visitors": "1"
+},
+{
+"name": "Afragola",
+"visitors": "1"
+},
+{
+"name": "Tirana",
+"visitors": "1"
+},
+{
+"name": "Cape Town",
+"visitors": "1"
+},
+{
+"name": "Macei\u00f3",
+"visitors": "1"
+},
+{
+"name": "Santa Ana",
+"visitors": "1"
+},
+{
+"name": "Lan\u00fas",
+"visitors": "1"
+},
+{
+"name": "Concordia",
+"visitors": "1"
+},
+{
+"name": "Asunci\u00f3n",
+"visitors": "1"
+},
+{
+"name": "S\u00e3o Leopoldo",
+"visitors": "1"
+},
+{
+"name": "Santana de Parna\u00edba",
+"visitors": "1"
+},
+{
+"name": "Rio de Janeiro",
+"visitors": "1"
+},
+{
+"name": "Presidente Venceslau",
+"visitors": "1"
+},
+{
+"name": "Ponta Por\u00e3",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Matozinhos",
+"visitors": "1"
+},
+{
+"name": "Jequi\u00e9",
+"visitors": "1"
+},
+{
+"name": "Jardin\u00f3polis",
+"visitors": "1"
+},
+{
+"name": "Jana\u00faba",
+"visitors": "1"
+},
+{
+"name": "Itatiba",
+"visitors": "1"
+},
+{
+"name": "Itapetininga",
+"visitors": "1"
+},
+{
+"name": "Florian\u00f3polis",
+"visitors": "1"
+},
+{
+"name": "Espumoso",
+"visitors": "1"
+},
+{
+"name": "Bras\u00edlia",
+"visitors": "1"
+},
+{
+"name": "Betim",
+"visitors": "1"
+},
+{
+"name": "Aruj\u00e1",
+"visitors": "1"
+},
+{
+"name": "Almirante Tamandar\u00e9",
+"visitors": "1"
+},
+{
+"name": "Montego Bay",
+"visitors": "1"
+},
+{
+"name": "Moca",
+"visitors": "1"
+},
+{
+"name": "Ciudad de Huajuapan de Le\u00f3n",
+"visitors": "1"
+},
+{
+"name": "Ciudad Nezahualcoyotl",
+"visitors": "1"
+},
+{
+"name": "El Tigre",
+"visitors": "1"
+},
+{
+"name": "Quito",
+"visitors": "1"
+},
+{
+"name": "Ambato",
+"visitors": "1"
+},
+{
+"name": "Zipaquir\u00e1",
+"visitors": "1"
+},
+{
+"name": "Pasto",
+"visitors": "1"
+},
+{
+"name": "Medell\u00edn",
+"visitors": "1"
+},
+{
+"name": "Bogot\u00e1",
+"visitors": "1"
+},
+{
+"name": "Providencia",
+"visitors": "1"
+},
+{
+"name": "Arequipa",
+"visitors": "1"
+},
+{
+"name": "Orlando",
+"visitors": "1"
+},
+{
+"name": "Ellicott City",
+"visitors": "1"
+},
+{
+"name": "Charlotte",
+"visitors": "1"
+},
+{
+"name": "Dallas",
+"visitors": "1"
+},
+{
+"name": "Houston",
+"visitors": "1"
+},
+{
+"name": "New York City",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Guidonia Montecelio",
+"visitors": "1"
+},
+{
+"name": "Pollena Trocchia",
+"visitors": "1"
+},
+{
+"name": "Bonate Sotto",
+"visitors": "1"
+},
+{
+"name": "Pregnana Milanese",
+"visitors": "1"
+},
+{
+"name": "La Pintana",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Hai B\u00e0Tr\u01b0ng",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+},
+{
+"name": "Qu\u1eadn B\u1ed1n",
+"visitors": "1"
+},
+{
+"name": "N/A",
+"visitors": "1"
+}
+]
