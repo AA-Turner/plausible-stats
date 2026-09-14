@@ -1,0 +1,926 @@
+[
+{
+"property": "url",
+"value": "(none)",
+"visitors": "3654",
+"events": "6321",
+"percentage": "99.92"
+},
+{
+"property": "url",
+"value": "https://www.python.org/",
+"visitors": "91",
+"events": "104",
+"percentage": "2.49"
+},
+{
+"property": "url",
+"value": "https://docs.python-guide.org/starting/installation/#installation",
+"visitors": "86",
+"events": "95",
+"percentage": "2.35"
+},
+{
+"property": "url",
+"value": "https://bootstrap.pypa.io/get-pip.py",
+"visitors": "81",
+"events": "94",
+"percentage": "2.21"
+},
+{
+"property": "url",
+"value": "https://opentechschool.github.io/python-beginners/en/getting_started.html#what-is-python-exactly",
+"visitors": "20",
+"events": "22",
+"percentage": "0.55"
+},
+{
+"property": "url",
+"value": "https://pypi.org/",
+"visitors": "13",
+"events": "13",
+"percentage": "0.36"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/user_guide/#requirements-files",
+"visitors": "10",
+"events": "10",
+"percentage": "0.27"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/",
+"visitors": "9",
+"events": "9",
+"percentage": "0.25"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pip",
+"visitors": "8",
+"events": "8",
+"percentage": "0.22"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging-problems/issues/new?template=packaging_tutorial.yml&title=Trouble+with+the+packaging+tutorial&guide=https://packaging.python.org/tutorials/packaging-projects",
+"visitors": "7",
+"events": "7",
+"percentage": "0.19"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/topics/secure-installs/",
+"visitors": "7",
+"events": "7",
+"percentage": "0.19"
+},
+{
+"property": "url",
+"value": "https://pipx.pypa.io/",
+"visitors": "6",
+"events": "6",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/development_mode.html",
+"visitors": "6",
+"events": "6",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://www.python.org/downloads/",
+"visitors": "6",
+"events": "7",
+"percentage": "0.16"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/sysconfig.html#installation-paths",
+"visitors": "5",
+"events": "5",
+"percentage": "0.14"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/venv.html",
+"visitors": "5",
+"events": "5",
+"percentage": "0.14"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/tutorial/modules.html#packages",
+"visitors": "5",
+"events": "5",
+"percentage": "0.14"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0639/",
+"visitors": "4",
+"events": "4",
+"percentage": "0.11"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/",
+"visitors": "4",
+"events": "4",
+"percentage": "0.11"
+},
+{
+"property": "url",
+"value": "https://setuptools.readthedocs.io/en/latest/deprecated/easy_install.html#natural-script-launcher",
+"visitors": "4",
+"events": "4",
+"percentage": "0.11"
+},
+{
+"property": "url",
+"value": "https://devpi.net/docs/devpi/devpi/latest/+doc/index.html",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/ensurepip.html",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://flit.pypa.io/en/stable/pyproject_toml.html",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org",
+"visitors": "3",
+"events": "4",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/tutorials/installing-packages.rst",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/sampleproject/blob/db5806e0a3204034c51b1c00dde7d5eb3fa2532e/setup.py",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://iscinumpy.dev/post/bound-version-constraints/#pinning-the-python-version-is-special",
+"visitors": "3",
+"events": "4",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0427/",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/stable/user_guide/#user-installs",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pip/",
+"visitors": "3",
+"events": "4",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/requests/",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://spdx.org/licenses/",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/account/register/",
+"visitors": "3",
+"events": "3",
+"percentage": "0.08"
+},
+{
+"property": "url",
+"value": "https://docs.anaconda.com/anaconda/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://docs.astral.sh/uv/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/PyCQA/flake8",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pradyunsg/furo",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging-problems",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/tutorials/installing-packages.rst?plain=true",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/index.rst",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0518/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0621/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0639/#deprecate-license-classifiers",
+"visitors": "2",
+"events": "3",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/topics/vcs-support/#vcs-support",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://pypi.org/classifiers",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://scientific-python.org/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/pyproject_config.html#dynamic-metadata",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/manage/account/#api-tokens",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "https://www.pypa.io/en/latest/",
+"visitors": "2",
+"events": "2",
+"percentage": "0.05"
+},
+{
+"property": "url",
+"value": "http://python-future.org/overview.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "http://winpython.github.io/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://anaconda.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://bottlepy.org/docs/dev/tutorial.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://brew.sh/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://choosealicense.com/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://cloud.google.com/bigquery/docs/quickstarts/quickstart-web-ui",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://datatracker.ietf.org/doc/html/rfc2119.html",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://datatracker.ietf.org/doc/html/rfc3986.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://datatracker.ietf.org/doc/html/rfc822.html#section-3.1.1",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://developer.fedoraproject.org/tech/languages/python/python-installation.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://discuss.python.org/t/discouraging-use-of-epoch-segments-in-versions/105811",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/runpy.html#module-runpy",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/site.html#index-2",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/sys.html#sys.path",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docs.python.org/3/library/venv.html#module-venv",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://docutils.sourceforge.io/docs/ref/rst/directives.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://en.wikipedia.org/wiki/Operating-system-level_virtualization",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging-problems/issues/new?template=general_issue.yml",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/discussions/versioning.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/glossary.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/guides/creating-command-line-tools.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/guides/installing-using-pip-and-virtual-environments.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/guides/multi-version-installs.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/blob/main/source/guides/writing-pyproject-toml.rst?plain=true",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/guides/multi-version-installs.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/tutorials/index.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/tutorials/managing-dependencies.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/edit/main/source/tutorials/packaging-projects.rst",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/packaging.python.org/pulls",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pipenv",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/pipfile",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/sampleproject/tree/main/src/sample",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/setuptools",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypa/trove-classifiers",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/pypiserver/pypiserver",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://github.com/toml-lang/toml",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://hatch.pypa.io/latest/config/metadata/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://hosted.weblate.org/projects/pypa/packaging-python-org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://ius.io/usage#parallel-installable-packages",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://nedbatchelder.com/blog/201803/whats_in_which_python_3436.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0405/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0420/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://peps.python.org/pep-0440/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/cli/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/latest/user_guide/#user-installs",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pip.pypa.io/en/stable/topics/vcs-support/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pipenv.pypa.io/en/latest/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pradyunsg.me/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/manage/account/publishing/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/bandersnatch",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/hatchling/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pex/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/pipx/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/readme-renderer/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/setuptools",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/virtualenv/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://pypi.org/project/wheel",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10703/01a09953-8477-7373-bb37-0e66ed14c827/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10784/01a09878-bdf5-7433-8b4d-66431db1637c/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10784/01a09945-6e2d-77e3-92e3-b78b2ae96831/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10784/01a09971-c19a-7942-a618-bd3fb38e6fc0/",
+"visitors": "1",
+"events": "2",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10785/01a09944-9c96-73a1-ab49-a23bb9b6aac1/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10785/01a0996f-25d7-7fc1-94aa-e5e86f083d55/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10785/01a09cce-3e2c-7a42-a66e-c4b445c60ed5/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10786/01a09ab3-bba1-70d0-807d-f492045a1124/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/10893/01a09b13-54c2-75d0-8304-819af4f3d485/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8174/01a09919-3828-78b3-ac27-9f81800e64ba/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/8175/01a09b3e-d2ad-76f1-bbba-09e3a0378b22/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://server.ethicalads.io/proxy/click/9366/01a099f3-b346-7211-9f62-0cc402c7a215/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools-scm.rtfd.io/latest",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/references/keywords.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/entry_point.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.pypa.io/en/latest/userguide/miscellaneous.html#using-manifest-in",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://setuptools.readthedocs.io/en/latest/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://stackoverflow.com/a/14638025",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://test.pypi.org/help/#apitoken",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://twine.readthedocs.io/en/latest/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://virtualenv.pypa.io/en/stable/index.html",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://www.npmjs.com/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+},
+{
+"property": "url",
+"value": "https://www.sphinx-doc.org/",
+"visitors": "1",
+"events": "1",
+"percentage": "0.03"
+}
+]
