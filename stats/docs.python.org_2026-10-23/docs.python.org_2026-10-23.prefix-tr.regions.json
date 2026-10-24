@@ -1,0 +1,786 @@
+[
+{
+"name": "California",
+"visitors": "66"
+},
+{
+"name": "Tokyo",
+"visitors": "33"
+},
+{
+"name": "Hesse",
+"visitors": "26"
+},
+{
+"name": "Yogyakarta",
+"visitors": "22"
+},
+{
+"name": "Kuala Lumpur",
+"visitors": "19"
+},
+{
+"name": "Istanbul",
+"visitors": "19"
+},
+{
+"name": "England",
+"visitors": "13"
+},
+{
+"name": "Virginia",
+"visitors": "12"
+},
+{
+"name": "S\u00e3o Paulo",
+"visitors": "11"
+},
+{
+"name": "Ho Chi Minh City",
+"visitors": "11"
+},
+{
+"name": "Buenos Aires Province",
+"visitors": "10"
+},
+{
+"name": "New York",
+"visitors": "10"
+},
+{
+"name": "Hanoi",
+"visitors": "9"
+},
+{
+"name": "Baku",
+"visitors": "8"
+},
+{
+"name": "Minas Gerais",
+"visitors": "7"
+},
+{
+"name": "Punjab",
+"visitors": "7"
+},
+{
+"name": "Rio de Janeiro",
+"visitors": "6"
+},
+{
+"name": "Santa Catarina",
+"visitors": "6"
+},
+{
+"name": "Texas",
+"visitors": "5"
+},
+{
+"name": "\u00cele-de-France",
+"visitors": "4"
+},
+{
+"name": "Selangor",
+"visitors": "4"
+},
+{
+"name": "Gauteng",
+"visitors": "4"
+},
+{
+"name": "Dubai",
+"visitors": "3"
+},
+{
+"name": "Antioquia",
+"visitors": "3"
+},
+{
+"name": "Catalonia",
+"visitors": "3"
+},
+{
+"name": "Provence-Alpes-C\u00f4te-d'Azur",
+"visitors": "3"
+},
+{
+"name": "Mekn\u00e8s-Tafilalet",
+"visitors": "3"
+},
+{
+"name": "Nuevo Le\u00f3n",
+"visitors": "3"
+},
+{
+"name": "Lagos",
+"visitors": "3"
+},
+{
+"name": "Central Luzon",
+"visitors": "3"
+},
+{
+"name": "Sindh",
+"visitors": "3"
+},
+{
+"name": "Bangkok",
+"visitors": "3"
+},
+{
+"name": "Ankara",
+"visitors": "3"
+},
+{
+"name": "Bursa",
+"visitors": "3"
+},
+{
+"name": "Izmir",
+"visitors": "3"
+},
+{
+"name": "Chaguanas",
+"visitors": "3"
+},
+{
+"name": "Florida",
+"visitors": "3"
+},
+{
+"name": "Santa Fe",
+"visitors": "2"
+},
+{
+"name": "Bahia",
+"visitors": "2"
+},
+{
+"name": "Pernambuco",
+"visitors": "2"
+},
+{
+"name": "Ontario",
+"visitors": "2"
+},
+{
+"name": "Quebec",
+"visitors": "2"
+},
+{
+"name": "Capital District",
+"visitors": "2"
+},
+{
+"name": "Lower Saxony",
+"visitors": "2"
+},
+{
+"name": "Pichincha",
+"visitors": "2"
+},
+{
+"name": "Hauts-de-France",
+"visitors": "2"
+},
+{
+"name": "Normandie",
+"visitors": "2"
+},
+{
+"name": "Wales",
+"visitors": "2"
+},
+{
+"name": "East Java",
+"visitors": "2"
+},
+{
+"name": "Leinster",
+"visitors": "2"
+},
+{
+"name": "Abruzzo",
+"visitors": "2"
+},
+{
+"name": "Phnom Penh",
+"visitors": "2"
+},
+{
+"name": "Taza-Al Hoceima-Taounate",
+"visitors": "2"
+},
+{
+"name": "Rabat-Sal\u00e9-Zemmour-Zaer",
+"visitors": "2"
+},
+{
+"name": "Yangon",
+"visitors": "2"
+},
+{
+"name": "Mexico State",
+"visitors": "2"
+},
+{
+"name": "Puebla",
+"visitors": "2"
+},
+{
+"name": "Metro Manila",
+"visitors": "2"
+},
+{
+"name": "Calabarzon",
+"visitors": "2"
+},
+{
+"name": "Mazovia",
+"visitors": "2"
+},
+{
+"name": "Krasnodar Krai",
+"visitors": "2"
+},
+{
+"name": "Moscow",
+"visitors": "2"
+},
+{
+"name": "Makkah",
+"visitors": "2"
+},
+{
+"name": "Adana",
+"visitors": "2"
+},
+{
+"name": "Antalya",
+"visitors": "2"
+},
+{
+"name": "Kyiv",
+"visitors": "2"
+},
+{
+"name": "Georgia",
+"visitors": "2"
+},
+{
+"name": "Iowa",
+"visitors": "2"
+},
+{
+"name": "Maryland",
+"visitors": "2"
+},
+{
+"name": "North Carolina",
+"visitors": "2"
+},
+{
+"name": "New Jersey",
+"visitors": "2"
+},
+{
+"name": "Ohio",
+"visitors": "2"
+},
+{
+"name": "Washington",
+"visitors": "2"
+},
+{
+"name": "Western Cape",
+"visitors": "2"
+},
+{
+"name": "Tirana County",
+"visitors": "1"
+},
+{
+"name": "Buenos Aires",
+"visitors": "1"
+},
+{
+"name": "Entre R\u00edos",
+"visitors": "1"
+},
+{
+"name": "Chaco",
+"visitors": "1"
+},
+{
+"name": "R\u00edo Negro",
+"visitors": "1"
+},
+{
+"name": "C\u00f3rdoba",
+"visitors": "1"
+},
+{
+"name": "New South Wales",
+"visitors": "1"
+},
+{
+"name": "Chittagong Division",
+"visitors": "1"
+},
+{
+"name": "Dhaka Division",
+"visitors": "1"
+},
+{
+"name": "Wallonia",
+"visitors": "1"
+},
+{
+"name": "Cochabamba",
+"visitors": "1"
+},
+{
+"name": "Santa Cruz",
+"visitors": "1"
+},
+{
+"name": "Alagoas",
+"visitors": "1"
+},
+{
+"name": "Amazonas",
+"visitors": "1"
+},
+{
+"name": "Cear\u00e1",
+"visitors": "1"
+},
+{
+"name": "Esp\u00edrito Santo",
+"visitors": "1"
+},
+{
+"name": "Goi\u00e1s",
+"visitors": "1"
+},
+{
+"name": "Maranh\u00e3o",
+"visitors": "1"
+},
+{
+"name": "Mato Grosso do Sul",
+"visitors": "1"
+},
+{
+"name": "Paran\u00e1",
+"visitors": "1"
+},
+{
+"name": "Rio Grande do Norte",
+"visitors": "1"
+},
+{
+"name": "Rio Grande do Sul",
+"visitors": "1"
+},
+{
+"name": "Sergipe",
+"visitors": "1"
+},
+{
+"name": "New Providence",
+"visitors": "1"
+},
+{
+"name": "Plateaux",
+"visitors": "1"
+},
+{
+"name": "Antofagasta",
+"visitors": "1"
+},
+{
+"name": "Santiago Metropolitan",
+"visitors": "1"
+},
+{
+"name": "Santander",
+"visitors": "1"
+},
+{
+"name": "Valle del Cauca",
+"visitors": "1"
+},
+{
+"name": "San Jos\u00e9",
+"visitors": "1"
+},
+{
+"name": "Prague",
+"visitors": "1"
+},
+{
+"name": "Pardubice",
+"visitors": "1"
+},
+{
+"name": "Moravia-Silesia",
+"visitors": "1"
+},
+{
+"name": "Bavaria",
+"visitors": "1"
+},
+{
+"name": "Mecklenburg-Vorpommern",
+"visitors": "1"
+},
+{
+"name": "North Rhine-Westphalia",
+"visitors": "1"
+},
+{
+"name": "La Romana",
+"visitors": "1"
+},
+{
+"name": "S\u00e1nchez Ram\u00edrez",
+"visitors": "1"
+},
+{
+"name": "Blida",
+"visitors": "1"
+},
+{
+"name": "Constantine",
+"visitors": "1"
+},
+{
+"name": "Boumerd\u00e8s",
+"visitors": "1"
+},
+{
+"name": "Cairo",
+"visitors": "1"
+},
+{
+"name": "Castile and Le\u00f3n",
+"visitors": "1"
+},
+{
+"name": "Addis Ababa",
+"visitors": "1"
+},
+{
+"name": "Auvergne-Rh\u00f4ne-Alpes",
+"visitors": "1"
+},
+{
+"name": "Grand-Est",
+"visitors": "1"
+},
+{
+"name": "Nouvelle-Aquitaine",
+"visitors": "1"
+},
+{
+"name": "Estuaire",
+"visitors": "1"
+},
+{
+"name": "Banten",
+"visitors": "1"
+},
+{
+"name": "West Java",
+"visitors": "1"
+},
+{
+"name": "Lampung",
+"visitors": "1"
+},
+{
+"name": "Haifa",
+"visitors": "1"
+},
+{
+"name": "Punjab",
+"visitors": "1"
+},
+{
+"name": "Baghdad",
+"visitors": "1"
+},
+{
+"name": "Tuscany",
+"visitors": "1"
+},
+{
+"name": "Gunma",
+"visitors": "1"
+},
+{
+"name": "Kanagawa",
+"visitors": "1"
+},
+{
+"name": "Nairobi County",
+"visitors": "1"
+},
+{
+"name": "Al Asimah",
+"visitors": "1"
+},
+{
+"name": "Almaty City",
+"visitors": "1"
+},
+{
+"name": "Vilnius County",
+"visitors": "1"
+},
+{
+"name": "Oriental",
+"visitors": "1"
+},
+{
+"name": "Chi\u0219in\u0103u",
+"visitors": "1"
+},
+{
+"name": "Aguascalientes",
+"visitors": "1"
+},
+{
+"name": "Colima",
+"visitors": "1"
+},
+{
+"name": "Hidalgo",
+"visitors": "1"
+},
+{
+"name": "Jalisco",
+"visitors": "1"
+},
+{
+"name": "Michoac\u00e1n",
+"visitors": "1"
+},
+{
+"name": "Sabah",
+"visitors": "1"
+},
+{
+"name": "North Holland",
+"visitors": "1"
+},
+{
+"name": "Muscat",
+"visitors": "1"
+},
+{
+"name": "Panam\u00e1",
+"visitors": "1"
+},
+{
+"name": "Lima",
+"visitors": "1"
+},
+{
+"name": "Islamabad",
+"visitors": "1"
+},
+{
+"name": "Khyber Pakhtunkhwa",
+"visitors": "1"
+},
+{
+"name": "Asunci\u00f3n",
+"visitors": "1"
+},
+{
+"name": "Beograd",
+"visitors": "1"
+},
+{
+"name": "Irkutsk",
+"visitors": "1"
+},
+{
+"name": "Kaliningrad",
+"visitors": "1"
+},
+{
+"name": "Khabarovsk Krai",
+"visitors": "1"
+},
+{
+"name": "Khanty-Mansi",
+"visitors": "1"
+},
+{
+"name": "Smolensk",
+"visitors": "1"
+},
+{
+"name": "Saint Petersburg",
+"visitors": "1"
+},
+{
+"name": "Tatarstan",
+"visitors": "1"
+},
+{
+"name": "Vologda",
+"visitors": "1"
+},
+{
+"name": "Riyadh",
+"visitors": "1"
+},
+{
+"name": "Tabuk",
+"visitors": "1"
+},
+{
+"name": "Maribor",
+"visitors": "1"
+},
+{
+"name": "Rif Dimashq",
+"visitors": "1"
+},
+{
+"name": "Maritime",
+"visitors": "1"
+},
+{
+"name": "Chon Buri",
+"visitors": "1"
+},
+{
+"name": "Phuket",
+"visitors": "1"
+},
+{
+"name": "Ariana",
+"visitors": "1"
+},
+{
+"name": "Bal\u0131kesir",
+"visitors": "1"
+},
+{
+"name": "Denizli",
+"visitors": "1"
+},
+{
+"name": "Diyarbak\u0131r",
+"visitors": "1"
+},
+{
+"name": "Eski\u015fehir",
+"visitors": "1"
+},
+{
+"name": "Gaziantep",
+"visitors": "1"
+},
+{
+"name": "Mersin",
+"visitors": "1"
+},
+{
+"name": "K\u0131rklareli",
+"visitors": "1"
+},
+{
+"name": "Kocaeli",
+"visitors": "1"
+},
+{
+"name": "Nev\u015fehir",
+"visitors": "1"
+},
+{
+"name": "Ni\u011fde",
+"visitors": "1"
+},
+{
+"name": "Sakarya",
+"visitors": "1"
+},
+{
+"name": "Sivas",
+"visitors": "1"
+},
+{
+"name": "Batman",
+"visitors": "1"
+},
+{
+"name": "Port of Spain",
+"visitors": "1"
+},
+{
+"name": "San Fernando",
+"visitors": "1"
+},
+{
+"name": "Taoyuan",
+"visitors": "1"
+},
+{
+"name": "Volyn",
+"visitors": "1"
+},
+{
+"name": "Dnipropetrovshchyna",
+"visitors": "1"
+},
+{
+"name": "Kharkivshchyna",
+"visitors": "1"
+},
+{
+"name": "Connecticut",
+"visitors": "1"
+},
+{
+"name": "Illinois",
+"visitors": "1"
+},
+{
+"name": "Kentucky",
+"visitors": "1"
+},
+{
+"name": "Mississippi",
+"visitors": "1"
+},
+{
+"name": "Oregon",
+"visitors": "1"
+},
+{
+"name": "Pennsylvania",
+"visitors": "1"
+},
+{
+"name": "South Carolina",
+"visitors": "1"
+},
+{
+"name": "Capital",
+"visitors": "1"
+},
+{
+"name": "T\u00e2y Ninh",
+"visitors": "1"
+},
+{
+"name": "'Adan",
+"visitors": "1"
+}
+]
