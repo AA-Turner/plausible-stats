@@ -1,0 +1,602 @@
+[
+{
+"name": "/3/tutorial/",
+"unique_exits": "11",
+"total_exits": "20",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/tutorial/",
+"unique_exits": "11",
+"total_exits": "15",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/using/windows.html",
+"unique_exits": "7",
+"total_exits": "7",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/library/idle.html",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/",
+"unique_exits": "5",
+"total_exits": "5",
+"exit_rate": ""
+},
+{
+"name": "/3/using/windows.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/library/idle.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/search.html",
+"unique_exits": "3",
+"total_exits": "4",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/c-api/bool.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/cmdlinelibs.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/tutorial/index.html",
+"unique_exits": "3",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/installing/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/library/sqlite3.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/genindex-Semboller.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/library/security_warnings.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/builtins/stdtypes.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/genindex-Semboller.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/improve-page.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/installing/index.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/math.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/tk.html",
+"unique_exits": "2",
+"total_exits": "2",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/tutorial/venv.html",
+"unique_exits": "2",
+"total_exits": "3",
+"exit_rate": ""
+},
+{
+"name": "/3.15/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3.15/reference/executionmodel.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3.15/using/windows.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3.15/whatsnew/3.15.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3.16/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3/library/html.parser.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3/library/idle.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3/library/pathlib.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3/library/sys_path_init.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/3/reference/expressions.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/fr/3/tutorial/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/id/3/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/it/3.14/tutorial/appetite.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/pt-br/3/tutorial/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/ru/3.15/library/os.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/howto/logging-cookbook.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/library/bz2.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/library/csv.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/library/difflib.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/library/functions.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/library/typing.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.12/tutorial/index.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/glossary.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/library/cmd.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/library/cmdline.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/library/http.client.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/using/cmdline.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/using/configure.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/whatsnew/3.8.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.13/whatsnew/3.9.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/improve-page.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/library/glob.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/library/idle.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/library/sys.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/library/telnetlib.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.14/using/windows.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/glossary.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/installing/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/library/profiling.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/library/string.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/library/sys_path_init.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/library/tkinter.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/library/typing.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/tutorial/index.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/tutorial/interpreter.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/tutorial/introduction.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/using/android.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/whatsnew/3.15.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.15/whatsnew/3.9.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/library/csv.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/library/re.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/library/zipfile.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/tutorial/",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/tutorial/introduction.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3.16/whatsnew/3.16.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/builtins/functions.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/c-api/stable.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/extending/building.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/extending/index.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/genindex-O.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/genindex-P.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/howto/sorting.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/asyncio-eventloop.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/cmdline.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/codecs.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/decimal.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/fractions.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/itertools.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/pickle.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/string.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/tkinter.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/tkinter.scrolledtext.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/tracemalloc.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+},
+{
+"name": "/tr/3/library/turtle.html",
+"unique_exits": "1",
+"total_exits": "1",
+"exit_rate": ""
+}
+]
